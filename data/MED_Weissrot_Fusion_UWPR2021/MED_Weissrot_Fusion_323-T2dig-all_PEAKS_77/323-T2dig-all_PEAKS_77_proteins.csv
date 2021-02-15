@@ -1,0 +1,548 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) 323_T2_trypsin,Area 323_T2_trypsin,#Peptides,#Unique,#Spec 323_T2_trypsin,PTM,Avg. Mass,Description
+1,1,gi|54036848,151.16,9,9,4.93E8,9,9,109,Deamidation(N); Pyro-glu from Q,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+7,39069,Thalassiosira_weissflogii_0171390204,137.68,54,54,6.01E7,31,31,64,Oxidation (M); Pyro-glu from Q,20615,Thalassiosira_weissflogii_0171390204
+3,23,tr|A8DP72|A8DP72_THAWE,134.83,27,27,5.61E7,32,32,69,Carbamidomethylation; Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,53326,Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
+3,24,Thalassiosira_weissflogii_0171383444,134.83,27,27,5.61E7,32,32,69,Carbamidomethylation; Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,53546,Thalassiosira_weissflogii_0171383444
+3,25,tr|A8DP83|A8DP83_THAWE,134.83,26,26,5.61E7,32,32,69,Carbamidomethylation; Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,53976,Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
+3,26,tr|A0A089VQA3|A0A089VQA3_THAWE,134.83,26,26,5.61E7,32,32,69,Carbamidomethylation; Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,54332,Ribulose bisphosphate carboxylase large chain OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
+14,99,Thalassiosira_weissflogii_0203627630,132.61,34,34,2.86E6,22,3,44,Deamidation(N); Oxidation(KPRY); Pyro-glu from Q,45285,Thalassiosira_weissflogii_0203627630
+11,6,Thalassiosira_weissflogii_0201860448,125.79,27,27,9.98E5,23,3,40,Deamidation(N); Pyro-glu from Q,32687,Thalassiosira_weissflogii_0201860448
+8,7,Thalassiosira_weissflogii_0203319814,123.32,30,30,3.45E7,20,14,48,Carbamidomethylation,26374,Thalassiosira_weissflogii_0203319814
+8,10,Thalassiosira_weissflogii_0201860518,123.32,18,18,3.45E7,20,14,48,Carbamidomethylation,42433,Thalassiosira_weissflogii_0201860518
+8,11,Thalassiosira_weissflogii_0203473996,123.32,16,16,3.45E7,20,14,48,Carbamidomethylation,46928,Thalassiosira_weissflogii_0203473996
+15,27,Thalassiosira_weissflogii_0203239758,116.98,16,16,1.52E7,15,10,34,Oxidation (M); Oxidation(KPRY),66984,Thalassiosira_weissflogii_0203239758
+18,61,Thalassiosira_weissflogii_0203389878,113.65,26,26,3.62E6,19,10,32,Carbamidomethylation; Oxidation (M); Oxidation(KPRY),46783,Thalassiosira_weissflogii_0203389878
+13,17,Thalassiosira_weissflogii_0203264230,112.77,66,66,5.33E6,24,2,41,Oxidation (M),9829,Thalassiosira_weissflogii_0203264230
+40,359,tr|A0A089VKF1|A0A089VKF1_THAWE,108.75,27,27,1.73E7,8,8,17,,8166,ATP synthase subunit c  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpH PE=3 SV=1
+26,65,tr|A0A089VQJ6|A0A089VQJ6_THAWE,107.56,64,64,5.1E7,12,12,25,Carbamidomethylation; Oxidation (M),8798,Photosystem I iron-sulfur center OS=Thalassiosira weissflogii OX=1577725 GN=psaC PE=3 SV=1
+21,353,Thalassiosira_weissflogii_0203355956,107.08,26,26,2.14E6,14,10,19,Oxidation (M),53122,Thalassiosira_weissflogii_0203355956
+29,39072,Thalassiosira_weissflogii_0203505518,106.97,14,14,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),74830,Thalassiosira_weissflogii_0203505518
+29,21061,Thalassiosira_weissflogii_0203477882,106.97,13,13,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),78048,Thalassiosira_weissflogii_0203477882
+29,21062,Thalassiosira_weissflogii_0203412530,106.97,13,13,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),77884,Thalassiosira_weissflogii_0203412530
+29,39073,Thalassiosira_weissflogii_0203259614,106.97,13,13,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),78761,Thalassiosira_weissflogii_0203259614
+29,39074,Thalassiosira_weissflogii_0203135564,106.97,13,13,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),80315,Thalassiosira_weissflogii_0203135564
+29,39076,Thalassiosira_weissflogii_0203506334,106.97,11,11,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),93240,Thalassiosira_weissflogii_0203506334
+29,39077,Thalassiosira_weissflogii_0203565922,106.97,11,11,1.25E7,13,13,22,Carbamidomethylation; Oxidation (M),94496,Thalassiosira_weissflogii_0203565922
+22,2260,Thalassiosira_weissflogii_0203571294,105.19,10,10,1.43E7,9,9,27,Oxidation(KPRY),67817,Thalassiosira_weissflogii_0203571294
+55,191,Thalassiosira_weissflogii_0201834710,103.70,18,18,5.34E6,8,8,14,Carbamidomethylation,19740,Thalassiosira_weissflogii_0201834710
+55,194,Thalassiosira_weissflogii_0203294158,103.70,18,18,5.34E6,8,8,14,Carbamidomethylation,20115,Thalassiosira_weissflogii_0203294158
+55,187,Thalassiosira_weissflogii_0203382750,103.70,19,19,5.34E6,8,8,14,Carbamidomethylation,18548,Thalassiosira_weissflogii_0203382750
+55,188,Thalassiosira_weissflogii_0203229036,103.70,19,19,5.34E6,8,8,14,Carbamidomethylation,18541,Thalassiosira_weissflogii_0203229036
+55,195,Thalassiosira_weissflogii_0203540620,103.70,19,19,5.34E6,8,8,14,Carbamidomethylation,18633,Thalassiosira_weissflogii_0203540620
+55,190,Thalassiosira_weissflogii_0203261016,103.70,19,19,5.34E6,8,8,14,Carbamidomethylation,18625,Thalassiosira_weissflogii_0203261016
+55,189,Thalassiosira_weissflogii_0203604662,103.70,16,16,5.34E6,8,8,14,Carbamidomethylation,22034,Thalassiosira_weissflogii_0203604662
+55,192,Thalassiosira_weissflogii_0203289348,103.70,15,15,5.34E6,8,8,14,Carbamidomethylation,24482,Thalassiosira_weissflogii_0203289348
+28,148,Thalassiosira_weissflogii_0203566486,103.22,17,17,6.55E6,12,12,18,Carbamidomethylation,54093,Thalassiosira_weissflogii_0203566486
+28,149,Thalassiosira_weissflogii_0203628558,103.22,16,16,6.55E6,12,12,18,Carbamidomethylation,54507,Thalassiosira_weissflogii_0203628558
+24,2,Thalassiosira_weissflogii_0203603364,102.85,29,29,1.18E7,10,10,28,Oxidation (M),22324,Thalassiosira_weissflogii_0203603364
+23,93,tr|A0A089VIM8|A0A089VIM8_THAWE,102.47,17,17,1.72E7,13,12,21,Pyro-glu from Q,54087,ATP synthase subunit alpha  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpA PE=3 SV=1
+16,142,tr|A0A089VKI3|A0A089VKI3_THAWE,101.64,12,12,1.69E7,10,5,39,,39050,Photosystem II D2 protein OS=Thalassiosira weissflogii OX=1577725 GN=psbD PE=3 SV=1
+19,316,Thalassiosira_weissflogii_0201845386,100.91,27,27,2.9E7,16,16,23,Oxidation (M); Pyro-glu from Q,26863,Thalassiosira_weissflogii_0201845386
+20,105,tr|A0A089VQC9|A0A089VQC9_THAWE,100.83,32,32,7.44E6,18,14,24,Oxidation (M); Methylation(KR); Pyro-glu from Q,51179,ATP synthase subunit beta  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpB PE=3 SV=1
+20,107,Thalassiosira_weissflogii_0203290328,100.83,31,31,7.44E6,18,14,24,Oxidation (M); Methylation(KR); Pyro-glu from Q,52626,Thalassiosira_weissflogii_0203290328
+20,106,Thalassiosira_weissflogii_0203202236,100.83,30,30,7.44E6,18,14,24,Oxidation (M); Methylation(KR); Pyro-glu from Q,53820,Thalassiosira_weissflogii_0203202236
+31,20790,Thalassiosira_weissflogii_0203258570,99.08,44,44,3.04E7,12,12,22,Carbamidomethylation; Deamidation(N),16419,Thalassiosira_weissflogii_0203258570
+61,249,Thalassiosira_weissflogii_0203359074,96.81,36,36,7.04E6,6,6,15,Oxidation (M); Pyro-glu from Q,12879,Thalassiosira_weissflogii_0203359074
+9,310,tr|A0A089X953|A0A089X953_THAWE,95.58,27,27,1.45E8,8,8,51,Pyro-glu from Q,9514,Cytochrome b559 subunit alpha OS=Thalassiosira weissflogii OX=1577725 GN=psbE PE=3 SV=1
+44,5194,Thalassiosira_weissflogii_0203362476,91.89,33,33,3E6,8,7,16,Carbamidomethylation,24194,Thalassiosira_weissflogii_0203362476
+49,464,tr|A0A089VKI6|A0A089VKI6_THAWE,91.64,31,31,4.46E6,7,7,12,,15533,Photosystem I subunit II OS=Thalassiosira weissflogii OX=1577725 GN=psaD PE=4 SV=1
+34,516,Thalassiosira_weissflogii_0201768196,91.51,4,4,3.57E6,9,9,15,Pyro-glu from Q,237822,Thalassiosira_weissflogii_0201768196
+27,170,Thalassiosira_weissflogii_0203573894,91.46,28,28,6.75E6,11,7,23,Carbamidomethylation,29008,Thalassiosira_weissflogii_0203573894
+27,172,Thalassiosira_weissflogii_0201829370,91.46,15,15,6.75E6,11,7,23,Carbamidomethylation,54172,Thalassiosira_weissflogii_0201829370
+27,177,Thalassiosira_weissflogii_0203350350,91.46,11,11,6.75E6,11,7,23,Carbamidomethylation,74897,Thalassiosira_weissflogii_0203350350
+36,248,Thalassiosira_weissflogii_0203581516,91.35,7,7,2.14E6,8,7,12,,100447,Thalassiosira_weissflogii_0203581516
+35,39080,Thalassiosira_weissflogii_0203399586,89.58,25,25,8.39E6,7,7,13,,18933,Thalassiosira_weissflogii_0203399586
+52,467,tr|A0A089X8Z4|A0A089X8Z4_THAWE,88.87,33,33,9.7E6,7,7,14,,17751,Cytochrome c-550 OS=Thalassiosira weissflogii OX=1577725 GN=psbV PE=3 SV=1
+38,144,Thalassiosira_weissflogii_0203519974,86.74,12,12,7.49E6,10,9,18,,75057,Thalassiosira_weissflogii_0203519974
+32,291,tr|A0A089VKB7|A0A089VKB7_THAWE,84.93,46,46,9.15E6,10,10,17,Carbamidomethylation,10765,Ferredoxin OS=Thalassiosira weissflogii OX=1577725 GN=petF PE=3 SV=1
+32,292,sp|O98450|FER_THAWE,84.93,46,46,9.15E6,10,10,17,Carbamidomethylation,10765,Ferredoxin OS=Thalassiosira weissflogii OX=1577725 GN=petF PE=3 SV=3
+32,293,Thalassiosira_weissflogii_0203187078,84.93,46,46,9.15E6,10,10,17,Carbamidomethylation,11012,Thalassiosira_weissflogii_0203187078
+30,645,tr|A0A089VIN2|A0A089VIN2_THAWE,84.85,80,80,5.18E7,8,8,19,,7470,Photosystem I reaction center subunit IV OS=Thalassiosira weissflogii OX=1577725 GN=psaE PE=3 SV=1
+33,40,Thalassiosira_weissflogii_0203380632,84.39,12,12,1.55E7,8,6,18,Carbamidomethylation,48650,Thalassiosira_weissflogii_0203380632
+33,41,Thalassiosira_weissflogii_0171353580,84.39,10,10,1.55E7,8,6,18,Carbamidomethylation,59616,Thalassiosira_weissflogii_0171353580
+33,43,Thalassiosira_weissflogii_0201768054,84.39,9,9,1.55E7,8,6,18,Carbamidomethylation,63367,Thalassiosira_weissflogii_0201768054
+80,94,Thalassiosira_weissflogii_0203443172,83.12,9,9,4.1E6,5,5,9,Carbamidomethylation,47681,Thalassiosira_weissflogii_0203443172
+77,155,Thalassiosira_weissflogii_0203296644,82.00,18,18,1.46E6,4,4,5,Carbamidomethylation,27052,Thalassiosira_weissflogii_0203296644
+58,77,Thalassiosira_weissflogii_0171446710,81.34,7,7,2.59E6,9,8,15,Carbamidomethylation,125332,Thalassiosira_weissflogii_0171446710
+45,39081,tr|A0A089X984|A0A089X984_THAWE,80.52,22,22,9.33E6,7,7,9,,22045,50S ribosomal protein L3  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rpl3 PE=3 SV=1
+45,39082,Thalassiosira_weissflogii_0203311806,80.52,22,22,9.33E6,7,7,9,,22131,Thalassiosira_weissflogii_0203311806
+51,80,Thalassiosira_weissflogii_0203204228,79.49,19,19,3.51E6,7,6,8,Pyro-glu from Q,21092,Thalassiosira_weissflogii_0203204228
+39,413,Thalassiosira_weissflogii_0203412222,79.08,14,14,5.3E6,7,7,11,Carbamidomethylation; Oxidation(KPRY),42375,Thalassiosira_weissflogii_0203412222
+39,414,Thalassiosira_weissflogii_0203597848,79.08,13,13,5.3E6,7,7,11,Carbamidomethylation; Oxidation(KPRY),43175,Thalassiosira_weissflogii_0203597848
+39,415,Thalassiosira_weissflogii_0201768036,79.08,13,13,5.3E6,7,7,11,Carbamidomethylation; Oxidation(KPRY),43712,Thalassiosira_weissflogii_0201768036
+56,71,Thalassiosira_weissflogii_0201839298,78.61,8,8,2.33E6,9,9,13,Carbamidomethylation; Deamidation(N),103889,Thalassiosira_weissflogii_0201839298
+56,70,Thalassiosira_weissflogii_0171366442,78.61,8,8,2.33E6,9,9,13,Carbamidomethylation; Deamidation(N),103785,Thalassiosira_weissflogii_0171366442
+74,67,tr|A0A089VKN5|A0A089VKN5_THAWE,78.27,5,5,1.8E6,5,5,7,Oxidation (M),44681,Elongation factor Tu  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=tufA PE=3 SV=1
+74,66,Thalassiosira_weissflogii_0203257228,78.27,5,5,1.8E6,5,5,7,Oxidation (M),44681,Thalassiosira_weissflogii_0203257228
+75,1566,Thalassiosira_weissflogii_0203237080,78.09,6,6,1.22E6,7,7,7,,85926,Thalassiosira_weissflogii_0203237080
+70,39079,Thalassiosira_weissflogii_0203104726,77.02,9,9,1.68E6,5,5,7,Carbamidomethylation,57632,Thalassiosira_weissflogii_0203104726
+70,39078,Thalassiosira_weissflogii_0171355272,77.02,9,9,1.68E6,5,5,7,Carbamidomethylation,57844,Thalassiosira_weissflogii_0171355272
+73,405,Thalassiosira_weissflogii_0201806646,76.47,8,8,4.49E5,5,5,7,Oxidation(KPRY),73591,Thalassiosira_weissflogii_0201806646
+118,100,Thalassiosira_weissflogii_0171384842,76.44,4,4,1.53E6,3,3,5,,93184,Thalassiosira_weissflogii_0171384842
+42,63,tr|A0A089VKD8|A0A089VKD8_THAWE,75.60,37,37,5.39E6,9,9,11,,15813,Ribulose-1 5-bisphosphate carboxylase/oxygenase small subunit OS=Thalassiosira weissflogii OX=1577725 GN=rbcS PE=4 SV=1
+83,230,Thalassiosira_weissflogii_0201861794,75.57,10,10,1.27E4,6,1,7,Carbamidomethylation; Oxidation (M),59190,Thalassiosira_weissflogii_0201861794
+82,224,Thalassiosira_weissflogii_0201800806,75.08,12,12,8.26E4,6,1,7,Carbamidomethylation,51358,Thalassiosira_weissflogii_0201800806
+82,221,Thalassiosira_weissflogii_0203319120,75.08,10,10,8.26E4,6,1,7,Carbamidomethylation,56818,Thalassiosira_weissflogii_0203319120
+82,225,Thalassiosira_weissflogii_0203505570,75.08,10,10,8.26E4,6,1,7,Carbamidomethylation,57097,Thalassiosira_weissflogii_0203505570
+82,226,Thalassiosira_weissflogii_0203566230,75.08,10,10,8.26E4,6,1,7,Carbamidomethylation,58349,Thalassiosira_weissflogii_0203566230
+65,34,Thalassiosira_weissflogii_0201801252,74.82,9,9,4.35E6,4,4,9,,51368,Thalassiosira_weissflogii_0201801252
+65,33,Thalassiosira_weissflogii_0171446742,74.82,7,7,4.35E6,4,4,9,,63737,Thalassiosira_weissflogii_0171446742
+65,32,Thalassiosira_weissflogii_0203321206,74.82,6,6,4.35E6,4,4,9,,69732,Thalassiosira_weissflogii_0203321206
+90,339,Thalassiosira_weissflogii_0203520990,74.48,2,2,6.53E5,4,4,7,Deamidation(N),166480,Thalassiosira_weissflogii_0203520990
+48,237,Thalassiosira_weissflogii_0203204676,73.91,23,23,1.75E7,5,5,10,,13616,Thalassiosira_weissflogii_0203204676
+48,236,Thalassiosira_weissflogii_0203167856,73.91,24,24,1.75E7,5,5,10,,13077,Thalassiosira_weissflogii_0203167856
+48,242,Thalassiosira_weissflogii_0203198822,73.91,10,10,1.75E7,5,5,10,,32023,Thalassiosira_weissflogii_0203198822
+48,238,Thalassiosira_weissflogii_0171353608,73.91,23,23,1.75E7,5,5,10,,14097,Thalassiosira_weissflogii_0171353608
+48,241,Thalassiosira_weissflogii_0203450516,73.91,16,16,1.75E7,5,5,10,,19624,Thalassiosira_weissflogii_0203450516
+81,7863,Thalassiosira_weissflogii_0201783044,72.11,5,5,7.9E5,7,7,8,Carbamidomethylation,107534,Thalassiosira_weissflogii_0201783044
+63,523,Thalassiosira_weissflogii_0201776260,71.89,14,14,4.11E6,4,4,9,,22232,Thalassiosira_weissflogii_0201776260
+69,417,Thalassiosira_weissflogii_0203412232,71.30,7,7,1.38E6,7,7,7,Carbamidomethylation,58000,Thalassiosira_weissflogii_0203412232
+69,406,Thalassiosira_weissflogii_0203138762,71.30,7,7,1.38E6,7,7,7,Carbamidomethylation,59304,Thalassiosira_weissflogii_0203138762
+69,407,Thalassiosira_weissflogii_0203319614,71.30,7,7,1.38E6,7,7,7,Carbamidomethylation,60628,Thalassiosira_weissflogii_0203319614
+69,402,Thalassiosira_weissflogii_0171446626,71.30,6,6,1.38E6,7,7,7,Carbamidomethylation,69792,Thalassiosira_weissflogii_0171446626
+69,408,Thalassiosira_weissflogii_0203504926,71.30,5,5,1.38E6,7,7,7,Carbamidomethylation,76299,Thalassiosira_weissflogii_0203504926
+69,409,Thalassiosira_weissflogii_0203381374,71.30,5,5,1.38E6,7,7,7,Carbamidomethylation,81822,Thalassiosira_weissflogii_0203381374
+69,410,Thalassiosira_weissflogii_0201799292,71.30,5,5,1.38E6,7,7,7,Carbamidomethylation,82543,Thalassiosira_weissflogii_0201799292
+69,404,Thalassiosira_weissflogii_0203535754,71.30,5,5,1.38E6,7,7,7,Carbamidomethylation,83069,Thalassiosira_weissflogii_0203535754
+69,21149,Thalassiosira_weissflogii_0203350290,71.30,5,5,1.38E6,7,7,7,Carbamidomethylation,85123,Thalassiosira_weissflogii_0203350290
+69,39084,Thalassiosira_weissflogii_0201829140,71.30,4,4,1.38E6,7,7,7,Carbamidomethylation,92206,Thalassiosira_weissflogii_0201829140
+53,501,Thalassiosira_weissflogii_0203566122,70.99,7,7,1.6E6,5,3,11,Carbamidomethylation,58481,Thalassiosira_weissflogii_0203566122
+53,499,Thalassiosira_weissflogii_0203476974,70.99,7,7,1.6E6,5,3,11,Carbamidomethylation,58060,Thalassiosira_weissflogii_0203476974
+53,489,Thalassiosira_weissflogii_0203199056,70.99,6,6,1.6E6,5,3,11,Carbamidomethylation,66198,Thalassiosira_weissflogii_0203199056
+86,508,Thalassiosira_weissflogii_0203448720,70.60,8,8,5.67E6,5,5,7,Oxidation (M); Oxidation(KPRY),22090,Thalassiosira_weissflogii_0203448720
+59,243,Thalassiosira_weissflogii_0203264358,70.43,17,17,3.18E6,4,4,6,,21360,Thalassiosira_weissflogii_0203264358
+62,511,Thalassiosira_weissflogii_0203245572,69.15,10,10,3.07E6,7,7,9,,39916,Thalassiosira_weissflogii_0203245572
+71,19,tr|A0A089VKF6|A0A089VKF6_THAWE,67.56,8,8,2.34E6,6,6,9,Methylation(KR); Pyro-glu from Q,56361,Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1
+71,20,Thalassiosira_weissflogii_0203103378,67.56,8,8,2.34E6,6,6,9,Methylation(KR); Pyro-glu from Q,56361,Thalassiosira_weissflogii_0203103378
+41,39086,Thalassiosira_weissflogii_0203497458,67.55,4,4,6.8E5,7,7,9,Carbamidomethylation,169898,Thalassiosira_weissflogii_0203497458
+46,345,Thalassiosira_weissflogii_0171423018,67.51,16,16,4.87E6,6,6,9,Oxidation (M),26951,Thalassiosira_weissflogii_0171423018
+54,16,tr|A0A089VNZ5|A0A089VNZ5_THAWE,66.98,5,5,6.25E6,6,6,10,,83638,Photosystem I P700 chlorophyll a apoprotein A1 OS=Thalassiosira weissflogii OX=1577725 GN=psaA PE=3 SV=1
+79,22816,Thalassiosira_weissflogii_0171369240,66.76,33,33,2.17E6,5,5,9,Carbamidomethylation; Pyro-glu from Q,12382,Thalassiosira_weissflogii_0171369240
+66,39085,Thalassiosira_weissflogii_0203540914,66.45,25,25,7.81E6,4,4,10,,16687,Thalassiosira_weissflogii_0203540914
+43,21,tr|A0A089VKJ7|A0A089VKJ7_THAWE,66.31,16,16,2.55E7,6,6,14,Carbamidomethylation; Oxidation(KPRY),20450,Photosystem I subunit III OS=Thalassiosira weissflogii OX=1577725 GN=psaF PE=4 SV=1
+96,175,Thalassiosira_weissflogii_0203602520,66.13,4,4,5.03E5,3,2,5,,55257,Thalassiosira_weissflogii_0203602520
+140,130,Thalassiosira_weissflogii_0171449500,66.13,5,5,3.8E5,3,3,3,,41793,Thalassiosira_weissflogii_0171449500
+68,14,Thalassiosira_weissflogii_0171348692,64.81,11,11,4.03E6,3,3,7,,28857,Thalassiosira_weissflogii_0171348692
+68,15,tr|A0A089VIP5|A0A089VIP5_THAWE,64.81,9,9,4.03E6,3,3,7,,33988,Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1
+105,39090,tr|A0A089X936|A0A089X936_THAWE,64.39,29,29,1.03E6,5,5,5,Carbamidomethylation,14294,ATP synthase epsilon chain  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpE PE=3 SV=1
+141,39093,Thalassiosira_weissflogii_0203572994,63.90,15,15,9.89E5,3,3,4,,24768,Thalassiosira_weissflogii_0203572994
+141,39094,Thalassiosira_weissflogii_0201807848,63.90,12,12,9.89E5,3,3,4,,29819,Thalassiosira_weissflogii_0201807848
+99,319,Thalassiosira_weissflogii_0171356290,63.79,8,8,1.28E6,5,5,6,,47343,Thalassiosira_weissflogii_0171356290
+64,20860,Thalassiosira_weissflogii_0203386744,63.67,29,29,1.38E6,5,5,8,,15820,Thalassiosira_weissflogii_0203386744
+101,207,Thalassiosira_weissflogii_0203169094,63.33,8,8,4.52E5,6,6,6,Pyro-glu from Q,67934,Thalassiosira_weissflogii_0203169094
+101,209,tr|A0A089VP72|A0A089VP72_THAWE,63.33,8,8,4.52E5,6,6,6,Pyro-glu from Q,69843,ATP-dependent zinc metalloprotease FtsH OS=Thalassiosira weissflogii OX=1577725 GN=ftsH PE=3 SV=1
+109,325,Thalassiosira_weissflogii_0203211260,62.86,3,3,1.72E6,3,3,5,,48610,Thalassiosira_weissflogii_0203211260
+60,39102,Thalassiosira_weissflogii_0201775250,62.28,4,4,4.26E6,6,6,9,,71980,Thalassiosira_weissflogii_0201775250
+50,215,Thalassiosira_weissflogii_0203391506,62.28,14,14,2.89E6,6,5,8,Pyro-glu from Q,26700,Thalassiosira_weissflogii_0203391506
+50,216,Thalassiosira_weissflogii_0203580532,62.28,14,14,2.89E6,6,5,8,Pyro-glu from Q,26802,Thalassiosira_weissflogii_0203580532
+67,304,Thalassiosira_weissflogii_0203598492,61.97,6,6,7.44E5,5,5,5,,84598,Thalassiosira_weissflogii_0203598492
+67,305,Thalassiosira_weissflogii_0201769984,61.97,6,6,7.44E5,5,5,5,,84719,Thalassiosira_weissflogii_0201769984
+72,103,Thalassiosira_weissflogii_0201773708,61.42,13,13,6.81E5,4,1,5,,21231,Thalassiosira_weissflogii_0201773708
+57,111,Thalassiosira_weissflogii_0203627540,60.41,17,17,1.17E7,6,6,9,,23429,Thalassiosira_weissflogii_0203627540
+91,120,Thalassiosira_weissflogii_0203455798,60.39,4,4,2.37E6,3,3,7,,58915,Thalassiosira_weissflogii_0203455798
+91,119,Thalassiosira_weissflogii_0201834746,60.39,4,4,2.37E6,3,3,7,,58864,Thalassiosira_weissflogii_0201834746
+91,122,Thalassiosira_weissflogii_0201768070,60.39,3,3,2.37E6,3,3,7,,63175,Thalassiosira_weissflogii_0201768070
+97,4654,Thalassiosira_weissflogii_0203418580,60.33,2,2,4.31E5,2,2,3,,52409,Thalassiosira_weissflogii_0203418580
+135,139,Thalassiosira_weissflogii_0203258698,60.09,4,4,9.36E5,3,3,5,Carbamidomethylation,67143,Thalassiosira_weissflogii_0203258698
+84,157,Thalassiosira_weissflogii_0171390160,59.78,8,8,1.07E5,6,2,7,Carbamidomethylation; Deamidation(N),58987,Thalassiosira_weissflogii_0171390160
+84,158,Thalassiosira_weissflogii_0171357300,59.78,6,6,1.07E5,6,2,7,Carbamidomethylation; Deamidation(N),78240,Thalassiosira_weissflogii_0171357300
+76,39088,Thalassiosira_weissflogii_0201822442,59.56,34,34,3.93E6,5,5,8,,11225,Thalassiosira_weissflogii_0201822442
+76,39089,tr|A0A089X927|A0A089X927_THAWE,59.56,28,28,3.93E6,5,5,8,,13607,50S ribosomal protein L12  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rpl12 PE=3 SV=1
+146,39096,Thalassiosira_weissflogii_0203505514,59.31,3,3,4.76E5,2,2,4,,72228,Thalassiosira_weissflogii_0203505514
+89,169,Thalassiosira_weissflogii_0201804342,58.80,8,8,6.93E5,5,5,6,Carbamidomethylation,47701,Thalassiosira_weissflogii_0201804342
+162,126,Thalassiosira_weissflogii_0203324490,58.49,15,15,2.65E5,4,4,4,,25114,Thalassiosira_weissflogii_0203324490
+162,125,Thalassiosira_weissflogii_0203571564,58.49,16,16,2.65E5,4,4,4,,23711,Thalassiosira_weissflogii_0203571564
+85,159,Thalassiosira_weissflogii_0203203762,57.92,13,13,1.6E6,6,4,6,Pyro-glu from Q,21802,Thalassiosira_weissflogii_0203203762
+85,160,Thalassiosira_weissflogii_0203386012,57.92,13,13,1.6E6,6,4,6,Pyro-glu from Q,22430,Thalassiosira_weissflogii_0203386012
+157,31,tr|A0A089VIJ5|A0A089VIJ5_THAWE,57.81,2,2,3.13E5,1,1,2,Carbamidomethylation,81999,Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1
+94,314,Thalassiosira_weissflogii_0171402288,57.63,4,4,1.99E6,3,3,7,,80690,Thalassiosira_weissflogii_0171402288
+126,354,Thalassiosira_weissflogii_0203541550,57.41,17,17,6.4E5,3,3,5,,16958,Thalassiosira_weissflogii_0203541550
+100,27743,Thalassiosira_weissflogii_0171448610,56.34,4,4,1.02E6,3,3,4,Carbamidomethylation,89422,Thalassiosira_weissflogii_0171448610
+78,39099,Thalassiosira_weissflogii_0203596464,56.26,5,5,8.45E5,4,4,8,,83184,Thalassiosira_weissflogii_0203596464
+78,39100,Thalassiosira_weissflogii_0203350354,56.26,5,5,8.45E5,4,4,8,,88842,Thalassiosira_weissflogii_0203350354
+78,39101,Thalassiosira_weissflogii_0201768056,56.26,4,4,8.45E5,4,4,8,,91280,Thalassiosira_weissflogii_0201768056
+88,153,Thalassiosira_weissflogii_0203412220,56.26,7,7,1.11E5,5,1,5,Carbamidomethylation,62095,Thalassiosira_weissflogii_0203412220
+116,427,Thalassiosira_weissflogii_0171368876,56.21,9,9,8.55E5,3,3,3,,39087,Thalassiosira_weissflogii_0171368876
+87,285,Thalassiosira_weissflogii_0203520826,55.90,5,5,3.15E6,3,3,5,,35064,Thalassiosira_weissflogii_0203520826
+87,284,Thalassiosira_weissflogii_0203366844,55.90,3,3,3.15E6,3,3,5,,55376,Thalassiosira_weissflogii_0203366844
+128,443,Thalassiosira_weissflogii_0201769216,55.58,15,15,9.63E5,2,2,4,,16858,Thalassiosira_weissflogii_0201769216
+106,24912,Thalassiosira_weissflogii_0201834216,54.90,3,3,7.05E4,2,2,2,,63781,Thalassiosira_weissflogii_0201834216
+106,39107,tr|A0A089VQG9|A0A089VQG9_THAWE,54.90,3,3,7.05E4,2,2,2,,67173,Chaperone protein DnaK OS=Thalassiosira weissflogii OX=1577725 GN=dnaK PE=3 SV=1
+120,113,Thalassiosira_weissflogii_0203198508,54.73,6,6,1.79E6,4,4,5,Carbamidomethylation,59252,Thalassiosira_weissflogii_0203198508
+120,114,Thalassiosira_weissflogii_0203137132,54.73,6,6,1.79E6,4,4,5,Carbamidomethylation,62088,Thalassiosira_weissflogii_0203137132
+120,115,Thalassiosira_weissflogii_0203168594,54.73,6,6,1.79E6,4,4,5,Carbamidomethylation,62573,Thalassiosira_weissflogii_0203168594
+120,116,Thalassiosira_weissflogii_0203105640,54.73,6,6,1.79E6,4,4,5,Carbamidomethylation,62658,Thalassiosira_weissflogii_0203105640
+120,117,Thalassiosira_weissflogii_0171446648,54.73,6,6,1.79E6,4,4,5,Carbamidomethylation,62997,Thalassiosira_weissflogii_0171446648
+120,118,Thalassiosira_weissflogii_0171415682,54.73,5,5,1.79E6,4,4,5,Carbamidomethylation,64409,Thalassiosira_weissflogii_0171415682
+120,123,Thalassiosira_weissflogii_0201769678,54.73,4,4,1.79E6,4,4,5,Carbamidomethylation,80603,Thalassiosira_weissflogii_0201769678
+120,124,Thalassiosira_weissflogii_0203474176,54.73,4,4,1.79E6,4,4,5,Carbamidomethylation,88647,Thalassiosira_weissflogii_0203474176
+47,48,Thalassiosira_weissflogii_0203215658,53.83,8,8,1.32E6,3,3,4,,41911,Thalassiosira_weissflogii_0203215658
+47,47,tr|A0A089VPE6|A0A089VPE6_THAWE,53.83,8,8,1.32E6,3,3,4,,39725,Photosystem II protein D1 OS=Thalassiosira weissflogii OX=1577725 GN=psbA PE=3 SV=1
+47,98,tr|A0A1W6FBN1|A0A1W6FBN1_THAWE,53.83,9,9,1.32E6,3,3,4,,36701,Photosystem II protein D1 (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=psbA PE=3 SV=1
+131,39145,Thalassiosira_weissflogii_0171407120,53.81,18,18,1.29E6,3,3,4,,12608,Thalassiosira_weissflogii_0171407120
+133,460,Thalassiosira_weissflogii_0203415430,53.79,6,6,3.26E5,3,3,4,Deamidation(N),45966,Thalassiosira_weissflogii_0203415430
+133,459,Thalassiosira_weissflogii_0171358472,53.79,6,6,3.26E5,3,3,4,Deamidation(N),46566,Thalassiosira_weissflogii_0171358472
+133,461,Thalassiosira_weissflogii_0201864688,53.79,8,8,3.26E5,3,3,4,Deamidation(N),37010,Thalassiosira_weissflogii_0201864688
+133,462,Thalassiosira_weissflogii_0203539640,53.79,6,6,3.26E5,3,3,4,Deamidation(N),45015,Thalassiosira_weissflogii_0203539640
+133,456,Thalassiosira_weissflogii_0203509184,53.79,7,7,3.26E5,3,3,4,Deamidation(N),39437,Thalassiosira_weissflogii_0203509184
+133,458,Thalassiosira_weissflogii_0171420470,53.79,10,10,3.26E5,3,3,4,Deamidation(N),28334,Thalassiosira_weissflogii_0171420470
+107,444,Thalassiosira_weissflogii_0203386088,53.48,5,5,6.89E5,2,1,2,,36066,Thalassiosira_weissflogii_0203386088
+102,39114,Thalassiosira_weissflogii_0203613760,53.40,34,34,5.62E5,4,4,4,Oxidation (M),11493,Thalassiosira_weissflogii_0203613760
+113,39138,Thalassiosira_weissflogii_0171336756,52.72,15,15,1.52E6,2,2,4,,16521,Thalassiosira_weissflogii_0171336756
+113,39139,Thalassiosira_weissflogii_0171368712,52.72,15,15,1.52E6,2,2,4,,16575,Thalassiosira_weissflogii_0171368712
+113,39140,Thalassiosira_weissflogii_0171434410,52.72,15,15,1.52E6,2,2,4,,16759,Thalassiosira_weissflogii_0171434410
+113,39143,Thalassiosira_weissflogii_0203448400,52.72,15,15,1.52E6,2,2,4,,16936,Thalassiosira_weissflogii_0203448400
+113,39141,Thalassiosira_weissflogii_0203397466,52.72,15,15,1.52E6,2,2,4,,16828,Thalassiosira_weissflogii_0203397466
+113,39142,Thalassiosira_weissflogii_0201835990,52.72,15,15,1.52E6,2,2,4,,16858,Thalassiosira_weissflogii_0201835990
+155,349,Thalassiosira_weissflogii_0171393296,52.47,4,4,2.04E5,2,2,2,,68578,Thalassiosira_weissflogii_0171393296
+152,903,Thalassiosira_weissflogii_0203407640,51.91,7,7,5.17E5,3,3,4,Carbamidomethylation,43350,Thalassiosira_weissflogii_0203407640
+148,283,Thalassiosira_weissflogii_0203386184,51.28,9,9,3.74E5,2,2,4,Oxidation (M),21385,Thalassiosira_weissflogii_0203386184
+167,39118,Thalassiosira_weissflogii_0203183002,51.09,8,8,4.32E5,2,2,3,Carbamidomethylation,36908,Thalassiosira_weissflogii_0203183002
+167,39119,Thalassiosira_weissflogii_0201786012,51.09,8,8,4.32E5,2,2,3,Carbamidomethylation,38393,Thalassiosira_weissflogii_0201786012
+123,25796,Thalassiosira_weissflogii_0201860412,50.98,2,2,5.2E5,2,2,6,,120466,Thalassiosira_weissflogii_0201860412
+138,272,Thalassiosira_weissflogii_0201828982,50.86,7,7,9.27E5,3,3,3,,51037,Thalassiosira_weissflogii_0201828982
+138,271,Thalassiosira_weissflogii_0171334830,50.86,8,8,9.27E5,3,3,3,,46966,Thalassiosira_weissflogii_0171334830
+138,273,Thalassiosira_weissflogii_0201801470,50.86,7,7,9.27E5,3,3,3,,54899,Thalassiosira_weissflogii_0201801470
+103,3108,Thalassiosira_weissflogii_0203311800,50.69,6,6,7.18E5,3,3,6,,46404,Thalassiosira_weissflogii_0203311800
+169,39126,Thalassiosira_weissflogii_0201757792,50.67,3,3,3.3E5,1,1,2,Carbamidomethylation,35074,Thalassiosira_weissflogii_0201757792
+194,39144,Thalassiosira_weissflogii_0203383964,50.54,3,3,2.44E5,2,2,3,Carbamidomethylation,74954,Thalassiosira_weissflogii_0203383964
+194,39146,Thalassiosira_weissflogii_0203477356,50.54,3,3,2.44E5,2,2,3,Carbamidomethylation,61281,Thalassiosira_weissflogii_0203477356
+194,39147,Thalassiosira_weissflogii_0203353274,50.54,3,3,2.44E5,2,2,3,Carbamidomethylation,61463,Thalassiosira_weissflogii_0203353274
+194,39148,Thalassiosira_weissflogii_0203632302,50.54,3,3,2.44E5,2,2,3,Carbamidomethylation,72052,Thalassiosira_weissflogii_0203632302
+194,39149,Thalassiosira_weissflogii_0171356274,50.54,2,2,2.44E5,2,2,3,Carbamidomethylation,100462,Thalassiosira_weissflogii_0171356274
+194,39150,Thalassiosira_weissflogii_0203168354,50.54,2,2,2.44E5,2,2,3,Carbamidomethylation,102505,Thalassiosira_weissflogii_0203168354
+117,39104,Thalassiosira_weissflogii_0203479218,50.49,7,7,5.67E5,4,4,5,Carbamidomethylation,53480,Thalassiosira_weissflogii_0203479218
+170,39156,Thalassiosira_weissflogii_0203319140,50.31,3,3,4.4E5,2,2,2,Carbamidomethylation,43864,Thalassiosira_weissflogii_0203319140
+156,435,Thalassiosira_weissflogii_0203249050,50.20,5,5,7.94E4,3,1,3,,47983,Thalassiosira_weissflogii_0203249050
+98,1073,Thalassiosira_weissflogii_0203176104,49.69,3,3,4.85E5,1,1,1,,36010,Thalassiosira_weissflogii_0203176104
+98,1074,Thalassiosira_weissflogii_0203395622,49.69,2,2,4.85E5,1,1,1,,37003,Thalassiosira_weissflogii_0203395622
+110,39105,Thalassiosira_weissflogii_0203294658,49.08,16,16,4.56E5,3,3,4,Oxidation (M),17535,Thalassiosira_weissflogii_0203294658
+121,39108,Thalassiosira_weissflogii_0171372482,48.75,6,6,6.2E5,3,3,4,,35580,Thalassiosira_weissflogii_0171372482
+108,143,Thalassiosira_weissflogii_0203358160,48.48,5,5,2.31E6,2,2,3,,21786,Thalassiosira_weissflogii_0203358160
+174,252,Thalassiosira_weissflogii_0201801010,48.16,5,5,2.03E5,3,3,3,Carbamidomethylation,61130,Thalassiosira_weissflogii_0201801010
+174,254,Thalassiosira_weissflogii_0203551214,48.16,5,5,2.03E5,3,3,3,Carbamidomethylation,61469,Thalassiosira_weissflogii_0203551214
+174,251,Thalassiosira_weissflogii_0203481454,48.16,6,6,2.03E5,3,3,3,Carbamidomethylation,59931,Thalassiosira_weissflogii_0203481454
+174,253,Thalassiosira_weissflogii_0171390026,48.16,5,5,2.03E5,3,3,3,Carbamidomethylation,61779,Thalassiosira_weissflogii_0171390026
+114,168,Thalassiosira_weissflogii_0171330038,48.03,10,10,1.03E6,2,2,3,Oxidation (M),24078,Thalassiosira_weissflogii_0171330038
+95,281,Thalassiosira_weissflogii_0201827616,47.45,5,5,9.6E4,3,3,3,Carbamidomethylation,62612,Thalassiosira_weissflogii_0201827616
+139,39158,Thalassiosira_weissflogii_0171329804,46.07,6,6,2.62E6,1,1,3,,18537,Thalassiosira_weissflogii_0171329804
+185,39128,Thalassiosira_weissflogii_0203079806,46.02,6,6,2.82E5,3,3,3,,41010,Thalassiosira_weissflogii_0203079806
+202,156,Thalassiosira_weissflogii_0171418338,45.68,12,12,4.46E5,3,3,3,Pyro-glu from Q,21099,Thalassiosira_weissflogii_0171418338
+188,469,Thalassiosira_weissflogii_0203352472,45.62,1,1,4.65E4,2,2,2,Carbamidomethylation,326722,Thalassiosira_weissflogii_0203352472
+93,96,Thalassiosira_weissflogii_0203204888,45.59,1,1,7.12E4,1,1,2,,140088,Thalassiosira_weissflogii_0203204888
+124,426,Thalassiosira_weissflogii_0203122474,45.56,3,3,6.07E5,3,3,3,,114920,Thalassiosira_weissflogii_0203122474
+159,868,Thalassiosira_weissflogii_0201745822,45.53,2,2,4.63E4,2,2,2,Carbamidomethylation,96074,Thalassiosira_weissflogii_0201745822
+173,376,Thalassiosira_weissflogii_0171446960,45.02,2,2,7.53E5,3,3,4,,79982,Thalassiosira_weissflogii_0171446960
+173,381,Thalassiosira_weissflogii_0171415738,45.02,2,2,7.53E5,3,3,4,,68100,Thalassiosira_weissflogii_0171415738
+173,388,Thalassiosira_weissflogii_0171354090,45.02,2,2,7.53E5,3,3,4,,67006,Thalassiosira_weissflogii_0171354090
+134,634,Thalassiosira_weissflogii_0203273400,44.29,6,6,9.26E5,2,1,6,Carbamidomethylation,25096,Thalassiosira_weissflogii_0203273400
+134,625,Thalassiosira_weissflogii_0203522088,44.29,6,6,9.26E5,2,1,6,Carbamidomethylation,26794,Thalassiosira_weissflogii_0203522088
+134,635,Thalassiosira_weissflogii_0201778388,44.29,6,6,9.26E5,2,1,6,Carbamidomethylation,26716,Thalassiosira_weissflogii_0201778388
+112,26750,Thalassiosira_weissflogii_0203138488,43.61,5,5,4.18E6,3,3,4,,21483,Thalassiosira_weissflogii_0203138488
+112,26741,Thalassiosira_weissflogii_0203335504,43.61,7,7,4.18E6,3,3,4,,15223,Thalassiosira_weissflogii_0203335504
+112,26751,Thalassiosira_weissflogii_0203628552,43.61,5,5,4.18E6,3,3,4,,21293,Thalassiosira_weissflogii_0203628552
+145,39125,Thalassiosira_weissflogii_0201808416,42.80,4,4,1.54E5,2,2,4,,50570,Thalassiosira_weissflogii_0201808416
+127,9276,Thalassiosira_weissflogii_0201768374,42.50,3,3,8.4E4,1,1,1,,32815,Thalassiosira_weissflogii_0201768374
+216,39129,Thalassiosira_weissflogii_0203145968,41.98,2,2,1.17E5,1,1,1,,49775,Thalassiosira_weissflogii_0203145968
+160,39157,Thalassiosira_weissflogii_0203519424,41.92,2,2,1.29E6,2,2,3,,88436,Thalassiosira_weissflogii_0203519424
+142,39103,Thalassiosira_weissflogii_0203140972,41.23,7,7,1.21E5,2,1,4,Carbamidomethylation,25984,Thalassiosira_weissflogii_0203140972
+187,108,Thalassiosira_weissflogii_0201746798,41.01,2,2,4.05E5,2,2,2,Carbamidomethylation,93086,Thalassiosira_weissflogii_0201746798
+195,39206,tr|A0A089VQH8|A0A089VQH8_THAWE,40.92,19,19,2.32E6,2,2,3,,9559,50S ribosomal protein L29  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rpl29 PE=3 SV=1
+179,39111,Thalassiosira_weissflogii_0203363640,40.89,6,6,7.01E5,2,2,2,,30994,Thalassiosira_weissflogii_0203363640
+179,39112,Thalassiosira_weissflogii_0201836810,40.89,5,5,7.01E5,2,2,2,,31352,Thalassiosira_weissflogii_0201836810
+179,39113,Thalassiosira_weissflogii_0203277698,40.89,6,6,7.01E5,2,2,2,,26841,Thalassiosira_weissflogii_0203277698
+179,39116,Thalassiosira_weissflogii_0203258884,40.89,5,5,7.01E5,2,2,2,,34897,Thalassiosira_weissflogii_0203258884
+179,39117,Thalassiosira_weissflogii_0203319212,40.89,3,3,7.01E5,2,2,2,,52369,Thalassiosira_weissflogii_0203319212
+182,334,Thalassiosira_weissflogii_0203445568,40.50,3,3,2.35E5,2,2,2,Carbamidomethylation,87157,Thalassiosira_weissflogii_0203445568
+182,333,Thalassiosira_weissflogii_0203381698,40.50,3,3,2.35E5,2,2,2,Carbamidomethylation,84878,Thalassiosira_weissflogii_0203381698
+182,335,Thalassiosira_weissflogii_0201799320,40.50,3,3,2.35E5,2,2,2,Carbamidomethylation,104874,Thalassiosira_weissflogii_0201799320
+182,336,Thalassiosira_weissflogii_0203321014,40.50,2,2,2.35E5,2,2,2,Carbamidomethylation,107703,Thalassiosira_weissflogii_0203321014
+182,337,Thalassiosira_weissflogii_0203475168,40.50,2,2,2.35E5,2,2,2,Carbamidomethylation,110799,Thalassiosira_weissflogii_0203475168
+182,338,Thalassiosira_weissflogii_0203506230,40.50,2,2,2.35E5,2,2,2,Carbamidomethylation,117499,Thalassiosira_weissflogii_0203506230
+149,644,Thalassiosira_weissflogii_0203277612,40.46,19,19,2.37E6,1,1,5,,5756,Thalassiosira_weissflogii_0203277612
+212,150,Thalassiosira_weissflogii_0171394290,40.43,1,1,2.52E5,1,1,1,Carbamidomethylation,111652,Thalassiosira_weissflogii_0171394290
+151,39132,Thalassiosira_weissflogii_0203217024,39.84,1,1,1.91E5,1,1,1,Carbamidomethylation,69908,Thalassiosira_weissflogii_0203217024
+104,450,Thalassiosira_weissflogii_0203104108,39.74,9,9,2.48E6,2,2,5,,12050,Thalassiosira_weissflogii_0203104108
+137,39225,Thalassiosira_weissflogii_0201804746,39.61,4,4,3.21E5,2,2,3,,27828,Thalassiosira_weissflogii_0201804746
+92,386,Thalassiosira_weissflogii_0203397068,39.52,10,10,7.51E5,1,1,7,Oxidation (M),14970,Thalassiosira_weissflogii_0203397068
+168,39182,Thalassiosira_weissflogii_0203179192,39.35,6,6,4.14E5,1,1,4,,19304,Thalassiosira_weissflogii_0203179192
+163,301,Thalassiosira_weissflogii_0203150356,39.27,6,6,4.29E5,2,2,3,,26581,Thalassiosira_weissflogii_0203150356
+163,302,Thalassiosira_weissflogii_0171390886,39.27,6,6,4.29E5,2,2,3,,26616,Thalassiosira_weissflogii_0171390886
+238,39200,Thalassiosira_weissflogii_0201811320,38.57,1,1,3.61E4,1,1,1,,176332,Thalassiosira_weissflogii_0201811320
+115,39124,Thalassiosira_weissflogii_0203374984,38.40,10,10,1.97E5,2,2,2,,22401,Thalassiosira_weissflogii_0203374984
+115,39120,Thalassiosira_weissflogii_0201846194,38.40,10,10,1.97E5,2,2,2,,21179,Thalassiosira_weissflogii_0201846194
+115,39121,Thalassiosira_weissflogii_0203178168,38.40,10,10,1.97E5,2,2,2,,21571,Thalassiosira_weissflogii_0203178168
+115,39122,Thalassiosira_weissflogii_0171411736,38.40,10,10,1.97E5,2,2,2,,22169,Thalassiosira_weissflogii_0171411736
+115,39123,Thalassiosira_weissflogii_0203156718,38.40,10,10,1.97E5,2,2,2,,22547,Thalassiosira_weissflogii_0203156718
+166,212,Thalassiosira_weissflogii_0203627594,38.10,3,3,5.3E5,2,2,2,Carbamidomethylation,53619,Thalassiosira_weissflogii_0203627594
+166,213,Thalassiosira_weissflogii_0203261572,38.10,3,3,5.3E5,2,2,2,Carbamidomethylation,53659,Thalassiosira_weissflogii_0203261572
+183,255,Thalassiosira_weissflogii_0203082924,38.03,7,7,2.81E5,2,2,3,Pyro-glu from Q,28271,Thalassiosira_weissflogii_0203082924
+407,470,Thalassiosira_weissflogii_0203584202,38.02,3,3,4E4,1,1,1,,40357,Thalassiosira_weissflogii_0203584202
+158,696,Thalassiosira_weissflogii_0203362160,37.74,3,3,4.25E5,1,1,2,Carbamidomethylation,27040,Thalassiosira_weissflogii_0203362160
+204,39190,Thalassiosira_weissflogii_0203171318,37.46,1,1,6.5E5,1,1,2,,62580,Thalassiosira_weissflogii_0203171318
+204,39185,Thalassiosira_weissflogii_0171386104,37.46,1,1,6.5E5,1,1,2,,67757,Thalassiosira_weissflogii_0171386104
+204,39181,Thalassiosira_weissflogii_0203382560,37.46,1,1,6.5E5,1,1,2,,68301,Thalassiosira_weissflogii_0203382560
+204,39184,Thalassiosira_weissflogii_0203140510,37.46,2,2,6.5E5,1,1,2,,57387,Thalassiosira_weissflogii_0203140510
+144,311,Thalassiosira_weissflogii_0201805882,37.35,7,7,5.61E5,2,2,2,,25794,Thalassiosira_weissflogii_0201805882
+192,82,Thalassiosira_weissflogii_0203217746,36.85,4,4,3.36E4,2,2,2,,74246,Thalassiosira_weissflogii_0203217746
+215,39159,Thalassiosira_weissflogii_0203334868,36.76,7,7,1.42E5,2,2,3,Carbamidomethylation; Oxidation (M),37806,Thalassiosira_weissflogii_0203334868
+215,39160,Thalassiosira_weissflogii_0171419232,36.76,7,7,1.42E5,2,2,3,Carbamidomethylation; Oxidation (M),39130,Thalassiosira_weissflogii_0171419232
+119,39356,Thalassiosira_weissflogii_0203350654,36.64,5,5,7.13E5,2,2,3,,24020,Thalassiosira_weissflogii_0203350654
+119,39353,Thalassiosira_weissflogii_0203229676,36.64,5,5,7.13E5,2,2,3,,24216,Thalassiosira_weissflogii_0203229676
+186,822,Thalassiosira_weissflogii_0203332052,36.64,8,8,5.18E5,2,2,2,,28559,Thalassiosira_weissflogii_0203332052
+210,39115,Thalassiosira_weissflogii_0203090354,36.63,5,5,6.24E5,1,1,2,,30001,Thalassiosira_weissflogii_0203090354
+178,537,Thalassiosira_weissflogii_0203323482,36.49,2,2,4.94E5,2,2,3,Carbamidomethylation,109686,Thalassiosira_weissflogii_0203323482
+178,534,Thalassiosira_weissflogii_0201799728,36.49,2,2,4.94E5,2,2,3,Carbamidomethylation,110574,Thalassiosira_weissflogii_0201799728
+178,535,Thalassiosira_weissflogii_0203263024,36.49,2,2,4.94E5,2,2,3,Carbamidomethylation,111902,Thalassiosira_weissflogii_0203263024
+147,602,tr|A0A089X914|A0A089X914_THAWE,36.43,9,9,2.33E5,2,2,2,,20849,ATP synthase subunit b  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpF PE=3 SV=1
+217,422,Thalassiosira_weissflogii_0171421366,36.40,4,4,5.05E5,1,1,3,,27428,Thalassiosira_weissflogii_0171421366
+228,609,Thalassiosira_weissflogii_0203168302,36.15,1,1,2.71E4,1,1,1,,187089,Thalassiosira_weissflogii_0203168302
+243,1925,Thalassiosira_weissflogii_0203389058,35.96,4,4,1.04E5,1,1,1,,27835,Thalassiosira_weissflogii_0203389058
+235,4691,Thalassiosira_weissflogii_0203230902,35.73,2,2,7.54E4,2,2,2,,120829,Thalassiosira_weissflogii_0203230902
+235,3052,Thalassiosira_weissflogii_0203505328,35.73,2,2,7.54E4,2,2,2,,138494,Thalassiosira_weissflogii_0203505328
+235,3053,Thalassiosira_weissflogii_0171385350,35.73,2,2,7.54E4,2,2,2,,138690,Thalassiosira_weissflogii_0171385350
+235,3054,Thalassiosira_weissflogii_0171447308,35.73,2,2,7.54E4,2,2,2,,139363,Thalassiosira_weissflogii_0171447308
+235,3055,Thalassiosira_weissflogii_0203350902,35.73,2,2,7.54E4,2,2,2,,140796,Thalassiosira_weissflogii_0203350902
+235,3057,Thalassiosira_weissflogii_0201860766,35.73,2,2,7.54E4,2,2,2,,144992,Thalassiosira_weissflogii_0201860766
+235,3058,Thalassiosira_weissflogii_0203319670,35.73,2,2,7.54E4,2,2,2,,151048,Thalassiosira_weissflogii_0203319670
+235,3059,Thalassiosira_weissflogii_0203135946,35.73,2,2,7.54E4,2,2,2,,152703,Thalassiosira_weissflogii_0203135946
+235,3060,Thalassiosira_weissflogii_0203200254,35.73,2,2,7.54E4,2,2,2,,153962,Thalassiosira_weissflogii_0203200254
+235,39169,Thalassiosira_weissflogii_0203474240,35.73,4,4,7.54E4,2,2,2,,52673,Thalassiosira_weissflogii_0203474240
+211,795,Thalassiosira_weissflogii_0203350314,35.48,10,10,1.36E5,2,2,2,,17821,Thalassiosira_weissflogii_0203350314
+209,102,Thalassiosira_weissflogii_0171367858,35.39,3,3,1.99E5,1,1,1,Carbamidomethylation,31347,Thalassiosira_weissflogii_0171367858
+132,39155,Thalassiosira_weissflogii_0171348256,35.15,4,4,6.19E5,2,2,4,,48509,Thalassiosira_weissflogii_0171348256
+132,39154,Thalassiosira_weissflogii_0203507348,35.15,5,5,6.19E5,2,2,4,,43607,Thalassiosira_weissflogii_0203507348
+132,39153,Thalassiosira_weissflogii_0201847440,35.15,4,4,6.19E5,2,2,4,,48578,Thalassiosira_weissflogii_0201847440
+111,259,Thalassiosira_weissflogii_0203305774,34.89,6,6,7.9E5,2,2,4,,37155,Thalassiosira_weissflogii_0203305774
+242,2738,Thalassiosira_weissflogii_0171328100,34.78,3,3,7.15E4,1,1,1,,47158,Thalassiosira_weissflogii_0171328100
+203,39171,Thalassiosira_weissflogii_0203263138,34.58,6,6,3.69E5,2,2,3,,26104,Thalassiosira_weissflogii_0203263138
+203,39170,Thalassiosira_weissflogii_0171385732,34.58,6,6,3.69E5,2,2,3,,25901,Thalassiosira_weissflogii_0171385732
+254,39163,Thalassiosira_weissflogii_0201855018,34.45,6,6,3.39E5,2,2,2,,31427,Thalassiosira_weissflogii_0201855018
+254,39164,Thalassiosira_weissflogii_0201787432,34.45,6,6,3.39E5,2,2,2,,31390,Thalassiosira_weissflogii_0201787432
+175,39130,Thalassiosira_weissflogii_0203392864,34.42,3,3,4.31E5,2,2,2,,51201,Thalassiosira_weissflogii_0203392864
+207,9603,Thalassiosira_weissflogii_0203108634,34.16,1,1,2.83E5,1,1,1,,62461,Thalassiosira_weissflogii_0203108634
+207,9614,Thalassiosira_weissflogii_0201801436,34.16,1,1,2.83E5,1,1,1,,70760,Thalassiosira_weissflogii_0201801436
+207,9615,Thalassiosira_weissflogii_0203168964,34.16,1,1,2.83E5,1,1,1,,71146,Thalassiosira_weissflogii_0203168964
+207,9606,Thalassiosira_weissflogii_0203323472,34.16,1,1,2.83E5,1,1,1,,65084,Thalassiosira_weissflogii_0203323472
+150,327,Thalassiosira_weissflogii_0203613796,34.04,9,9,3.35E5,2,2,2,,21033,Thalassiosira_weissflogii_0203613796
+153,393,Thalassiosira_weissflogii_0203599302,33.99,2,2,3.61E5,1,1,1,,74659,Thalassiosira_weissflogii_0203599302
+153,394,Thalassiosira_weissflogii_0201770288,33.99,2,2,3.61E5,1,1,1,,74792,Thalassiosira_weissflogii_0201770288
+153,392,Thalassiosira_weissflogii_0171385242,33.99,2,2,3.61E5,1,1,1,,74276,Thalassiosira_weissflogii_0171385242
+184,732,Thalassiosira_weissflogii_0203452420,33.82,1,1,1.58E5,1,1,1,,126454,Thalassiosira_weissflogii_0203452420
+184,730,Thalassiosira_weissflogii_0201799406,33.82,1,1,1.58E5,1,1,1,,125355,Thalassiosira_weissflogii_0201799406
+184,731,Thalassiosira_weissflogii_0203598524,33.82,1,1,1.58E5,1,1,1,,125335,Thalassiosira_weissflogii_0203598524
+184,729,Thalassiosira_weissflogii_0203322302,33.82,1,1,1.58E5,1,1,1,,121683,Thalassiosira_weissflogii_0203322302
+184,744,Thalassiosira_weissflogii_0203289744,33.82,1,1,1.58E5,1,1,1,,129369,Thalassiosira_weissflogii_0203289744
+223,705,Thalassiosira_weissflogii_0203352244,33.43,0,0,1.38E5,1,1,1,,396314,Thalassiosira_weissflogii_0203352244
+213,39279,Thalassiosira_weissflogii_0171421372,33.37,9,9,2.04E5,1,1,1,,13387,Thalassiosira_weissflogii_0171421372
+208,39168,Thalassiosira_weissflogii_0203596428,33.31,3,3,2.29E5,1,1,1,,30007,Thalassiosira_weissflogii_0203596428
+130,39288,Thalassiosira_weissflogii_0203349376,33.30,5,5,2.43E6,1,1,4,,15679,Thalassiosira_weissflogii_0203349376
+130,39289,Thalassiosira_weissflogii_0201756690,33.30,5,5,2.43E6,1,1,4,,15983,Thalassiosira_weissflogii_0201756690
+408,39230,Thalassiosira_weissflogii_0203289322,33.07,1,1,3.46E4,1,1,1,,104939,Thalassiosira_weissflogii_0203289322
+219,39135,Thalassiosira_weissflogii_0203216570,33.02,7,7,1.36E5,2,2,2,,23028,Thalassiosira_weissflogii_0203216570
+248,39234,Thalassiosira_weissflogii_0203412924,32.86,2,2,3.32E5,2,2,2,,41400,Thalassiosira_weissflogii_0203412924
+248,39236,Thalassiosira_weissflogii_0203201044,32.86,2,2,3.32E5,2,2,2,,41946,Thalassiosira_weissflogii_0203201044
+248,39237,Thalassiosira_weissflogii_0203443264,32.86,2,2,3.32E5,2,2,2,,42612,Thalassiosira_weissflogii_0203443264
+248,39238,Thalassiosira_weissflogii_0203501738,32.86,2,2,3.32E5,2,2,2,,44243,Thalassiosira_weissflogii_0203501738
+248,39233,Thalassiosira_weissflogii_0171387816,32.86,3,3,3.32E5,2,2,2,,40011,Thalassiosira_weissflogii_0171387816
+248,39235,Thalassiosira_weissflogii_0201772508,32.86,2,2,3.32E5,2,2,2,,41270,Thalassiosira_weissflogii_0201772508
+248,39239,Thalassiosira_weissflogii_0203228636,32.86,2,2,3.32E5,2,2,2,,42712,Thalassiosira_weissflogii_0203228636
+248,39240,Thalassiosira_weissflogii_0203384552,32.86,2,2,3.32E5,2,2,2,,43206,Thalassiosira_weissflogii_0203384552
+193,369,Thalassiosira_weissflogii_0201744918,32.71,4,4,1.9E5,1,1,1,,23734,Thalassiosira_weissflogii_0201744918
+268,457,Thalassiosira_weissflogii_0203545546,32.58,9,9,1.49E5,2,2,2,,30926,Thalassiosira_weissflogii_0203545546
+200,396,Thalassiosira_weissflogii_0203369530,32.46,2,2,1.6E5,1,1,1,,48011,Thalassiosira_weissflogii_0203369530
+200,384,Thalassiosira_weissflogii_0203213458,32.46,2,2,1.6E5,1,1,1,,46772,Thalassiosira_weissflogii_0203213458
+275,39260,Thalassiosira_weissflogii_0203436648,32.43,2,2,4.05E4,1,1,1,,44622,Thalassiosira_weissflogii_0203436648
+218,39248,Thalassiosira_weissflogii_0171389182,31.91,3,3,2.1E5,1,1,3,,28502,Thalassiosira_weissflogii_0171389182
+218,39249,Thalassiosira_weissflogii_0171432918,31.91,2,2,2.1E5,1,1,3,,45843,Thalassiosira_weissflogii_0171432918
+274,6400,Thalassiosira_weissflogii_0201743346,31.88,1,1,2.92E4,1,1,1,,107208,Thalassiosira_weissflogii_0201743346
+129,806,Thalassiosira_weissflogii_0203245854,31.87,5,5,9.25E5,2,2,4,,35926,Thalassiosira_weissflogii_0203245854
+129,804,Thalassiosira_weissflogii_0171388408,31.87,5,5,9.25E5,2,2,4,,37015,Thalassiosira_weissflogii_0171388408
+129,809,Thalassiosira_weissflogii_0203320688,31.87,3,3,9.25E5,2,2,4,,59753,Thalassiosira_weissflogii_0203320688
+129,768,Thalassiosira_weissflogii_0203538068,31.87,2,2,9.25E5,2,2,4,,74993,Thalassiosira_weissflogii_0203538068
+225,39347,Thalassiosira_weissflogii_0171391802,31.74,2,2,1.72E5,2,2,2,Oxidation(KPRY),118401,Thalassiosira_weissflogii_0171391802
+225,39307,Thalassiosira_weissflogii_0203412378,31.74,2,2,1.72E5,2,2,2,Oxidation(KPRY),119560,Thalassiosira_weissflogii_0203412378
+189,154290,Thalassiosira_weissflogii_0203602546,31.64,13,13,2.88E5,2,2,3,Carbamidomethylation,14085,Thalassiosira_weissflogii_0203602546
+189,154291,Thalassiosira_weissflogii_0203443102,31.64,13,13,2.88E5,2,2,3,Carbamidomethylation,14200,Thalassiosira_weissflogii_0203443102
+264,39265,Thalassiosira_weissflogii_0171390124,31.59,2,2,1.75E5,1,1,2,,36568,Thalassiosira_weissflogii_0171390124
+232,39151,Thalassiosira_weissflogii_0203359996,31.38,1,1,7.36E4,1,1,1,Carbamidomethylation,122373,Thalassiosira_weissflogii_0203359996
+222,39276,Thalassiosira_weissflogii_0203428130,31.19,4,4,1.11E5,1,1,1,,22721,Thalassiosira_weissflogii_0203428130
+197,39133,Thalassiosira_weissflogii_0203541284,30.76,1,1,1.33E5,1,1,1,,72043,Thalassiosira_weissflogii_0203541284
+231,539,Thalassiosira_weissflogii_0201799732,30.24,1,1,1.04E5,2,2,2,,357356,Thalassiosira_weissflogii_0201799732
+231,540,Thalassiosira_weissflogii_0203536222,30.24,1,1,1.04E5,2,2,2,,397659,Thalassiosira_weissflogii_0203536222
+231,538,Thalassiosira_weissflogii_0201860816,30.24,1,1,1.04E5,2,2,2,,351340,Thalassiosira_weissflogii_0201860816
+231,541,Thalassiosira_weissflogii_0203229624,30.24,1,1,1.04E5,2,2,2,,403817,Thalassiosira_weissflogii_0203229624
+231,542,Thalassiosira_weissflogii_0203445070,30.24,1,1,1.04E5,2,2,2,,411546,Thalassiosira_weissflogii_0203445070
+241,39243,Thalassiosira_weissflogii_0203520510,29.92,2,2,1.74E4,1,1,2,Carbamidomethylation,62134,Thalassiosira_weissflogii_0203520510
+485,75,Thalassiosira_weissflogii_0203244274,29.90,2,2,3.52E4,1,1,1,Carbamidomethylation,60785,Thalassiosira_weissflogii_0203244274
+286,39287,Thalassiosira_weissflogii_0203329908,29.70,5,5,3.68E5,1,1,2,,16772,Thalassiosira_weissflogii_0203329908
+249,39180,Thalassiosira_weissflogii_0203246336,29.61,3,3,2.81E4,1,1,1,Carbamidomethylation,38292,Thalassiosira_weissflogii_0203246336
+383,39242,Thalassiosira_weissflogii_0203426908,29.60,3,3,2.88E5,1,1,1,,34333,Thalassiosira_weissflogii_0203426908
+280,483,Thalassiosira_weissflogii_0203275302,29.60,7,7,1.04E5,1,1,1,,19758,Thalassiosira_weissflogii_0203275302
+266,329,Thalassiosira_weissflogii_0203258534,29.46,3,3,1.69E5,1,1,2,,32139,Thalassiosira_weissflogii_0203258534
+266,328,Thalassiosira_weissflogii_0201828998,29.46,3,3,1.69E5,1,1,2,,31962,Thalassiosira_weissflogii_0201828998
+266,330,Thalassiosira_weissflogii_0203319126,29.46,3,3,1.69E5,1,1,2,,32488,Thalassiosira_weissflogii_0203319126
+266,332,Thalassiosira_weissflogii_0203628274,29.46,3,3,1.69E5,1,1,2,,33235,Thalassiosira_weissflogii_0203628274
+266,331,Thalassiosira_weissflogii_0171384392,29.46,3,3,1.69E5,1,1,2,,32813,Thalassiosira_weissflogii_0171384392
+206,39189,Thalassiosira_weissflogii_0203247132,29.41,3,3,2.43E5,1,1,1,,34317,Thalassiosira_weissflogii_0203247132
+199,348,Thalassiosira_weissflogii_0203333882,28.93,2,2,7.82E4,1,1,1,,48675,Thalassiosira_weissflogii_0203333882
+450,39272,Thalassiosira_weissflogii_0203287210,28.84,7,7,1.03E5,1,1,1,,12490,Thalassiosira_weissflogii_0203287210
+171,610,Thalassiosira_weissflogii_0171361636,28.61,6,6,6.9E5,1,1,3,,13270,Thalassiosira_weissflogii_0171361636
+196,39201,Thalassiosira_weissflogii_0203523368,28.44,2,2,8.36E4,1,1,1,,66342,Thalassiosira_weissflogii_0203523368
+272,20649,Thalassiosira_weissflogii_0203470808,28.41,4,4,1.32E5,1,1,1,,33934,Thalassiosira_weissflogii_0203470808
+272,20650,Thalassiosira_weissflogii_0203112010,28.41,4,4,1.32E5,1,1,1,,34144,Thalassiosira_weissflogii_0203112010
+267,616,Thalassiosira_weissflogii_0203216890,28.34,3,3,6.8E5,1,1,2,,29550,Thalassiosira_weissflogii_0203216890
+265,39198,Thalassiosira_weissflogii_0171426512,27.70,4,4,2.73E5,1,1,2,,23360,Thalassiosira_weissflogii_0171426512
+180,22758,Thalassiosira_weissflogii_0203247592,27.67,1,1,5.82E4,1,1,1,,76275,Thalassiosira_weissflogii_0203247592
+180,22760,Thalassiosira_weissflogii_0171366698,27.67,1,1,5.82E4,1,1,1,,79460,Thalassiosira_weissflogii_0171366698
+269,20784,Thalassiosira_weissflogii_0203505222,27.61,3,3,2.22E4,1,1,1,,43978,Thalassiosira_weissflogii_0203505222
+269,20785,Thalassiosira_weissflogii_0203443340,27.61,3,3,2.22E4,1,1,1,,46089,Thalassiosira_weissflogii_0203443340
+409,572,Thalassiosira_weissflogii_0171329028,27.53,7,7,4.89E4,1,1,1,,14508,Thalassiosira_weissflogii_0171329028
+409,573,Thalassiosira_weissflogii_0203183264,27.53,7,7,4.89E4,1,1,1,,14753,Thalassiosira_weissflogii_0203183264
+409,574,Thalassiosira_weissflogii_0203138818,27.53,5,5,4.89E4,1,1,1,,19684,Thalassiosira_weissflogii_0203138818
+409,575,Thalassiosira_weissflogii_0203104222,27.53,5,5,4.89E4,1,1,1,,19970,Thalassiosira_weissflogii_0203104222
+255,39273,tr|A0A089VKN1|A0A089VKN1_THAWE,27.49,9,9,3.15E3,1,1,1,,16013,50S ribosomal protein L13  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rpl13 PE=3 SV=1
+281,39178,Thalassiosira_weissflogii_0203400314,27.33,3,3,2.25E4,1,1,1,Carbamidomethylation,45450,Thalassiosira_weissflogii_0203400314
+449,154281,Thalassiosira_weissflogii_0203217240,27.32,2,2,8.44E4,1,1,1,Carbamidomethylation,48662,Thalassiosira_weissflogii_0203217240
+324,570,Thalassiosira_weissflogii_0171392854,27.13,3,3,1.83E5,1,1,1,,49088,Thalassiosira_weissflogii_0171392854
+176,975,Thalassiosira_weissflogii_0171448958,27.13,1,1,1.15E6,1,1,3,,66735,Thalassiosira_weissflogii_0171448958
+176,39277,Thalassiosira_weissflogii_0203596994,27.13,1,1,1.15E6,1,1,3,,64639,Thalassiosira_weissflogii_0203596994
+176,39270,Thalassiosira_weissflogii_0203168830,27.13,1,1,1.15E6,1,1,3,,64873,Thalassiosira_weissflogii_0203168830
+176,39278,Thalassiosira_weissflogii_0171388196,27.13,1,1,1.15E6,1,1,3,,65307,Thalassiosira_weissflogii_0171388196
+176,39271,Thalassiosira_weissflogii_0203568114,27.13,1,1,1.15E6,1,1,3,,65226,Thalassiosira_weissflogii_0203568114
+176,39228,Thalassiosira_weissflogii_0201768512,27.13,1,1,1.15E6,1,1,3,,66065,Thalassiosira_weissflogii_0201768512
+176,39229,Thalassiosira_weissflogii_0203382734,27.13,1,1,1.15E6,1,1,3,,66117,Thalassiosira_weissflogii_0203382734
+384,61638,Thalassiosira_weissflogii_0203167270,27.06,4,4,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,19694,Thalassiosira_weissflogii_0203167270
+384,61637,Thalassiosira_weissflogii_0203319402,27.06,5,5,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,15992,Thalassiosira_weissflogii_0203319402
+384,61639,Thalassiosira_weissflogii_0201768846,27.06,4,4,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,20031,Thalassiosira_weissflogii_0201768846
+384,61640,Thalassiosira_weissflogii_0203135544,27.06,4,4,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,20367,Thalassiosira_weissflogii_0203135544
+384,61641,Thalassiosira_weissflogii_0203535650,27.06,4,4,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,21779,Thalassiosira_weissflogii_0203535650
+384,61642,Thalassiosira_weissflogii_0203350274,27.06,4,4,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,22949,Thalassiosira_weissflogii_0203350274
+384,8176,Thalassiosira_weissflogii_0203482782,27.06,3,3,1.64E4,1,1,1,Methylation(KR); Pyro-glu from Q,25988,Thalassiosira_weissflogii_0203482782
+154,245,Thalassiosira_weissflogii_0201836064,26.90,5,5,1.34E6,1,1,2,Oxidation (M),21456,Thalassiosira_weissflogii_0201836064
+154,246,Thalassiosira_weissflogii_0203294152,26.90,4,4,1.34E6,1,1,2,Oxidation (M),21811,Thalassiosira_weissflogii_0203294152
+154,247,Thalassiosira_weissflogii_0171420522,26.90,4,4,1.34E6,1,1,2,Oxidation (M),21783,Thalassiosira_weissflogii_0171420522
+252,39328,Thalassiosira_weissflogii_0203399826,26.70,6,6,2.61E2,1,1,1,Carbamidomethylation,18747,Thalassiosira_weissflogii_0203399826
+273,39269,Thalassiosira_weissflogii_0201858796,26.52,4,4,1.32E5,1,1,1,,27751,Thalassiosira_weissflogii_0201858796
+273,39293,Thalassiosira_weissflogii_0203398292,26.52,4,4,1.32E5,1,1,1,,28931,Thalassiosira_weissflogii_0203398292
+312,373,Thalassiosira_weissflogii_0171447174,26.35,2,2,1.48E5,1,1,1,,53956,Thalassiosira_weissflogii_0171447174
+312,364,Thalassiosira_weissflogii_0201836018,26.35,2,2,1.48E5,1,1,1,,60265,Thalassiosira_weissflogii_0201836018
+312,366,Thalassiosira_weissflogii_0203443106,26.35,2,2,1.48E5,1,1,1,,62824,Thalassiosira_weissflogii_0203443106
+312,360,Thalassiosira_weissflogii_0203596466,26.35,2,2,1.48E5,1,1,1,,62636,Thalassiosira_weissflogii_0203596466
+312,371,Thalassiosira_weissflogii_0203628010,26.35,2,2,1.48E5,1,1,1,,63645,Thalassiosira_weissflogii_0203628010
+312,374,Thalassiosira_weissflogii_0203288878,26.35,2,2,1.48E5,1,1,1,,56312,Thalassiosira_weissflogii_0203288878
+312,365,Thalassiosira_weissflogii_0203539084,26.35,2,2,1.48E5,1,1,1,,62824,Thalassiosira_weissflogii_0203539084
+312,475,Thalassiosira_weissflogii_0203413642,26.35,2,2,1.48E5,1,1,1,,70166,Thalassiosira_weissflogii_0203413642
+312,581,Thalassiosira_weissflogii_0203540538,26.35,15,15,1.48E5,1,1,1,,7351,Thalassiosira_weissflogii_0203540538
+256,953,Thalassiosira_weissflogii_0203398932,26.28,5,5,1.71E6,1,1,2,Carbamidomethylation,17734,Thalassiosira_weissflogii_0203398932
+385,39330,Thalassiosira_weissflogii_0201799558,26.03,3,3,5.11E5,1,1,1,,40500,Thalassiosira_weissflogii_0201799558
+257,601,Thalassiosira_weissflogii_0171415896,25.72,8,8,4.3E5,1,1,2,,14986,Thalassiosira_weissflogii_0171415896
+224,551,Thalassiosira_weissflogii_0171421126,25.68,4,4,1.88E6,1,1,3,Carbamidomethylation,35174,Thalassiosira_weissflogii_0171421126
+224,552,Thalassiosira_weissflogii_0171353804,25.68,3,3,1.88E6,1,1,3,Carbamidomethylation,43699,Thalassiosira_weissflogii_0171353804
+302,481,Thalassiosira_weissflogii_0203106122,24.85,3,3,1.07E5,1,1,1,,37724,Thalassiosira_weissflogii_0203106122
+226,39311,Thalassiosira_weissflogii_0203480768,24.43,3,3,7.7E4,1,1,1,,43737,Thalassiosira_weissflogii_0203480768
+313,8498,Thalassiosira_weissflogii_0203567010,24.39,1,1,6.81E5,1,1,1,,121104,Thalassiosira_weissflogii_0203567010
+313,85433,Thalassiosira_weissflogii_0201770358,24.39,1,1,6.81E5,1,1,1,,122138,Thalassiosira_weissflogii_0201770358
+313,26267,Thalassiosira_weissflogii_0201831296,24.39,1,1,6.81E5,1,1,1,,121380,Thalassiosira_weissflogii_0201831296
+313,26268,Thalassiosira_weissflogii_0171417362,24.39,1,1,6.81E5,1,1,1,,121640,Thalassiosira_weissflogii_0171417362
+313,26245,Thalassiosira_weissflogii_0171355012,24.39,1,1,6.81E5,1,1,1,,65269,Thalassiosira_weissflogii_0171355012
+313,26246,Thalassiosira_weissflogii_0203475458,24.39,1,1,6.81E5,1,1,1,,65882,Thalassiosira_weissflogii_0203475458
+313,6977,Thalassiosira_weissflogii_0171448134,24.39,1,1,6.81E5,1,1,1,,120845,Thalassiosira_weissflogii_0171448134
+313,26265,Thalassiosira_weissflogii_0203598022,24.39,1,1,6.81E5,1,1,1,,120969,Thalassiosira_weissflogii_0203598022
+313,8497,Thalassiosira_weissflogii_0203351570,24.39,1,1,6.81E5,1,1,1,,120132,Thalassiosira_weissflogii_0203351570
+276,646,Thalassiosira_weissflogii_0171360430,24.24,4,4,2.9E4,1,1,1,,28468,Thalassiosira_weissflogii_0171360430
+258,39191,Thalassiosira_weissflogii_0201839466,24.22,1,1,1.17E5,1,1,2,,93817,Thalassiosira_weissflogii_0201839466
+451,25424,Thalassiosira_weissflogii_0201769320,24.11,1,1,8.72E4,1,1,1,,150695,Thalassiosira_weissflogii_0201769320
+451,25392,Thalassiosira_weissflogii_0203139410,24.11,1,1,8.72E4,1,1,1,,113661,Thalassiosira_weissflogii_0203139410
+451,9165,Thalassiosira_weissflogii_0203202848,24.11,1,1,8.72E4,1,1,1,,133629,Thalassiosira_weissflogii_0203202848
+451,25376,Thalassiosira_weissflogii_0201862624,24.11,1,1,8.72E4,1,1,1,,100747,Thalassiosira_weissflogii_0201862624
+341,39186,Thalassiosira_weissflogii_0203576120,23.90,1,1,8.01E4,1,1,1,,74996,Thalassiosira_weissflogii_0203576120
+227,39308,Thalassiosira_weissflogii_0203393470,23.83,2,2,9.84E4,1,1,1,,50957,Thalassiosira_weissflogii_0203393470
+486,39244,Thalassiosira_weissflogii_0203329010,23.51,4,4,8.91E3,1,1,1,,29610,Thalassiosira_weissflogii_0203329010
+287,837,Thalassiosira_weissflogii_0171413520,23.49,2,2,1.17E4,1,1,1,,39753,Thalassiosira_weissflogii_0171413520
+287,839,Thalassiosira_weissflogii_0171356998,23.49,1,1,1.17E4,1,1,1,,99554,Thalassiosira_weissflogii_0171356998
+287,841,Thalassiosira_weissflogii_0171447586,23.49,1,1,1.17E4,1,1,1,,103451,Thalassiosira_weissflogii_0171447586
+360,588,Thalassiosira_weissflogii_0203324956,23.41,7,7,2.18E5,1,1,1,,19901,Thalassiosira_weissflogii_0203324956
+350,586,Thalassiosira_weissflogii_0171415754,23.34,2,2,2.13E4,1,1,1,,53338,Thalassiosira_weissflogii_0171415754
+350,518,Thalassiosira_weissflogii_0171446640,23.34,2,2,2.13E4,1,1,1,,62534,Thalassiosira_weissflogii_0171446640
+350,527,Thalassiosira_weissflogii_0201799608,23.34,2,2,2.13E4,1,1,1,,63518,Thalassiosira_weissflogii_0201799608
+236,154293,Thalassiosira_weissflogii_0203536828,23.20,0,0,5.04E5,1,1,1,,147038,Thalassiosira_weissflogii_0203536828
+236,951,Thalassiosira_weissflogii_0203382948,23.20,0,0,5.04E5,1,1,1,,367146,Thalassiosira_weissflogii_0203382948
+236,960,Thalassiosira_weissflogii_0171388736,23.20,0,0,5.04E5,1,1,1,,371016,Thalassiosira_weissflogii_0171388736
+259,1353,Thalassiosira_weissflogii_0201864058,23.18,1,1,2.83E4,1,1,1,,120044,Thalassiosira_weissflogii_0201864058
+487,39294,Thalassiosira_weissflogii_0201864306,22.99,1,1,1.59E5,1,1,1,Deamidation(N),173150,Thalassiosira_weissflogii_0201864306
+325,39368,Thalassiosira_weissflogii_0203421744,22.97,1,1,2.12E5,1,1,1,,70499,Thalassiosira_weissflogii_0203421744
+277,69,Thalassiosira_weissflogii_0203086342,22.95,1,1,5.78E5,1,1,2,,77860,Thalassiosira_weissflogii_0203086342
+410,39359,Thalassiosira_weissflogii_0203189872,22.92,1,1,7.31E4,1,1,1,,65951,Thalassiosira_weissflogii_0203189872
+352,382,Thalassiosira_weissflogii_0171350576,22.89,2,2,5.91E4,1,1,1,,84196,Thalassiosira_weissflogii_0171350576
+177,39172,Thalassiosira_weissflogii_0203087650,22.83,3,3,3.93E5,1,1,3,,19871,Thalassiosira_weissflogii_0203087650
+177,39173,Thalassiosira_weissflogii_0171341222,22.83,3,3,3.93E5,1,1,3,,20143,Thalassiosira_weissflogii_0171341222
+177,39174,Thalassiosira_weissflogii_0203564698,22.83,3,3,3.93E5,1,1,3,,20355,Thalassiosira_weissflogii_0203564698
+488,27819,Thalassiosira_weissflogii_0203570008,22.58,1,1,7.21E5,1,1,1,Deamidation(N),123312,Thalassiosira_weissflogii_0203570008
+488,27820,Thalassiosira_weissflogii_0203624090,22.58,1,1,7.21E5,1,1,1,Deamidation(N),127646,Thalassiosira_weissflogii_0203624090
+489,64137,Thalassiosira_weissflogii_0203351028,22.39,2,2,2.81E4,1,1,1,,46493,Thalassiosira_weissflogii_0203351028
+489,64141,Thalassiosira_weissflogii_0203423450,22.39,2,2,2.81E4,1,1,1,,47432,Thalassiosira_weissflogii_0203423450
+489,64143,Thalassiosira_weissflogii_0201782246,22.39,2,2,2.81E4,1,1,1,,48999,Thalassiosira_weissflogii_0201782246
+240,39486,Thalassiosira_weissflogii_0201783116,22.33,2,2,7.8E5,1,1,1,Pyro-glu from Q,44800,Thalassiosira_weissflogii_0201783116
+386,39207,Thalassiosira_weissflogii_0171434040,22.19,4,4,2.9E5,1,1,1,Oxidation (M),20053,Thalassiosira_weissflogii_0171434040
+278,39385,Thalassiosira_weissflogii_0203491288,21.86,2,2,5.62E4,1,1,1,,41877,Thalassiosira_weissflogii_0203491288
+278,25085,Thalassiosira_weissflogii_0171428642,21.86,2,2,5.62E4,1,1,1,,42317,Thalassiosira_weissflogii_0171428642
+278,39382,Thalassiosira_weissflogii_0201831132,21.86,2,2,5.62E4,1,1,1,,42539,Thalassiosira_weissflogii_0201831132
+250,39254,Thalassiosira_weissflogii_0203516968,21.81,2,2,9.77E5,1,1,1,,49192,Thalassiosira_weissflogii_0203516968
+250,39255,Thalassiosira_weissflogii_0171361160,21.81,2,2,9.77E5,1,1,1,,49785,Thalassiosira_weissflogii_0171361160
+326,8879,Thalassiosira_weissflogii_0203169812,21.76,1,1,4.02E3,1,1,1,,160014,Thalassiosira_weissflogii_0203169812
+326,6156,Thalassiosira_weissflogii_0203536502,21.76,0,0,4.02E3,1,1,1,,220002,Thalassiosira_weissflogii_0203536502
+326,26119,Thalassiosira_weissflogii_0171416034,21.76,0,0,4.02E3,1,1,1,,210627,Thalassiosira_weissflogii_0171416034
+326,154289,Thalassiosira_weissflogii_0203443242,21.76,0,0,4.02E3,1,1,1,,223873,Thalassiosira_weissflogii_0203443242
+388,39349,Thalassiosira_weissflogii_0201831980,21.71,1,1,4.87E4,1,1,1,,110249,Thalassiosira_weissflogii_0201831980
+388,39350,Thalassiosira_weissflogii_0203171392,21.71,1,1,4.87E4,1,1,1,,112715,Thalassiosira_weissflogii_0203171392
+388,39351,Thalassiosira_weissflogii_0203598660,21.71,1,1,4.87E4,1,1,1,,113435,Thalassiosira_weissflogii_0203598660
+388,39341,Thalassiosira_weissflogii_0203363414,21.71,1,1,4.87E4,1,1,1,,120215,Thalassiosira_weissflogii_0203363414
+388,39342,Thalassiosira_weissflogii_0203202280,21.71,1,1,4.87E4,1,1,1,,120471,Thalassiosira_weissflogii_0203202280
+388,39343,Thalassiosira_weissflogii_0203447554,21.71,1,1,4.87E4,1,1,1,,123062,Thalassiosira_weissflogii_0203447554
+388,39360,Thalassiosira_weissflogii_0201801092,21.71,1,1,4.87E4,1,1,1,,99634,Thalassiosira_weissflogii_0201801092
+411,385,Thalassiosira_weissflogii_0201742992,21.57,4,4,4.85E4,1,1,1,,25930,Thalassiosira_weissflogii_0201742992
+433,3232,Thalassiosira_weissflogii_0203202448,21.54,1,1,1.35E5,1,1,1,,90905,Thalassiosira_weissflogii_0203202448
+433,25765,Thalassiosira_weissflogii_0203446774,21.54,1,1,1.35E5,1,1,1,,91972,Thalassiosira_weissflogii_0203446774
+433,25766,Thalassiosira_weissflogii_0203293740,21.54,1,1,1.35E5,1,1,1,,92914,Thalassiosira_weissflogii_0203293740
+506,39301,Thalassiosira_weissflogii_0203601946,21.53,18,18,8.61E4,1,1,1,,6377,Thalassiosira_weissflogii_0203601946
+506,39367,Thalassiosira_weissflogii_0203179434,21.53,8,8,8.61E4,1,1,1,,13954,Thalassiosira_weissflogii_0203179434
+387,39209,Thalassiosira_weissflogii_0203198498,21.45,1,1,4.77E4,1,1,1,,91312,Thalassiosira_weissflogii_0203198498
+415,46801,Thalassiosira_weissflogii_0203171556,21.28,2,2,4.63E5,1,1,1,,45030,Thalassiosira_weissflogii_0203171556
+532,39344,Thalassiosira_weissflogii_0203547550,21.22,9,9,1.65E5,1,1,1,,11818,Thalassiosira_weissflogii_0203547550
+532,39345,Thalassiosira_weissflogii_0203628066,21.22,4,4,1.65E5,1,1,1,,24988,Thalassiosira_weissflogii_0203628066
+198,95,Thalassiosira_weissflogii_0203420370,21.18,1,1,5.97E5,1,1,2,,80185,Thalassiosira_weissflogii_0203420370
+368,593,Thalassiosira_weissflogii_0171446834,21.12,1,1,1.07E5,1,1,1,,139160,Thalassiosira_weissflogii_0171446834
+368,612,Thalassiosira_weissflogii_0171353836,21.12,1,1,1.07E5,1,1,1,,129997,Thalassiosira_weissflogii_0171353836
+490,96911,Thalassiosira_weissflogii_0201831586,21.12,1,1,2.52E5,1,1,1,Oxidation(KPRY),138180,Thalassiosira_weissflogii_0201831586
+490,85606,Thalassiosira_weissflogii_0203263612,21.12,1,1,2.52E5,1,1,1,Oxidation(KPRY),139978,Thalassiosira_weissflogii_0203263612
+490,154299,Thalassiosira_weissflogii_0203231748,21.12,1,1,2.52E5,1,1,1,Oxidation(KPRY),147563,Thalassiosira_weissflogii_0203231748
+270,39304,Thalassiosira_weissflogii_0203112420,21.08,3,3,1.12E5,1,1,2,,39555,Thalassiosira_weissflogii_0203112420
+305,39208,Thalassiosira_weissflogii_0203575382,21.07,4,4,8.33E4,1,1,1,,29120,Thalassiosira_weissflogii_0203575382
+234,22337,Thalassiosira_weissflogii_0203090374,20.86,1,1,2.96E4,1,1,1,,143944,Thalassiosira_weissflogii_0203090374
+412,154294,Thalassiosira_weissflogii_0203231546,20.70,2,2,3.69E4,1,1,1,,55537,Thalassiosira_weissflogii_0203231546
+491,1251,Thalassiosira_weissflogii_0201853672,20.67,1,1,5.03E4,1,1,1,,70679,Thalassiosira_weissflogii_0201853672
+394,419,Thalassiosira_weissflogii_0203249594,20.56,2,2,9.13E4,1,1,1,,54798,Thalassiosira_weissflogii_0203249594
+279,39262,Thalassiosira_weissflogii_0203146460,20.54,9,9,1.24E5,1,1,1,,15243,Thalassiosira_weissflogii_0203146460
+246,154305,Thalassiosira_weissflogii_0203569834,20.28,2,2,3.86E4,1,1,1,,36605,Thalassiosira_weissflogii_0203569834
+246,154306,Thalassiosira_weissflogii_0203631358,20.28,2,2,3.86E4,1,1,1,,40103,Thalassiosira_weissflogii_0203631358
+246,154307,Thalassiosira_weissflogii_0203429720,20.28,2,2,3.86E4,1,1,1,,40921,Thalassiosira_weissflogii_0203429720
+453,39268,Thalassiosira_weissflogii_0201811490,20.19,1,1,6.96E4,1,1,1,,58518,Thalassiosira_weissflogii_0201811490
+452,39310,Thalassiosira_weissflogii_0201849492,20.18,4,4,3.88E4,1,1,1,,33229,Thalassiosira_weissflogii_0201849492
+245,39275,Thalassiosira_weissflogii_0201829814,20.09,1,1,1.86E5,1,1,1,,68524,Thalassiosira_weissflogii_0201829814
+220,154301,Thalassiosira_weissflogii_0203461698,20.08,5,5,2.28E5,1,1,1,Oxidation(KPRY),19622,Thalassiosira_weissflogii_0203461698
+220,154308,Thalassiosira_weissflogii_0201742666,20.08,29,29,2.28E5,1,1,1,Oxidation(KPRY),4094,Thalassiosira_weissflogii_0201742666
+466,46284,Thalassiosira_weissflogii_0203531018,20.06,1,1,4.64E5,1,1,1,Methylation(KR),73333,Thalassiosira_weissflogii_0203531018
+389,44926,Thalassiosira_weissflogii_0203474056,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),93601,Thalassiosira_weissflogii_0203474056
+389,44927,Thalassiosira_weissflogii_0203381824,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),93719,Thalassiosira_weissflogii_0203381824
+389,44928,Thalassiosira_weissflogii_0201842326,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),93666,Thalassiosira_weissflogii_0201842326
+389,44929,Thalassiosira_weissflogii_0203443358,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),93642,Thalassiosira_weissflogii_0203443358
+389,44930,Thalassiosira_weissflogii_0201829214,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),94176,Thalassiosira_weissflogii_0201829214
+389,44931,Thalassiosira_weissflogii_0203412336,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),94228,Thalassiosira_weissflogii_0203412336
+389,44932,Thalassiosira_weissflogii_0203139194,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),97210,Thalassiosira_weissflogii_0203139194
+389,44933,Thalassiosira_weissflogii_0203506194,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),97595,Thalassiosira_weissflogii_0203506194
+389,44934,Thalassiosira_weissflogii_0203630622,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),98249,Thalassiosira_weissflogii_0203630622
+389,44935,Thalassiosira_weissflogii_0203168582,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),98738,Thalassiosira_weissflogii_0203168582
+389,8275,Thalassiosira_weissflogii_0171449276,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),99511,Thalassiosira_weissflogii_0171449276
+389,8276,Thalassiosira_weissflogii_0203289250,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),99658,Thalassiosira_weissflogii_0203289250
+389,132384,Thalassiosira_weissflogii_0171415430,20.00,1,1,3.98E5,1,1,1,Oxidation(KPRY),84304,Thalassiosira_weissflogii_0171415430
