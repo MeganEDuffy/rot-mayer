@@ -1,0 +1,39 @@
+Peptides,GO-term,Name
+19,GO:0016168,chlorophyll binding
+6,GO:0003735,structural constituent of ribosome
+4,GO:0009055,electron transfer activity
+4,GO:0000287,magnesium ion binding
+4,GO:0005525,GTP binding
+3,GO:0003924,GTPase activity
+3,GO:0003746,translation elongation factor activity
+3,GO:0005524,ATP binding
+3,GO:0051537,"2 iron, 2 sulfur cluster binding"
+2,GO:0051539,"4 iron, 4 sulfur cluster binding"
+2,GO:0003723,RNA binding
+2,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+2,GO:0016787,hydrolase activity
+2,GO:0046872,metal ion binding
+2,GO:0009496,plastoquinol--plastocyanin reductase activity
+2,GO:0005506,iron ion binding
+2,GO:0020037,heme binding
+1,GO:0016984,ribulose-bisphosphate carboxylase activity
+1,GO:0042623,ATPase activity
+1,GO:0016887,ATPase activity
+1,GO:0051082,unfolded protein binding
+1,GO:0051787,misfolded protein binding
+1,GO:0044183,protein folding chaperone
+1,GO:0031072,heat shock protein binding
+1,GO:0043531,ADP binding
+1,GO:0004618,phosphoglycerate kinase activity
+1,GO:0015078,proton transmembrane transporter activity
+1,GO:0005198,structural molecule activity
+1,GO:0005388,"calcium transmembrane transporter activity, phosphorylative mechanism"
+1,GO:0019829,ATPase-coupled cation transmembrane transporter activity
+1,GO:0008308,voltage-gated anion channel activity
+1,GO:0004019,adenylosuccinate synthase activity
+1,GO:0004348,glucosylceramidase activity
+1,GO:0004360,glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+1,GO:0097367,carbohydrate derivative binding
+1,GO:0016628,"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"
+1,GO:0045550,geranylgeranyl reductase activity
+1,GO:0071949,FAD binding

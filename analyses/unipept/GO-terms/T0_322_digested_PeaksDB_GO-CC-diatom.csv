@@ -1,0 +1,24 @@
+Peptides,GO-term,Name
+29,GO:0016021,integral component of membrane
+25,GO:0009535,chloroplast thylakoid membrane
+10,GO:0009507,chloroplast
+5,GO:0009538,photosystem I reaction center
+4,GO:0022627,cytosolic small ribosomal subunit
+2,GO:0009522,photosystem I
+2,GO:0005737,cytoplasm
+2,GO:0015935,small ribosomal subunit
+2,GO:0005829,cytosol
+2,GO:0016020,membrane
+1,GO:0005840,ribosome
+1,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+1,GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)"
+1,GO:0030126,COPI vesicle coat
+1,GO:0005794,Golgi apparatus
+1,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment
+1,GO:0005783,endoplasmic reticulum
+1,GO:0000139,Golgi membrane
+1,GO:0043231,intracellular membrane-bounded organelle
+1,GO:0005741,mitochondrial outer membrane
+1,GO:0009534,chloroplast thylakoid
+1,GO:0031361,integral component of thylakoid membrane
+1,GO:0009523,photosystem II

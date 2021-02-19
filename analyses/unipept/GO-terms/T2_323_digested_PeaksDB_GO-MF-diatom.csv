@@ -1,0 +1,48 @@
+Peptides,GO-term,Name
+9,GO:0005524,ATP binding
+8,GO:0016168,chlorophyll binding
+5,GO:0009055,electron transfer activity
+4,GO:0003735,structural constituent of ribosome
+4,GO:0046872,metal ion binding
+4,GO:0005506,iron ion binding
+4,GO:0020037,heme binding
+3,GO:0042623,ATPase activity
+3,GO:0016887,ATPase activity
+3,GO:0051082,unfolded protein binding
+3,GO:0051787,misfolded protein binding
+3,GO:0044183,protein folding chaperone
+3,GO:0031072,heat shock protein binding
+3,GO:0005525,GTP binding
+3,GO:0003924,GTPase activity
+3,GO:0003746,translation elongation factor activity
+3,GO:0003723,RNA binding
+2,GO:0043531,ADP binding
+2,GO:0016787,hydrolase activity
+2,GO:0004332,fructose-bisphosphate aldolase activity
+2,GO:0008270,zinc ion binding
+2,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+2,GO:0051537,"2 iron, 2 sulfur cluster binding"
+1,GO:0015035,protein disulfide oxidoreductase activity
+1,GO:0004160,dihydroxy-acid dehydratase activity
+1,GO:0016836,hydro-lyase activity
+1,GO:0003677,DNA binding
+1,GO:0004619,phosphoglycerate mutase activity
+1,GO:0004618,phosphoglycerate kinase activity
+1,GO:0004802,transketolase activity
+1,GO:0003824,catalytic activity
+1,GO:0008097,5S rRNA binding
+1,GO:0003729,mRNA binding
+1,GO:0005509,calcium ion binding
+1,GO:0004427,inorganic diphosphatase activity
+1,GO:0000287,magnesium ion binding
+1,GO:0004177,aminopeptidase activity
+1,GO:0030145,manganese ion binding
+1,GO:0008235,metalloexopeptidase activity
+1,GO:0004348,glucosylceramidase activity
+1,GO:0016668,"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"
+1,GO:0050660,flavin adenine dinucleotide binding
+1,GO:0003989,acetyl-CoA carboxylase activity
+1,GO:0004604,phosphoadenylyl-sulfate reductase (thioredoxin) activity
+1,GO:0008121,ubiquinol-cytochrome-c reductase activity
+1,GO:0004088,carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+1,GO:0009496,plastoquinol--plastocyanin reductase activity

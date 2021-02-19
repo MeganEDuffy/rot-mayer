@@ -1,0 +1,22 @@
+Peptides,GO-term,Name
+12,GO:0016021,integral component of membrane
+12,GO:0009535,chloroplast thylakoid membrane
+7,GO:0009507,chloroplast
+6,GO:0005737,cytoplasm
+5,GO:0005623,cell
+3,GO:0005840,ribosome
+2,GO:0009538,photosystem I reaction center
+2,GO:0005829,cytosol
+2,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+2,GO:0009523,photosystem II
+1,GO:0015935,small ribosomal subunit
+1,GO:0022627,cytosolic small ribosomal subunit
+1,GO:0022625,cytosolic large ribosomal subunit
+1,GO:0005762,mitochondrial large ribosomal subunit
+1,GO:0016020,membrane
+1,GO:0005788,endoplasmic reticulum lumen
+1,GO:0005634,nucleus
+1,GO:0034663,endoplasmic reticulum chaperone complex
+1,GO:0005750,mitochondrial respiratory chain complex III
+1,GO:0005739,mitochondrion
+1,GO:0005886,plasma membrane
