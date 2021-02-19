@@ -1,0 +1,18 @@
+Peptides,GO-term,Name
+2,GO:0042026,protein refolding
+2,GO:0006986,response to unfolded protein
+2,GO:0051085,chaperone cofactor-dependent protein refolding
+2,GO:0034620,cellular response to unfolded protein
+2,GO:0018298,protein-chromophore linkage
+1,GO:0015979,photosynthesis
+1,GO:0009765,"photosynthesis, light harvesting"
+1,GO:0009768,"photosynthesis, light harvesting in photosystem I"
+1,GO:0009416,response to light stimulus
+1,GO:0030433,ubiquitin-dependent ERAD pathway
+1,GO:0030968,endoplasmic reticulum unfolded protein response
+1,GO:0006665,sphingolipid metabolic process
+1,GO:0006796,phosphate-containing compound metabolic process
+1,GO:0006520,cellular amino acid metabolic process
+1,GO:0019684,"photosynthesis, light reaction"
+1,GO:0022904,respiratory electron transport chain
+1,GO:0018063,cytochrome c-heme linkage
