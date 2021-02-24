@@ -1,0 +1,263 @@
+Peptides,GO-term,Name
+67,GO:0003677,DNA binding
+66,GO:0005524,ATP binding
+45,GO:0046872,metal ion binding
+26,GO:0016787,hydrolase activity
+21,GO:0003824,catalytic activity
+19,GO:0016491,oxidoreductase activity
+18,GO:0022857,transmembrane transporter activity
+18,GO:0003700,DNA-binding transcription factor activity
+15,GO:0016887,ATPase activity
+14,GO:0016740,transferase activity
+14,GO:0000155,phosphorelay sensor kinase activity
+12,GO:0009055,electron transfer activity
+12,GO:0003735,structural constituent of ribosome
+12,GO:0000287,magnesium ion binding
+12,GO:0020037,heme binding
+10,GO:0051539,"4 iron, 4 sulfur cluster binding"
+10,GO:0008233,peptidase activity
+10,GO:0016301,kinase activity
+10,GO:0003723,RNA binding
+9,GO:0008270,zinc ion binding
+8,GO:0000166,nucleotide binding
+8,GO:0019843,rRNA binding
+8,GO:0030170,pyridoxal phosphate binding
+8,GO:0043565,sequence-specific DNA binding
+7,GO:0050660,flavin adenine dinucleotide binding
+7,GO:0016829,lyase activity
+7,GO:0005509,calcium ion binding
+7,GO:0004519,endonuclease activity
+6,GO:0050661,NADP binding
+6,GO:0016853,isomerase activity
+6,GO:0005506,iron ion binding
+6,GO:0003676,nucleic acid binding
+6,GO:0004177,aminopeptidase activity
+5,GO:0030246,carbohydrate binding
+5,GO:0003678,DNA helicase activity
+5,GO:0004356,glutamate-ammonia ligase activity
+5,GO:0008483,transaminase activity
+4,GO:0008168,methyltransferase activity
+4,GO:0008236,serine-type peptidase activity
+4,GO:0003887,DNA-directed DNA polymerase activity
+4,GO:0008080,N-acetyltransferase activity
+4,GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+4,GO:0004222,metalloendopeptidase activity
+4,GO:0010181,FMN binding
+4,GO:0004803,transposase activity
+4,GO:0004386,helicase activity
+4,GO:0003684,damaged DNA binding
+4,GO:0046983,protein dimerization activity
+3,GO:0004362,glutathione-disulfide reductase activity
+3,GO:0051537,"2 iron, 2 sulfur cluster binding"
+3,GO:0016798,"hydrolase activity, acting on glycosyl bonds"
+3,GO:0016810,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"
+3,GO:0004527,exonuclease activity
+3,GO:0003746,translation elongation factor activity
+3,GO:0000150,recombinase activity
+3,GO:0008484,sulfuric ester hydrolase activity
+3,GO:0009982,pseudouridine synthase activity
+3,GO:0051536,iron-sulfur cluster binding
+3,GO:0004888,transmembrane signaling receptor activity
+3,GO:0008658,penicillin binding
+3,GO:0030145,manganese ion binding
+3,GO:0004252,serine-type endopeptidase activity
+3,GO:0042626,ATPase-coupled transmembrane transporter activity
+3,GO:0016874,ligase activity
+3,GO:0051287,NAD binding
+2,GO:0016668,"oxidoreductase activity, acting on a sulfur group of donors, NAD(P) as acceptor"
+2,GO:0009381,excinuclease ABC activity
+2,GO:0030151,molybdenum ion binding
+2,GO:0005525,GTP binding
+2,GO:0008253,5'-nucleotidase activity
+2,GO:0004673,protein histidine kinase activity
+2,GO:0016705,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"
+2,GO:0005507,copper ion binding
+2,GO:0004497,monooxygenase activity
+2,GO:0009378,four-way junction helicase activity
+2,GO:0097367,carbohydrate derivative binding
+2,GO:0015562,efflux transmembrane transporter activity
+2,GO:0031177,phosphopantetheine binding
+2,GO:0046857,"oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor"
+2,GO:0033739,preQ1 synthase activity
+2,GO:0008460,"dTDP-glucose 4,6-dehydratase activity"
+2,GO:0004550,nucleoside diphosphate kinase activity
+2,GO:0004642,phosphoribosylformylglycinamidine synthase activity
+2,GO:0004725,protein tyrosine phosphatase activity
+2,GO:0030983,mismatched DNA binding
+2,GO:0004585,ornithine carbamoyltransferase activity
+2,GO:0016597,amino acid binding
+2,GO:0008408,3'-5' exonuclease activity
+2,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+2,GO:0004491,methylmalonate-semialdehyde dehydrogenase (acylating) activity
+2,GO:0034011,L-cysteate sulfo-lyase activity
+2,GO:0019148,D-cysteine desulfhydrase activity
+2,GO:0031419,cobalamin binding
+2,GO:0004748,"ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor"
+2,GO:0008081,phosphoric diester hydrolase activity
+2,GO:0008773,[protein-PII] uridylyltransferase activity
+2,GO:0016757,"transferase activity, transferring glycosyl groups"
+2,GO:0018580,nitronate monooxygenase activity
+2,GO:0043531,ADP binding
+2,GO:0008137,NADH dehydrogenase (ubiquinone) activity
+2,GO:0016987,sigma factor activity
+2,GO:0019829,ATPase-coupled cation transmembrane transporter activity
+2,GO:0070040,rRNA (adenine-C2-)-methyltransferase activity
+2,GO:0008235,metalloexopeptidase activity
+2,GO:0004518,nuclease activity
+2,GO:0004096,catalase activity
+2,GO:0016746,"transferase activity, transferring acyl groups"
+2,GO:0004814,arginine-tRNA ligase activity
+2,GO:0030976,thiamine pyrophosphate binding
+1,GO:0003924,GTPase activity
+1,GO:0004152,dihydroorotate dehydrogenase activity
+1,GO:0008881,glutamate racemase activity
+1,GO:0008757,S-adenosylmethionine-dependent methyltransferase activity
+1,GO:0004801,sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity
+1,GO:0008966,phosphoglucosamine mutase activity
+1,GO:0004791,thioredoxin-disulfide reductase activity
+1,GO:0015667,site-specific DNA-methyltransferase (cytosine-N4-specific) activity
+1,GO:0008170,N-methyltransferase activity
+1,GO:0071424,rRNA (cytosine-N4-)-methyltransferase activity
+1,GO:0005315,inorganic phosphate transmembrane transporter activity
+1,GO:0004672,protein kinase activity
+1,GO:0004650,polygalacturonase activity
+1,GO:0018677,pentachlorophenol monooxygenase activity
+1,GO:0004765,shikimate kinase activity
+1,GO:0046316,gluconokinase activity
+1,GO:0071949,FAD binding
+1,GO:0008324,cation transmembrane transporter activity
+1,GO:0008965,phosphoenolpyruvate-protein phosphotransferase activity
+1,GO:0016742,"hydroxymethyl-, formyl- and related transferase activity"
+1,GO:0008927,mannonate dehydratase activity
+1,GO:0004013,adenosylhomocysteinase activity
+1,GO:0004160,dihydroxy-acid dehydratase activity
+1,GO:0016758,"transferase activity, transferring hexosyl groups"
+1,GO:0016879,"ligase activity, forming carbon-nitrogen bonds"
+1,GO:0009002,serine-type D-Ala-D-Ala carboxypeptidase activity
+1,GO:0008726,alkanesulfonate monooxygenase activity
+1,GO:0004047,aminomethyltransferase activity
+1,GO:0004739,pyruvate dehydrogenase (acetyl-transferring) activity
+1,GO:0004821,histidine-tRNA ligase activity
+1,GO:0048037,cofactor binding
+1,GO:0035438,cyclic-di-GMP binding
+1,GO:0008803,bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity
+1,GO:0016990,arginine deiminase activity
+1,GO:0004077,biotin-[acetyl-CoA-carboxylase] ligase activity
+1,GO:0004181,metallocarboxypeptidase activity
+1,GO:0003697,single-stranded DNA binding
+1,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+1,GO:0004830,tryptophan-tRNA ligase activity
+1,GO:0004665,prephenate dehydrogenase (NADP+) activity
+1,GO:0008977,prephenate dehydrogenase (NAD+) activity
+1,GO:0017108,5'-flap endonuclease activity
+1,GO:0004066,asparagine synthase (glutamine-hydrolyzing) activity
+1,GO:0004560,alpha-L-fucosidase activity
+1,GO:0004332,fructose-bisphosphate aldolase activity
+1,GO:0015093,ferrous iron transmembrane transporter activity
+1,GO:0016763,"transferase activity, transferring pentosyl groups"
+1,GO:0008955,peptidoglycan glycosyltransferase activity
+1,GO:0030409,glutamate formimidoyltransferase activity
+1,GO:0005542,folic acid binding
+1,GO:0015299,solute:proton antiporter activity
+1,GO:0008964,phosphoenolpyruvate carboxylase activity
+1,GO:0033856,pyridoxine 5'-phosphate synthase activity
+1,GO:0004674,protein serine/threonine kinase activity
+1,GO:0047943,glutamate-methylamine ligase activity
+1,GO:0003910,DNA ligase (ATP) activity
+1,GO:0008993,rhamnulokinase activity
+1,GO:0015035,protein disulfide oxidoreductase activity
+1,GO:0008998,ribonucleoside-triphosphate reductase activity
+1,GO:0004559,alpha-mannosidase activity
+1,GO:0004523,RNA-DNA hybrid ribonuclease activity
+1,GO:0016831,carboxy-lyase activity
+1,GO:0008987,quinolinate synthetase A activity
+1,GO:0003978,UDP-glucose 4-epimerase activity
+1,GO:0016791,phosphatase activity
+1,GO:0071111,cyclic-guanylate-specific phosphodiesterase activity
+1,GO:0008667,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity"
+1,GO:0004412,homoserine dehydrogenase activity
+1,GO:0004000,adenosine deaminase activity
+1,GO:0016627,"oxidoreductase activity, acting on the CH-CH group of donors"
+1,GO:0004076,biotin synthase activity
+1,GO:0052589,malate dehydrogenase (menaquinone) activity
+1,GO:0008924,malate dehydrogenase (quinone) activity
+1,GO:0004345,glucose-6-phosphate dehydrogenase activity
+1,GO:0003874,6-pyruvoyltetrahydropterin synthase activity
+1,GO:0016040,glutamate synthase (NADH) activity
+1,GO:0004408,holocytochrome-c synthase activity
+1,GO:0003968,RNA-directed 5'-3' RNA polymerase activity
+1,GO:0004176,ATP-dependent peptidase activity
+1,GO:0140078,class I DNA-(apurinic or apyrimidinic site) endonuclease activity
+1,GO:0016799,"hydrolase activity, hydrolyzing N-glycosyl compounds"
+1,GO:0008534,oxidized purine nucleobase lesion DNA N-glycosylase activity
+1,GO:0004852,uroporphyrinogen-III synthase activity
+1,GO:0050662,coenzyme binding
+1,GO:0003908,methylated-DNA-[protein]-cysteine S-methyltransferase activity
+1,GO:0042781,3'-tRNA processing endoribonuclease activity
+1,GO:0004565,beta-galactosidase activity
+1,GO:0000049,tRNA binding
+1,GO:0002935,tRNA (adenine-C2-)-methyltransferase activity
+1,GO:0009036,type II site-specific deoxyribonuclease activity
+1,GO:0051082,unfolded protein binding
+1,GO:0102391,decanoate-CoA ligase activity
+1,GO:0004467,long-chain fatty acid-CoA ligase activity
+1,GO:0003996,acyl-CoA ligase activity
+1,GO:0004812,aminoacyl-tRNA ligase activity
+1,GO:0015159,polysaccharide transmembrane transporter activity
+1,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+1,GO:0003918,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity"
+1,GO:0004654,polyribonucleotide nucleotidyltransferase activity
+1,GO:0004648,O-phospho-L-serine:2-oxoglutarate aminotransferase activity
+1,GO:0047480,UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity
+1,GO:0004073,aspartate-semialdehyde dehydrogenase activity
+1,GO:0004489,methylenetetrahydrofolate reductase (NAD(P)H) activity
+1,GO:0004819,glutamine-tRNA ligase activity
+1,GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+1,GO:0009027,tartrate dehydrogenase activity
+1,GO:0004015,adenosylmethionine-8-amino-7-oxononanoate transaminase activity
+1,GO:0016779,nucleotidyltransferase activity
+1,GO:0003839,gamma-glutamylcyclotransferase activity
+1,GO:0061599,molybdopterin molybdotransferase activity
+1,GO:0008271,secondary active sulfate transmembrane transporter activity
+1,GO:0004602,glutathione peroxidase activity
+1,GO:0005198,structural molecule activity
+1,GO:0052915,23S rRNA (guanine(2445)-N(2))-methyltransferase activity
+1,GO:0070043,rRNA (guanine-N7-)-methyltransferase activity
+1,GO:0033265,choline binding
+1,GO:0004360,glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+1,GO:0004632,phosphopantothenate--cysteine ligase activity
+1,GO:0004633,phosphopantothenoylcysteine decarboxylase activity
+1,GO:0003899,DNA-directed 5'-3' RNA polymerase activity
+1,GO:0015419,ATPase-coupled sulfate transmembrane transporter activity
+1,GO:0008854,exodeoxyribonuclease V activity
+1,GO:0004514,nicotinate-nucleotide diphosphorylase (carboxylating) activity
+1,GO:0016618,hydroxypyruvate reductase activity
+1,GO:0008887,glycerate kinase activity
+1,GO:0004784,superoxide dismutase activity
+1,GO:0004129,cytochrome-c oxidase activity
+1,GO:0080130,L-phenylalanine:2-oxoglutarate aminotransferase activity
+1,GO:0004478,methionine adenosyltransferase activity
+1,GO:0016153,urocanate hydratase activity
+1,GO:0050897,cobalt ion binding
+1,GO:0004367,glycerol-3-phosphate dehydrogenase [NAD+] activity
+1,GO:0050218,propionate-CoA ligase activity
+1,GO:0004820,glycine-tRNA ligase activity
+1,GO:0008661,1-deoxy-D-xylulose-5-phosphate synthase activity
+1,GO:0050334,thiaminase activity
+1,GO:0047112,pyruvate oxidase activity
+1,GO:0102499,SHG alpha-glucan phosphorylase activity
+1,GO:0102250,linear malto-oligosaccharide phosphorylase activity
+1,GO:0008184,glycogen phosphorylase activity
+1,GO:0015293,symporter activity
+1,GO:0004540,ribonuclease activity
+1,GO:0004044,amidophosphoribosyltransferase activity
+1,GO:0016168,chlorophyll binding
+1,GO:0016682,"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"
+1,GO:0045156,"electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity"
+1,GO:0008239,dipeptidyl-peptidase activity
+1,GO:0042279,"nitrite reductase (cytochrome, ammonia-forming) activity"
+1,GO:0003999,adenine phosphoribosyltransferase activity
+1,GO:0016992,lipoate synthase activity
+1,GO:0004144,diacylglycerol O-acyltransferase activity
+1,GO:0008767,UDP-galactopyranose mutase activity
+1,GO:0003848,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity
