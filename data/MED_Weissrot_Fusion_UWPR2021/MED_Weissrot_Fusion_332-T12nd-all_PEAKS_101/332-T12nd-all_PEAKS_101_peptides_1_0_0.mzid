@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BSI implementation of mzIdentML version 1.0.0 output for PEAKS Studio -->
+<mzIdentML id="MZIDENTML_1" version="1.0.0" xmlns="http://psidev.info/psi/pi/mzIdentML/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://psidev.info/psi/pi/mzIdentML/1.0 ../../schema/mzIdentML1.0.0.xsd" creationDate="2021-02-21T22:54:00.000-08:00">
+  <cvList xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <cv id="PSI-MS" URI="http://psidev.cvs.sourceforge.net/viewvc/*checkout*/psidev/psi/psi-ms/mzML/controlledVocabulary/psi-ms.obo" version="2.25.0" fullName="PSI-MS"/>
+    <cv id="UNIMOD" URI="http://www.unimod.org/obo/unimod.obo" fullName="UNIMOD"/>
+    <cv id="UO" URI="http://obo.cvs.sourceforge.net/*checkout*/obo/obo/ontology/phenotype/unit.obo" fullName="UNIT-ONTOLOGY"/>
+  </cvList>
+  <AnalysisSoftwareList xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <AnalysisSoftware id="ANALYSIS_SOFTWARE_PEAKS_1" name="PEAKS Studio" version="8.5 (2017-08-04)" URI="http://www.bioinformaticssolutions.com/peaks">
+      <ContactRole Contact_ref="PERSON_DOC_OWNER">
+        <role>
+          <cvParam accession="MS:1001267" name="software vendor" cvRef="PSI-MS"/>
+        </role>
+      </ContactRole>
+      <SoftwareName>
+        <cvParam accession="MS:1001946" name="PEAKS Studio" cvRef="PSI-MS"/>
+      </SoftwareName>
+    </AnalysisSoftware>
+  </AnalysisSoftwareList>
+  <Provider id="PROVIDER" xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <ContactRole Contact_ref="PERSON_DOC_OWNER">
+      <role>
+        <cvParam accession="MS:1001271" name="researcher" cvRef="PSI-MS"/>
+      </role>
+    </ContactRole>
+  </Provider>
+  <AuditCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <Person firstName="firstname" lastName="lastName" id="PERSON_DOC_OWNER">
+      <affiliations Organization_ref="ORG_DOC_OWNER"/>
+    </Person>
+    <Organization name="name" id="ORG_DOC_OWNER"/>
+  </AuditCollection>
+  <SequenceCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <DBSequence accession="gi|54036848" SearchDatabase_ref="SEARCHDATABASE_1" length="857" id="DBSEQUENCE_195317">
+      <seq>MRLDRLTNKFQLALADAQSLALGHDNQFIEPLHLMSALLNQEGGSVSPLLTSAGINAGQLRTDINQALNRLPQVEGTGGDVQPSQDLVRVLNLCDKLAQKRGDNFISSELFVLAALESRGTLADILKAAGATTANITQAIEQMRGGESVNDQGAEDQRQALKKYTIDLTERAEQGKLDPVIGRDEEIRRTIQVLQRRTKNNPVLIGEPGVGKTAIVEGLAQRIINGEVPEGLKGRRVLALDMGALVAGAKYRGEFEERLKGVLNDLAKQEGNVILFIDELHTMVGAGKADGAMDAGNMLKPALARGELHCVGATTLDEYRQYIEKDAALERRFQKVFVAEPSVEDTIAILRGLKERYELHHHVQITDPAIVAAATLSHRYIADRQLPDKAIDLIDEAASSIRMQIDSKPEELDRLDRRIIQLKLEQQALMKESDEASKKRLDMLNEELSDKERQYSELEEEWKAEKASLSGTQTIKAELEQAKIAIEQARRVGDLARMSELQYGKIPELEKQLEAATQLEGKTMRLLRNKVTDAEIAEVLARWTGIPVSRMMESEREKLLRMEQELHHRVIGQNEAVDAVSNAIRRSRAGLADPNRPIGSFLFLGPTGVGKTELCKALANFMFDSDEAMVRIDMSEFMEKHSVSRLVGAPPGYVGYEEGGYLTEAVRRRPYSVILLDEVEKAHPDVFNILLQVLDDGRLTDGQGRTVDFRNTVVIMTSNLGSDLIQERFGELDYAHMKELVLGVVSHNFRPEFINRIDEVVVFHPLGEQHIASIAQIQLKRLYKRLEERGYEIHISDEALKLLSENGYDPVYGARPLKRAIQQQIENPLAQQILSGELVPGKVIRLEVNEDRIVAVQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0201860448" SearchDatabase_ref="SEARCHDATABASE_1" length="306" id="DBSEQUENCE_195326">
+      <seq>HQRNLKMKLAVLAALFGSAAAFAPAQTGKATSALNAFESELGAQPPLGFFDPLGLLDDADQERFDRLRYVEIKHGRIAQLAFLGNIITRAGVHLPGNIDYAGNSFDSFPNGWAAILDAAFAPAQTGKATSALNAFESELGAQPPLGFFDPLGLLDDADQERFDRLRYVEIKHGRIAQLAFLGNIITRAGVHLPGNIDYAGNSFDSFPNGWAAISGPDAISGSGLGQIVAFVGFLELFVMKDVTGEGEFVGDFRNGALDFGWDKFDAETKLSKRAIELNNGRAAMMGILGLMVHEQLGGSLPIVGEM</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0201860448"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203546162" SearchDatabase_ref="SEARCHDATABASE_1" length="212" id="DBSEQUENCE_195318">
+      <seq>XKMKLAILAALFGSAAAFAPSQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQVVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDEETKLQKRAIELNNGRAAMMGILGLMVHEEIIPLGYDPDLPIIGHLQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203546162"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203258860" SearchDatabase_ref="SEARCHDATABASE_1" length="232" id="DBSEQUENCE_195319">
+      <seq>XRFEASFEHINVIIQSETISNMMKLAALAALMGSAAAFAPAQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQVVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDEETKLQKRAIELNNGRAAMMGILGLMVHEEIIPLGYDPDLPIIGHLQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203258860"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203319814" SearchDatabase_ref="SEARCHDATABASE_1" length="240" id="DBSEQUENCE_195320">
+      <seq>MMKLAALAALMGSAAAFAPAQTGKAFTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQIVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFNEETKLQKRAIELNNGRRNGYIDFGWDDFDEETKLQKRAIELNNGRAAMMGILGLMVHEEIIPLGYDPDLPIIGHLQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203319814"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203628344" SearchDatabase_ref="SEARCHDATABASE_1" length="339" id="DBSEQUENCE_195321">
+      <seq>MKNNDCVLTRLLVYTTSHSSEEEKRLSTQKTNSSTWFMSNWVQQFIGGVNDRKIGVVSERNDLLVDHKSEDSHHGGTAVVELDGTLLELGLLVEVIPAEVNVSGGTTARFHSTFEGINVIIQSETISNMMKLAALAALMGSAAAFAPAQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQVVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDEETKLQKRAIELNNGRAAMMGILGLMVHEEIIPLGYDPDLPIIGHLQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203628344"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0201860518" SearchDatabase_ref="SEARCHDATABASE_1" length="393" id="DBSEQUENCE_195322">
+      <seq>MMKLAALAALMGSAAAFAPAQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQIVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDEETKLQKRAXIQSGTISNMMKLAALAALMGSAAAFAPAQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQVVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQMIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDEETKLQKRAIELNNGRAAMMGILGLMVHEEIIPLGYDPDLPIIGHLQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0201860518"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203473996" SearchDatabase_ref="SEARCHDATABASE_1" length="431" id="DBSEQUENCE_195323">
+      <seq>XGCRFEGSFERINVIIQSETISNMMKLAALAALMGSAAAFAPAQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQVVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDXXXFFFCRLEHLYHSCSQISFGVNEEEVINLTNMMKLAALAALMGSAAAFAPAQTGKASTQLRAFEDELGAQPPLGFFDPFGMLSGDCTQERFDRLRYVEIKHGRICMLAFLGQIVTRAGIHLPGSINYAGDSFDSFPNGVAALFGPNSIPTAGLVQIIAFIGVLECAFMRDVPGTGNEFVGDFRNGYIDFGWDDFDEETKLQKRAIELNNGRAAMMGILGLMVHEEIIPLGYDPDLPIIGHLQ</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203473996"/>
+    </DBSequence>
+    <DBSequence accession="tr|A0A089VKF6|A0A089VKF6_THAWE" SearchDatabase_ref="SEARCHDATABASE_1" length="509" id="DBSEQUENCE_195327">
+      <seq>MALPWYRVHTVVLNDPGRLISVHLMHTALVAGWAGSMALYELAVFDPSDPVLNPMWRQGMFVMPFMTRLGITDSWGGWSITGESVSNPGLWSFEGVALSHIVLSGMCFLAAIWHWVYWDLELFRDPRTGEPALDLPKIFGIHLLLSGLLCFGFGAFHVTGLFGPGIWVSDAYGITGKVQPVAPAWGADGFNPFNPGGIAAHHIAAGIFGIFAGIFHLTVRPPQRLYRALRMGNIETVLSSSISAVFWAAFVTSGTMWYGAAATPIELFGPTRYQWDSGYFQQEIERQVEASVSEGLSESQAWSRIPDKLAFYDYIGNNPAKGGLFRSGPMNKGDGIAEAWLGHPIFRDKEGRELTVRRMPAFFESFPVILVDKDGIIRADIPFRRAESKYSIEQVGVTVDFYGGKLNGQTFKDAPTVKKFARKAQLGEVFEFDRTSLESDGVFRSSPRGWYTFGHANFALLFFLGHLWHGGRTIFRDVFTGIGAEVTEQVEFGAFQKLGDKTTKKQGAV</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203103378" SearchDatabase_ref="SEARCHDATABASE_1" length="509" id="DBSEQUENCE_195328">
+      <seq>MALPWYRVHTVVLNDPGRLISVHLMHTALVAGWAGSMALYELAVFDPSDPVLNPMWRQGMFVMPFMTRLGITDSWGGWSITGESVSNPGLWSFEGVALSHIVLSGMCFLAAIWHWVYWDLELFRDPRTGEPALDLPKIFGIHLLLSGLLCFGFGAFHVTGLFGPGIWVSDAYGITGKVQPVAPAWGADGFNPFNPGGIAAHHIAAGIFGIFAGIFHLTVRPPQRLYRALRMGNIETVLSSSISAVFWAAFVTSGTMWYGAAATPIELFGPTRYQWDSGYFQQEIERQVEASVSEGLSESQAWSRIPDKLAFYDYIGNNPAKGGLFRSGPMNKGDGIAEAWLGHPIFRDKEGRELTVRRMPAFFESFPVILVDKDGIIRADIPFRRAESKYSIEQVGVTVDFYGGKLNGQTFKDAPTVKKFARKAQLGEVFEFDRTSLESDGVFRSSPRGWYTFGHANFALLFFLGHLWHGGRTIFRDVFTGIGAEVTEQVEFGAFQKLGDKTTKKQGAV</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203103378"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203172898" SearchDatabase_ref="SEARCHDATABASE_1" length="204" id="DBSEQUENCE_195329">
+      <seq>MMKLAALAALMGSAAAFAPAQTGKATTALNAFESELGAQPPLGFFDPLGLLDEAGQARFDRLRYVEIKHGRICQLAFLGNIITRAGIHLPGNIDTAGDSFDSYPNGFGALFGPDAIPQDGRLQILFFIGFLELFVMKDVTGQGEFVGDFRNGFIDFGWDKFDEETKLKKRAIELNNGRAAMMGILGLMVHEKLGGELPIVGPMX</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203172898"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0203264230" SearchDatabase_ref="SEARCHDATABASE_1" length="93" id="DBSEQUENCE_195333">
+      <seq>XGPDAIPGAGFAQIVAFIGALELGVMKDVTGEAEFVGDFRNGALDFGWDSFDEETKLSKRAIELNNGRAAMMGILGLMVHEQLGGELPIVGQM</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0203264230"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0201806284" SearchDatabase_ref="SEARCHDATABASE_1" length="210" id="DBSEQUENCE_195349">
+      <seq>MMKLVILATLASTATAFLSPFSTVQQQFRAPATRIFADEAEGDSENAPAPRSAQEISALTSSVKTVFSLEDIAKVLPHRYPFLLVDKVVEYEMGKRAVGIKSVTLNEPHFTGHFPDRPIMPGVLQVEALAQLAGIVCLQMEGAEPGAVFFFAGVDGVKWKKPVVPGDTLVMEVEIKKWNKRFGIATATGRSYVDGEIAVELDEMKFALAK</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0201806284"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0171348692" SearchDatabase_ref="SEARCHDATABASE_1" length="269" id="DBSEQUENCE_195341">
+      <seq>MATNKFFKSLLFTLTIAISSFGFCVENSFAYPVFAQQGYSNPRAANGKLACANCHLNQKAIEIEAPQGVLPNSVFEVEIKVPYDVNRQQIGADGKPADLNVGGILILPKGFKLASKAQISPEVKAKNKGVFISPYSTEFDNILIVGPIAGKTHQELIFPVVAPDPDKNQDVKYLTYPFYAGGNRGRGQVYPTGEKSNINAFGATQAGQITDITTTEKGESVITIVNSDGAKTSQTLSAGLKLLVKQSDIVKLDQPLNIDPNVGGFGQEE</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0171348692"/>
+    </DBSequence>
+    <DBSequence accession="tr|A0A089VIP5|A0A089VIP5_THAWE" SearchDatabase_ref="SEARCHDATABASE_1" length="314" id="DBSEQUENCE_195342">
+      <seq>MATNKFFKSLLFTLTIAISSFGFCVENSFAYPVFAQQGYSNPRAANGKLACANCHLNQKAIEIEAPQGVLPNSVFEVEIKVPYDVNRQQIGADGKPADLNVGGILILPKGFKLASKAQISPEVKAKNKGVFISPYSTEFDNILIVGPIAGKTHQELIFPVVAPDPDKNQDVKYLTYPFYAGGNRGRGQVYPTGEKSNINAFGATQAGQITDITTTEKGESVITIVNSDGAKTSQTLSAGLKLLVKQSDIVKLDQPLNIDPNVGGFGQEESEIVLQSSSRIIGYLAFCFCLLLTQVLLVLKKKQYEKVQAAELNF</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1"/>
+    </DBSequence>
+    <DBSequence accession="tr|A0A089VIJ5|A0A089VIJ5_THAWE" SearchDatabase_ref="SEARCHDATABASE_1" length="733" id="DBSEQUENCE_195352">
+      <seq>MATKFPKFSQALAQDPATRRIWYGIATAHDLEAHDGMTEENLYQKIFASHFGHLAIIFLWTAGNLFHVAWQGNFEKWVTNPLKTRPIAHSIWDPHFGESALKAFSKGNTYPVNITFAGLYQWWYTIGFRTNQELYKASIGVLLLSSVLLIAGWLHLQPKFRPSLSWFKNNESRLNHHLSGLLGFSSLAWTGHLVHVAIPASRGVHVGWDNFLTTPPHPAGLTPFFTGNWTVYAENPDSASHAFNTSDGAGTAILTFLGGFHPQTQSLWLSDIAHHHLAIAVVFIVAGHMYRTNFGIGHNMKEILDAHRPPGGRLGAGHVGLFETITNSLHMQLGLALACLGVATSLTAQHMYALTPYAYLSKDFTTEAALYTHHQYIAGFLMVGAFAHGAIFFVRDYDPELNKNNVLARMLEHKEAIISHLSWASLFLGFHTLGLYIHNDTVVAFGQPEKQILFEPLFAEYIQAASGKAVYEFNVLLASSTSPATAAGNQVWLPGWLEAINDPKTDLFLKIGPGDFLVHHAIALGLHVTALILVKGALDARGSKLMPDKKDFGYSFPCDGPGRGGTCDISAWDAFYLAMFWMLNTIGWVTFYWHWKHMTIWGGNPGQFDESSNYIMGWLRDYLWLNSSPLINGYNPFGMNNLSVWSWMFLFGHLIWATGFMFLISWRGYWQELIETLVWAHERTPLANLIRWRDKPVALSIVQARLVGLVHFSVGYILTYAAFVIASTSGKFA</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1"/>
+    </DBSequence>
+    <DBSequence accession="Thalassiosira_weissflogii_0201788838" SearchDatabase_ref="SEARCHDATABASE_1" length="431" id="DBSEQUENCE_195343">
+      <seq>MALNPHKLGVHKVLQYIPLNAIFDAPSKARLRKAVNIADLRLCAKARAHKMVFDYLDAGADDEISLRRGKDAYSELEMHFHILSGLKPPLDLSTKIFGQDVKLPFFGCPTAGNRMFHWEGESAAAKAAQHHGTLYGLSSLATTGITEIGKLTDGPKVFQLYVWKDRELVKEVLAKAKEGGFHAMALTVDFTWYGNRERDIRNDFSIPPKYSLNQIIEAIRKPAWTYDFLSHEPYTYACINTDVPADSLAAFVNSQLCPEFDWRDAEWLLGEWNMPSAVKGVCRPDDAIKAVETGFTTMWVSNHGARQLETSPATIDVLPSIREAVGPDVEIILDGGVQRGTDICKALALGADAVGVGKPYLYGLAAGGTEGVIKAYDILKTELDRAMGLLGTGTVDELKKRGPGLIKKRNGSVRDYPDRYAYERGYGGGII</seq>
+      <cvParam accession="MS:1001088" name="protein description" cvRef="PSI-MS" value="Thalassiosira_weissflogii_0201788838"/>
+    </DBSequence>
+    <Peptide id="PEPTIDE_366344">
+      <peptideSequence>LPQVEGTGGDVQPSQDLVR</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367524">
+      <peptideSequence>VTDAEIAEVLAR</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367176">
+      <peptideSequence>VIGQNEAVDAVSNAIR</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367885">
+      <peptideSequence>AIDLIDEAASSIR</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365625">
+      <peptideSequence>NPAKGGLF</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367802">
+      <peptideSequence>SLEDIAKVLPH</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_368144">
+      <peptideSequence>GAQPPLGFF</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_368177">
+      <peptideSequence>GYDPDLPIIGHL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366751">
+      <peptideSequence>GWDDFDEETKLQK</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366701">
+      <peptideSequence>GIHLPGNIDTA</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367373">
+      <peptideSequence>AHGAIFF</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365228">
+      <peptideSequence>VGDFRNGY</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366844">
+      <peptideSequence>GVHLPGNIDYA</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_364226">
+      <peptideSequence>GVMKDVTGE</peptideSequence>
+      <Modification monoisotopicMassDelta="15.994915" location="3" residues="M">
+        <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation" />      
+      </Modification>
+    </Peptide>
+    <Peptide id="PEPTIDE_367315">
+      <peptideSequence>GYDPDLPIIGH</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367259">
+      <peptideSequence>GEFVGDFRNGAL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365303">
+      <peptideSequence>YIGNNPAKGGL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366166">
+      <peptideSequence>AGVHLPGNID</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366067">
+      <peptideSequence>AGGVAVIKV</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367714">
+      <peptideSequence>LGYDPDLPIIGH</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365033">
+      <peptideSequence>GVMKDVTGE</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366679">
+      <peptideSequence>VVLNDPGRLIS</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_364867">
+      <peptideSequence>MVHEQL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366969">
+      <peptideSequence>AGVHLPGNIDYA</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366916">
+      <peptideSequence>GVHLPGNIDY</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_363960">
+      <peptideSequence>DKEGRELT</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367776">
+      <peptideSequence>GGELPIVGQM</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365099">
+      <peptideSequence>KFDEETKL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_364282">
+      <peptideSequence>DSGGARIQE</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367185">
+      <peptideSequence>AAISGPDAIPGAGLA</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367405">
+      <peptideSequence>SIWDPHFGES</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367866">
+      <peptideSequence>DFGWDKF</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367600">
+      <peptideSequence>MVHEEIIPL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366742">
+      <peptideSequence>MGGSGNILAGG</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_364473">
+      <peptideSequence>VMKDVTGE</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367348">
+      <peptideSequence>MVHEEIIPL</peptideSequence>
+      <Modification monoisotopicMassDelta="15.994915" location="1" residues="M">
+        <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation" />      
+      </Modification>
+    </Peptide>
+    <Peptide id="PEPTIDE_367257">
+      <peptideSequence>GQDVKLPF</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366385">
+      <peptideSequence>FDWRDAE</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365703">
+      <peptideSequence>NNPAKGGLF</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366889">
+      <peptideSequence>FVGDFRNGAL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367070">
+      <peptideSequence>PAILLET</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367071">
+      <peptideSequence>PALLIET</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_364907">
+      <peptideSequence>GLMVHEE</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365888">
+      <peptideSequence>AISGPDAIPGAG</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366316">
+      <peptideSequence>MVHEEIIP</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366475">
+      <peptideSequence>IIDTPGHVDFT</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365128">
+      <peptideSequence>IGADGKPADL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_364996">
+      <peptideSequence>VDKVVEY</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_365734">
+      <peptideSequence>VGDFRNGAL</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367452">
+      <peptideSequence>NVGGILILPK</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367253">
+      <peptideSequence>YDPDLPIIGH</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366486">
+      <peptideSequence>GGGKLKGVGG</peptideSequence>
+      <Modification monoisotopicMassDelta="14.01565" location="4" residues="K">
+        <cvParam accession="UNIMOD:34" cvRef="UNIMOD" name="Methyl" />      
+      </Modification>
+      <Modification monoisotopicMassDelta="15.9949" location="6" residues="K">
+        <cvParam accession="MS:1001460" cvRef="PSI-MS" name="unknown modification"  value="Oxidation(KPRY)" />      
+      </Modification>
+    </Peptide>
+    <Peptide id="PEPTIDE_365393">
+      <peptideSequence>AAIGPGIGQG</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_366509">
+      <peptideSequence>QEYGPHLPGDA</peptideSequence>
+      <Modification monoisotopicMassDelta="-17.026548" location="0" residues="Q">
+        <cvParam accession="UNIMOD:28" cvRef="UNIMOD" name="Gln->pyro-Glu" />      
+      </Modification>
+    </Peptide>
+    <Peptide id="PEPTIDE_366937">
+      <peptideSequence>SVFEVEIK</peptideSequence>
+    </Peptide>
+    <Peptide id="PEPTIDE_367584">
+      <peptideSequence>FGWDKF</peptideSequence>
+    </Peptide>
+  </SequenceCollection>
+  <AnalysisCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <SpectrumIdentification SpectrumIdentificationList_ref="SII_LIST_1" SpectrumIdentificationProtocol_ref="SPECTRUMIDENTIFICATIONPROTOCOL_1" id="SI_101">
+      <InputSpectra SpectraData_ref="SPECTRADATA_23"/>
+      <SearchDatabase SearchDatabase_ref="SEARCHDATABASE_1"/>
+    </SpectrumIdentification>
+    <ProteinDetection id="PD_101" ProteinDetectionProtocol_ref="PDP_PEAKS_1" ProteinDetectionList_ref="PDL_1">
+      <InputSpectrumIdentifications SpectrumIdentificationList_ref="SII_LIST_1"/>
+    </ProteinDetection>
+  </AnalysisCollection>
+  <AnalysisProtocolCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+    <SpectrumIdentificationProtocol AnalysisSoftware_ref="ANALYSIS_SOFTWARE_PEAKS_1" id="SPECTRUMIDENTIFICATIONPROTOCOL_1">
+      <SearchType>
+        <cvParam accession="MS:1001083" cvRef="PSI-MS" name="ms-ms search"/>
+      </SearchType>
+      <AdditionalSearchParams>
+        <cvParam accession="MS:1001211" cvRef="PSI-MS" name="parent mass type mono"/>
+      </AdditionalSearchParams>
+      <ModificationParams>
+        <SearchModification fixedMod="true">
+          <ModParam massDelta="57.021465" residues="C">
+            <cvParam accession="UNIMOD:4" cvRef="UNIMOD" name="Carbamidomethyl"/>
+          </ModParam>
+        </SearchModification>
+        <SearchModification fixedMod="false">
+          <ModParam massDelta="15.9949" residues="K P R Y">
+            <cvParam accession="MS:1001460" cvRef="PSI-MS" name="unknown modification" value="Oxidation(KPRY)"/>
+          </ModParam>
+        </SearchModification>
+        <SearchModification fixedMod="false">
+          <ModParam massDelta="15.994915" residues="M">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+          </ModParam>
+        </SearchModification>
+        <SearchModification fixedMod="false">
+          <ModParam massDelta="42.010567" residues="K">
+            <cvParam accession="UNIMOD:1" cvRef="UNIMOD" name="Acetyl"/>
+          </ModParam>
+        </SearchModification>
+        <SearchModification fixedMod="false">
+          <ModParam massDelta="0.984" residues="N">
+            <cvParam accession="MS:1001460" cvRef="PSI-MS" name="unknown modification" value="Deamidation(N)"/>
+          </ModParam>
+        </SearchModification>
+        <SearchModification fixedMod="false">
+          <ModParam massDelta="14.01565" residues="K R">
+            <cvParam accession="UNIMOD:34" cvRef="UNIMOD" name="Methyl"/>
+          </ModParam>
+        </SearchModification>
+        <SearchModification fixedMod="false">
+          <ModParam massDelta="-17.026548" residues="Q">
+            <cvParam accession="UNIMOD:28" cvRef="UNIMOD" name="Gln->pyro-Glu"/>
+          </ModParam>
+          <SpecificityRules>
+            <cvParam accession="MS:1001189" cvRef="PSI-MS" name="modification specificity N-term"/>
+          </SpecificityRules>
+        </SearchModification>
+      </ModificationParams>
+      <Enzymes>
+        <Enzyme   id="ENZ_0">
+          <EnzymeName>
+            <cvParam accession="MS:1001091" name="NoEnzyme" cvRef="PSI-MS"/>
+          </EnzymeName>
+        </Enzyme>
+      </Enzymes>
+      <FragmentTolerance>
+        <cvParam accession="MS:1001412" cvRef="PSI-MS" unitCvRef="UO" unitName="dalton" unitAccession="UO:0000221" value="0.5" name="search tolerance plus value"/>
+        <cvParam accession="MS:1001413" cvRef="PSI-MS" unitCvRef="UO" unitName="dalton" unitAccession="UO:0000221" value="0.5" name="search tolerance minus value"/>
+      </FragmentTolerance>
+      <ParentTolerance>
+        <cvParam accession="MS:1001412" cvRef="PSI-MS" unitCvRef="UO" unitName="parts per million" unitAccession="UO:0000169" value="15.0" name="search tolerance plus value"/>
+        <cvParam accession="MS:1001413" cvRef="PSI-MS" unitCvRef="UO" unitName="parts per million" unitAccession="UO:0000169" value="15.0" name="search tolerance minus value"/>
+      </ParentTolerance>
+      <Threshold>
+        <cvParam accession="MS:1001494" cvRef="PSI-MS" name="no threshold"/>
+      </Threshold>
+    </SpectrumIdentificationProtocol>
+    <ProteinDetectionProtocol id="PDP_PEAKS_1" AnalysisSoftware_ref="ANALYSIS_SOFTWARE_PEAKS_1">
+      <Threshold>
+        <cvParam accession="MS:1001494" name="no threshold" cvRef="PSI-MS"/>
+      </Threshold>
+    </ProteinDetectionProtocol>
+  </AnalysisProtocolCollection>
+  <DataCollection>
+    <Inputs xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+      <SourceFile location="file:/C:/Users/Keil%20Lab/PeaksProjects/MED_Weissrot_Fusion_UWPR2021/" id="PROJECT_1">
+        <fileFormat>
+          <cvParam accession="MS:1001107" cvRef="PSI-MS" name="data stored in database"/>
+        </fileFormat>
+      </SourceFile>
+      <SearchDatabase numDatabaseSequences="84223" location="file:/D:/weissflogii-dbs/090820_Weissrot_Combineddbs_validated" id="SEARCHDATABASE_1" name="Weissrot_combined_mmetsp-uniprot_090820">
+        <fileFormat>
+          <cvParam accession="MS:1001348" cvRef="PSI-MS" name="FASTA format"/>
+        </fileFormat>
+        <DatabaseName>
+          <userParam name="Weissrot_combined_mmetsp-uniprot_090820"/>
+        </DatabaseName>
+      </SearchDatabase>
+      <SpectraData location="file:/D:/Jan2021_UWPR_Fusion/2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" id="SPECTRADATA_23">
+        <fileFormat>
+          <cvParam accession="MS:1000563" cvRef="PSI-MS" name="Thermo RAW file"/>
+        </fileFormat>
+        <spectrumIDFormat>
+          <cvParam accession="MS:1000774" cvRef="PSI-MS" name="multiple peak list nativeID format"/>
+        </spectrumIDFormat>
+      </SpectraData>
+    </Inputs>
+    <AnalysisData>
+      <SpectrumIdentificationList id="SII_LIST_1" xmlns="http://psidev.info/psi/pi/mzIdentML/1.0">
+        <FragmentationTable>
+          <Measure id="Measure_MZ">
+            <cvParam accession="MS:1001225" cvRef="PSI-MS" unitCvRef="PSI-MS" unitName="m/z" unitAccession="MS:1000040" name="product ion m/z"/>
+          </Measure>
+          <Measure id="Measure_Error">
+            <cvParam accession="MS:1001227" cvRef="PSI-MS" unitCvRef="PSI-MS" unitName="m/z" unitAccession="MS:1000040" name="product ion m/z error"/>
+          </Measure>
+        </FragmentationTable>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=1253" id="SPECGROUP_514607">
+          <SpectrumIdentificationItem calculatedMassToCharge="474.24323" chargeState="2" experimentalMassToCharge="474.2446" id="SII_514607_363960" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_363960">
+            <PeptideEvidence isDecoy="false" end="355" start="348" DBSequence_Ref="DBSEQUENCE_195327" id="PEPTIDEEVIDENCE_SPECGROUP_514607_PEPTIDE_363960_DBSEQUENCE_tr|A0A089VKF6|A0A089VKF6_THAWE" pre="R" post="V"/>
+            <PeptideEvidence isDecoy="false" end="355" start="348" DBSequence_Ref="DBSEQUENCE_195328" id="PEPTIDEEVIDENCE_SPECGROUP_514607_PEPTIDE_363960_DBSEQUENCE_Thalassiosira_weissflogii_0203103378" pre="R" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.69" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=5385" id="SPECGROUP_518739">
+          <SpectrumIdentificationItem calculatedMassToCharge="407.6918" chargeState="2" experimentalMassToCharge="407.6923" id="SII_518739_364907" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_364907">
+            <PeptideEvidence isDecoy="false" end="195" start="189" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_518739_PEPTIDE_364907_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="I"/>
+            <PeptideEvidence isDecoy="false" end="215" start="209" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_518739_PEPTIDE_364907_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="I"/>
+            <PeptideEvidence isDecoy="false" end="223" start="217" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_518739_PEPTIDE_364907_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="I"/>
+            <PeptideEvidence isDecoy="false" end="322" start="316" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_518739_PEPTIDE_364907_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="I"/>
+            <PeptideEvidence isDecoy="false" end="376" start="370" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_518739_PEPTIDE_364907_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="I"/>
+            <PeptideEvidence isDecoy="false" end="414" start="408" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_518739_PEPTIDE_364907_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="I"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.57" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=5812" id="SPECGROUP_519166">
+          <SpectrumIdentificationItem calculatedMassToCharge="426.22906" chargeState="2" experimentalMassToCharge="426.2301" id="SII_519166_364996" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_364996">
+            <PeptideEvidence isDecoy="false" end="91" start="85" DBSequence_Ref="DBSEQUENCE_195349" id="PEPTIDEEVIDENCE_SPECGROUP_519166_PEPTIDE_364996_DBSEQUENCE_Thalassiosira_weissflogii_0201806284" pre="L" post="E"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.24" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=6178" id="SPECGROUP_519532">
+          <SpectrumIdentificationItem calculatedMassToCharge="505.26364" chargeState="2" experimentalMassToCharge="505.2641" id="SII_519532_365099" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_365099">
+            <PeptideEvidence isDecoy="false" end="167" start="160" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_519532_PEPTIDE_365099_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="D" post="K"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.53" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=6286" id="SPECGROUP_519640">
+          <SpectrumIdentificationItem calculatedMassToCharge="478.75598" chargeState="2" experimentalMassToCharge="478.7570" id="SII_519640_365128" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_365128">
+            <PeptideEvidence isDecoy="false" end="99" start="90" DBSequence_Ref="DBSEQUENCE_195341" id="PEPTIDEEVIDENCE_SPECGROUP_519640_PEPTIDE_365128_DBSEQUENCE_Thalassiosira_weissflogii_0171348692" pre="Q" post="N"/>
+            <PeptideEvidence isDecoy="false" end="99" start="90" DBSequence_Ref="DBSEQUENCE_195342" id="PEPTIDEEVIDENCE_SPECGROUP_519640_PEPTIDE_365128_DBSEQUENCE_tr|A0A089VIP5|A0A089VIP5_THAWE" pre="Q" post="N"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.27" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=6649" id="SPECGROUP_520003">
+          <SpectrumIdentificationItem calculatedMassToCharge="464.21957" chargeState="2" experimentalMassToCharge="464.2199" id="SII_520003_365228" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_365228">
+            <PeptideEvidence isDecoy="false" end="156" start="149" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_520003_PEPTIDE_365228_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="F" post="I"/>
+            <PeptideEvidence isDecoy="false" end="176" start="169" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_520003_PEPTIDE_365228_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="F" post="I"/>
+            <PeptideEvidence isDecoy="false" end="155" start="148" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_520003_PEPTIDE_365228_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="F" post="I"/>
+            <PeptideEvidence isDecoy="false" end="283" start="276" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_520003_PEPTIDE_365228_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="F" post="I"/>
+            <PeptideEvidence isDecoy="false" end="155" start="148" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_520003_PEPTIDE_365228_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="F" post="I"/>
+            <PeptideEvidence isDecoy="false" end="178" start="171" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_520003_PEPTIDE_365228_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="F" post="I"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.18" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=6939" id="SPECGROUP_520293">
+          <SpectrumIdentificationItem calculatedMassToCharge="552.2958" chargeState="2" experimentalMassToCharge="552.2970" id="SII_520293_365303" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_365303">
+            <PeptideEvidence isDecoy="false" end="324" start="314" DBSequence_Ref="DBSEQUENCE_195327" id="PEPTIDEEVIDENCE_SPECGROUP_520293_PEPTIDE_365303_DBSEQUENCE_tr|A0A089VKF6|A0A089VKF6_THAWE" pre="D" post="F"/>
+            <PeptideEvidence isDecoy="false" end="324" start="314" DBSequence_Ref="DBSEQUENCE_195328" id="PEPTIDEEVIDENCE_SPECGROUP_520293_PEPTIDE_365303_DBSEQUENCE_Thalassiosira_weissflogii_0203103378" pre="D" post="F"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.44" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=8203" id="SPECGROUP_521557">
+          <SpectrumIdentificationItem calculatedMassToCharge="402.22412" chargeState="2" experimentalMassToCharge="402.2247" id="SII_521557_365625" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_365625">
+            <PeptideEvidence isDecoy="false" end="325" start="318" DBSequence_Ref="DBSEQUENCE_195327" id="PEPTIDEEVIDENCE_SPECGROUP_521557_PEPTIDE_365625_DBSEQUENCE_tr|A0A089VKF6|A0A089VKF6_THAWE" pre="N" post="R"/>
+            <PeptideEvidence isDecoy="false" end="325" start="318" DBSequence_Ref="DBSEQUENCE_195328" id="PEPTIDEEVIDENCE_SPECGROUP_521557_PEPTIDE_365625_DBSEQUENCE_Thalassiosira_weissflogii_0203103378" pre="N" post="R"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="20.61" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=8380" id="SPECGROUP_521734">
+          <SpectrumIdentificationItem calculatedMassToCharge="459.24557" chargeState="2" experimentalMassToCharge="459.2466" id="SII_521734_365703" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_365703">
+            <PeptideEvidence isDecoy="false" end="325" start="317" DBSequence_Ref="DBSEQUENCE_195327" id="PEPTIDEEVIDENCE_SPECGROUP_521734_PEPTIDE_365703_DBSEQUENCE_tr|A0A089VKF6|A0A089VKF6_THAWE" pre="G" post="R"/>
+            <PeptideEvidence isDecoy="false" end="325" start="317" DBSequence_Ref="DBSEQUENCE_195328" id="PEPTIDEEVIDENCE_SPECGROUP_521734_PEPTIDE_365703_DBSEQUENCE_Thalassiosira_weissflogii_0203103378" pre="G" post="R"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.71" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=10324" id="SPECGROUP_523678">
+          <SpectrumIdentificationItem calculatedMassToCharge="484.24948" chargeState="2" experimentalMassToCharge="484.2504" id="SII_523678_366316" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366316">
+            <PeptideEvidence isDecoy="false" end="198" start="191" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_523678_PEPTIDE_366316_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="218" start="211" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_523678_PEPTIDE_366316_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="226" start="219" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_523678_PEPTIDE_366316_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="325" start="318" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_523678_PEPTIDE_366316_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="379" start="372" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_523678_PEPTIDE_366316_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="417" start="410" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_523678_PEPTIDE_366316_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.42" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=10337" id="SPECGROUP_523691">
+          <SpectrumIdentificationItem calculatedMassToCharge="665.6762" chargeState="3" experimentalMassToCharge="665.6771" id="SII_523691_366344" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366344">
+            <PeptideEvidence isDecoy="false" end="89" start="71" DBSequence_Ref="DBSEQUENCE_195317" id="PEPTIDEEVIDENCE_SPECGROUP_523691_PEPTIDE_366344_DBSEQUENCE_gi|54036848" pre="R" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.59" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=10434" id="SPECGROUP_523788">
+          <SpectrumIdentificationItem calculatedMassToCharge="665.6762" chargeState="3" experimentalMassToCharge="665.6772" id="SII_523788_366344" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366344">
+            <PeptideEvidence isDecoy="false" end="89" start="71" DBSequence_Ref="DBSEQUENCE_195317" id="PEPTIDEEVIDENCE_SPECGROUP_523788_PEPTIDE_366344_DBSEQUENCE_gi|54036848" pre="R" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="33.29" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=10547" id="SPECGROUP_523901">
+          <SpectrumIdentificationItem calculatedMassToCharge="469.70374" chargeState="2" experimentalMassToCharge="469.7046" id="SII_523901_366385" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366385">
+            <PeptideEvidence isDecoy="false" end="266" start="260" DBSequence_Ref="DBSEQUENCE_195343" id="PEPTIDEEVIDENCE_SPECGROUP_523901_PEPTIDE_366385_DBSEQUENCE_Thalassiosira_weissflogii_0201788838" pre="E" post="W"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.72" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=11348" id="SPECGROUP_524702">
+          <SpectrumIdentificationItem calculatedMassToCharge="591.84564" chargeState="2" experimentalMassToCharge="591.8464" id="SII_524702_366679" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366679">
+            <PeptideEvidence isDecoy="false" end="21" start="11" DBSequence_Ref="DBSEQUENCE_195327" id="PEPTIDEEVIDENCE_SPECGROUP_524702_PEPTIDE_366679_DBSEQUENCE_tr|A0A089VKF6|A0A089VKF6_THAWE" pre="T" post="V"/>
+            <PeptideEvidence isDecoy="false" end="21" start="11" DBSequence_Ref="DBSEQUENCE_195328" id="PEPTIDEEVIDENCE_SPECGROUP_524702_PEPTIDE_366679_DBSEQUENCE_Thalassiosira_weissflogii_0203103378" pre="T" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.11" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=11411" id="SPECGROUP_524765">
+          <SpectrumIdentificationItem calculatedMassToCharge="554.2933" chargeState="2" experimentalMassToCharge="554.2945" id="SII_524765_366701" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366701">
+            <PeptideEvidence isDecoy="false" end="96" start="86" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_524765_PEPTIDE_366701_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="A" post="G"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.74" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=11496" id="SPECGROUP_524850">
+          <SpectrumIdentificationItem calculatedMassToCharge="554.2933" chargeState="2" experimentalMassToCharge="554.2937" id="SII_524850_366701" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366701">
+            <PeptideEvidence isDecoy="false" end="96" start="86" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_524850_PEPTIDE_366701_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="A" post="G"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.39" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=11564" id="SPECGROUP_524918">
+          <SpectrumIdentificationItem calculatedMassToCharge="537.5826" chargeState="3" experimentalMassToCharge="537.5835" id="SII_524918_366751" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366751">
+            <PeptideEvidence isDecoy="false" end="172" start="160" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_524918_PEPTIDE_366751_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="F" post="R"/>
+            <PeptideEvidence isDecoy="false" end="192" start="180" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_524918_PEPTIDE_366751_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="F" post="R"/>
+            <PeptideEvidence isDecoy="false" end="200" start="188" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_524918_PEPTIDE_366751_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="F" post="R"/>
+            <PeptideEvidence isDecoy="false" end="299" start="287" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_524918_PEPTIDE_366751_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="F" post="R"/>
+            <PeptideEvidence isDecoy="false" end="171" start="159" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_524918_PEPTIDE_366751_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="F" post="R"/>
+            <PeptideEvidence isDecoy="false" end="391" start="379" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_524918_PEPTIDE_366751_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="F" post="R"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.44" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=12074" id="SPECGROUP_525428">
+          <SpectrumIdentificationItem calculatedMassToCharge="475.76328" chargeState="2" experimentalMassToCharge="475.7640" id="SII_525428_366937" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_366937">
+            <PeptideEvidence isDecoy="false" end="80" start="73" DBSequence_Ref="DBSEQUENCE_195341" id="PEPTIDEEVIDENCE_SPECGROUP_525428_PEPTIDE_366937_DBSEQUENCE_Thalassiosira_weissflogii_0171348692" pre="N" post="V"/>
+            <PeptideEvidence isDecoy="false" end="80" start="73" DBSequence_Ref="DBSEQUENCE_195342" id="PEPTIDEEVIDENCE_SPECGROUP_525428_PEPTIDE_366937_DBSEQUENCE_tr|A0A089VIP5|A0A089VIP5_THAWE" pre="N" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.03" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13162" id="SPECGROUP_526516">
+          <SpectrumIdentificationItem calculatedMassToCharge="552.62854" chargeState="3" experimentalMassToCharge="552.6299" id="SII_526516_367176" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367176">
+            <PeptideEvidence isDecoy="false" end="585" start="570" DBSequence_Ref="DBSEQUENCE_195317" id="PEPTIDEEVIDENCE_SPECGROUP_526516_PEPTIDE_367176_DBSEQUENCE_gi|54036848" pre="R" post="R"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="24.07" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13204" id="SPECGROUP_526558">
+          <SpectrumIdentificationItem calculatedMassToCharge="452.25034" chargeState="2" experimentalMassToCharge="452.2502" id="SII_526558_367257" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367257">
+            <PeptideEvidence isDecoy="false" end="105" start="98" DBSequence_Ref="DBSEQUENCE_195343" id="PEPTIDEEVIDENCE_SPECGROUP_526558_PEPTIDE_367257_DBSEQUENCE_Thalassiosira_weissflogii_0201788838" pre="F" post="F"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.82" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13210" id="SPECGROUP_526564">
+          <SpectrumIdentificationItem calculatedMassToCharge="641.3147" chargeState="2" experimentalMassToCharge="641.3154" id="SII_526564_367259" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367259">
+            <PeptideEvidence isDecoy="false" end="257" start="246" DBSequence_Ref="DBSEQUENCE_195326" id="PEPTIDEEVIDENCE_SPECGROUP_526564_PEPTIDE_367259_DBSEQUENCE_Thalassiosira_weissflogii_0201860448" pre="E" post="D"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.48" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13247" id="SPECGROUP_526601">
+          <SpectrumIdentificationItem calculatedMassToCharge="552.62854" chargeState="3" experimentalMassToCharge="552.6297" id="SII_526601_367176" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367176">
+            <PeptideEvidence isDecoy="false" end="585" start="570" DBSequence_Ref="DBSEQUENCE_195317" id="PEPTIDEEVIDENCE_SPECGROUP_526601_PEPTIDE_367176_DBSEQUENCE_gi|54036848" pre="R" post="R"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="24.97" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13276" id="SPECGROUP_526630">
+          <SpectrumIdentificationItem calculatedMassToCharge="570.29016" chargeState="2" experimentalMassToCharge="570.2910" id="SII_526630_367253" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367253">
+            <PeptideEvidence isDecoy="false" end="210" start="201" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_526630_PEPTIDE_367253_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="G" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="221" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_526630_PEPTIDE_367253_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="G" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="229" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_526630_PEPTIDE_367253_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="G" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="328" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_526630_PEPTIDE_367253_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="G" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="382" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_526630_PEPTIDE_367253_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="G" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="420" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_526630_PEPTIDE_367253_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="G" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.13" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13302" id="SPECGROUP_526656">
+          <SpectrumIdentificationItem calculatedMassToCharge="452.25034" chargeState="2" experimentalMassToCharge="452.2509" id="SII_526656_367257" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367257">
+            <PeptideEvidence isDecoy="false" end="105" start="98" DBSequence_Ref="DBSEQUENCE_195343" id="PEPTIDEEVIDENCE_SPECGROUP_526656_PEPTIDE_367257_DBSEQUENCE_Thalassiosira_weissflogii_0201788838" pre="F" post="F"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.83" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13505" id="SPECGROUP_526859">
+          <SpectrumIdentificationItem calculatedMassToCharge="548.78894" chargeState="2" experimentalMassToCharge="548.7899" id="SII_526859_367348" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367348">
+            <PeptideEvidence isDecoy="false" end="199" start="191" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_526859_PEPTIDE_367348_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="219" start="211" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_526859_PEPTIDE_367348_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="227" start="219" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_526859_PEPTIDE_367348_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="326" start="318" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_526859_PEPTIDE_367348_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="380" start="372" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_526859_PEPTIDE_367348_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="418" start="410" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_526859_PEPTIDE_367348_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="G"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.83" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13570" id="SPECGROUP_526924">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8033" id="SII_526924_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_526924_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_526924_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_526924_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_526924_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_526924_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_526924_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.22" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13667" id="SPECGROUP_527021">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8017" id="SII_527021_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_527021_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_527021_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_527021_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_527021_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_527021_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_527021_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.47" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13671" id="SPECGROUP_527025">
+          <SpectrumIdentificationItem calculatedMassToCharge="381.7003" chargeState="2" experimentalMassToCharge="381.7006" id="SII_527025_367373" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367373">
+            <PeptideEvidence isDecoy="false" end="393" start="387" DBSequence_Ref="DBSEQUENCE_195352" id="PEPTIDEEVIDENCE_SPECGROUP_527025_PEPTIDE_367373_DBSEQUENCE_tr|A0A089VIJ5|A0A089VIJ5_THAWE" pre="F" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.20" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13749" id="SPECGROUP_527103">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8014" id="SII_527103_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_527103_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_527103_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_527103_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_527103_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_527103_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_527103_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.24" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13783" id="SPECGROUP_527137">
+          <SpectrumIdentificationItem calculatedMassToCharge="587.7618" chargeState="2" experimentalMassToCharge="587.7627" id="SII_527137_367405" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367405">
+            <PeptideEvidence isDecoy="false" end="99" start="90" DBSequence_Ref="DBSEQUENCE_195352" id="PEPTIDEEVIDENCE_SPECGROUP_527137_PEPTIDE_367405_DBSEQUENCE_tr|A0A089VIJ5|A0A089VIJ5_THAWE" pre="H" post="A"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.15" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13876" id="SPECGROUP_527230">
+          <SpectrumIdentificationItem calculatedMassToCharge="381.7003" chargeState="2" experimentalMassToCharge="381.7008" id="SII_527230_367373" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367373">
+            <PeptideEvidence isDecoy="false" end="393" start="387" DBSequence_Ref="DBSEQUENCE_195352" id="PEPTIDEEVIDENCE_SPECGROUP_527230_PEPTIDE_367373_DBSEQUENCE_tr|A0A089VIJ5|A0A089VIJ5_THAWE" pre="F" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.38" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13884" id="SPECGROUP_527238">
+          <SpectrumIdentificationItem calculatedMassToCharge="381.7003" chargeState="2" experimentalMassToCharge="381.7007" id="SII_527238_367373" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367373">
+            <PeptideEvidence isDecoy="false" end="393" start="387" DBSequence_Ref="DBSEQUENCE_195352" id="PEPTIDEEVIDENCE_SPECGROUP_527238_PEPTIDE_367373_DBSEQUENCE_tr|A0A089VIJ5|A0A089VIJ5_THAWE" pre="F" post="V"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.08" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=13927" id="SPECGROUP_527281">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8016" id="SII_527281_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_527281_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_527281_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_527281_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_527281_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_527281_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_527281_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.69" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14005" id="SPECGROUP_527359">
+          <SpectrumIdentificationItem calculatedMassToCharge="512.33167" chargeState="2" experimentalMassToCharge="512.3322" id="SII_527359_367452" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367452">
+            <PeptideEvidence isDecoy="false" end="109" start="100" DBSequence_Ref="DBSEQUENCE_195341" id="PEPTIDEEVIDENCE_SPECGROUP_527359_PEPTIDE_367452_DBSEQUENCE_Thalassiosira_weissflogii_0171348692" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="109" start="100" DBSequence_Ref="DBSEQUENCE_195342" id="PEPTIDEEVIDENCE_SPECGROUP_527359_PEPTIDE_367452_DBSEQUENCE_tr|A0A089VIP5|A0A089VIP5_THAWE" pre="L" post="G"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.15" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14095" id="SPECGROUP_527449">
+          <SpectrumIdentificationItem calculatedMassToCharge="512.33167" chargeState="2" experimentalMassToCharge="512.3327" id="SII_527449_367452" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367452">
+            <PeptideEvidence isDecoy="false" end="109" start="100" DBSequence_Ref="DBSEQUENCE_195341" id="PEPTIDEEVIDENCE_SPECGROUP_527449_PEPTIDE_367452_DBSEQUENCE_Thalassiosira_weissflogii_0171348692" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="109" start="100" DBSequence_Ref="DBSEQUENCE_195342" id="PEPTIDEEVIDENCE_SPECGROUP_527449_PEPTIDE_367452_DBSEQUENCE_tr|A0A089VIP5|A0A089VIP5_THAWE" pre="L" post="G"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.13" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14113" id="SPECGROUP_527467">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8022" id="SII_527467_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_527467_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_527467_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_527467_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_527467_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_527467_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_527467_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.13" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14403" id="SPECGROUP_527757">
+          <SpectrumIdentificationItem calculatedMassToCharge="429.56985" chargeState="3" experimentalMassToCharge="429.5704" id="SII_527757_367524" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367524">
+            <PeptideEvidence isDecoy="false" end="542" start="531" DBSequence_Ref="DBSEQUENCE_195317" id="PEPTIDEEVIDENCE_SPECGROUP_527757_PEPTIDE_367524_DBSEQUENCE_gi|54036848" pre="K" post="W"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="28.69" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14477" id="SPECGROUP_527831">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8015" id="SII_527831_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_527831_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_527831_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_527831_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_527831_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_527831_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_527831_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.74" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14578" id="SPECGROUP_527932">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8016" id="SII_527932_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_527932_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_527932_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_527932_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_527932_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_527932_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_527932_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.73" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14699" id="SPECGROUP_528053">
+          <SpectrumIdentificationItem calculatedMassToCharge="400.1923" chargeState="2" experimentalMassToCharge="400.1930" id="SII_528053_367584" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367584">
+            <PeptideEvidence isDecoy="false" end="264" start="259" DBSequence_Ref="DBSEQUENCE_195326" id="PEPTIDEEVIDENCE_SPECGROUP_528053_PEPTIDE_367584_DBSEQUENCE_Thalassiosira_weissflogii_0201860448" pre="D" post="D"/>
+            <PeptideEvidence isDecoy="false" end="161" start="156" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_528053_PEPTIDE_367584_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="D" post="D"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.00" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14727" id="SPECGROUP_528081">
+          <SpectrumIdentificationItem calculatedMassToCharge="540.7915" chargeState="2" experimentalMassToCharge="540.7916" id="SII_528081_367600" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367600">
+            <PeptideEvidence isDecoy="false" end="199" start="191" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_528081_PEPTIDE_367600_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="219" start="211" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_528081_PEPTIDE_367600_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="227" start="219" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_528081_PEPTIDE_367600_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="326" start="318" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_528081_PEPTIDE_367600_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="380" start="372" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_528081_PEPTIDE_367600_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="G"/>
+            <PeptideEvidence isDecoy="false" end="418" start="410" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_528081_PEPTIDE_367600_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="G"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.05" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=14772" id="SPECGROUP_528126">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8024" id="SII_528126_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_528126_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_528126_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_528126_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_528126_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_528126_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_528126_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="15.21" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=15355" id="SPECGROUP_528709">
+          <SpectrumIdentificationItem calculatedMassToCharge="655.34296" chargeState="2" experimentalMassToCharge="655.3441" id="SII_528709_367714" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367714">
+            <PeptideEvidence isDecoy="false" end="210" start="199" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_528709_PEPTIDE_367714_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="P" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="219" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_528709_PEPTIDE_367714_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="P" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="227" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_528709_PEPTIDE_367714_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="P" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="326" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_528709_PEPTIDE_367714_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="P" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="380" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_528709_PEPTIDE_367714_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="P" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="418" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_528709_PEPTIDE_367714_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="P" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.34" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=15853" id="SPECGROUP_529207">
+          <SpectrumIdentificationItem calculatedMassToCharge="407.8994" chargeState="3" experimentalMassToCharge="407.9004" id="SII_529207_367802" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367802">
+            <PeptideEvidence isDecoy="false" end="78" start="68" DBSequence_Ref="DBSEQUENCE_195349" id="PEPTIDEEVIDENCE_SPECGROUP_529207_PEPTIDE_367802_DBSEQUENCE_Thalassiosira_weissflogii_0201806284" pre="F" post="R"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="20.36" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=15877" id="SPECGROUP_529231">
+          <SpectrumIdentificationItem calculatedMassToCharge="500.76022" chargeState="2" experimentalMassToCharge="500.7608" id="SII_529231_367776" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367776">
+            <PeptideEvidence isDecoy="false" end="93" start="84" DBSequence_Ref="DBSEQUENCE_195333" id="PEPTIDEEVIDENCE_SPECGROUP_529231_PEPTIDE_367776_DBSEQUENCE_Thalassiosira_weissflogii_0203264230" pre="L" post="-"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.57" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=16369" id="SPECGROUP_529723">
+          <SpectrumIdentificationItem calculatedMassToCharge="457.70575" chargeState="2" experimentalMassToCharge="457.7064" id="SII_529723_367866" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367866">
+            <PeptideEvidence isDecoy="false" end="264" start="258" DBSequence_Ref="DBSEQUENCE_195326" id="PEPTIDEEVIDENCE_SPECGROUP_529723_PEPTIDE_367866_DBSEQUENCE_Thalassiosira_weissflogii_0201860448" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="161" start="155" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_529723_PEPTIDE_367866_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="I" post="D"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="16.09" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=16501" id="SPECGROUP_529855">
+          <SpectrumIdentificationItem calculatedMassToCharge="458.58054" chargeState="3" experimentalMassToCharge="458.5815" id="SII_529855_367885" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367885">
+            <PeptideEvidence isDecoy="false" end="402" start="390" DBSequence_Ref="DBSEQUENCE_195317" id="PEPTIDEEVIDENCE_SPECGROUP_529855_PEPTIDE_367885_DBSEQUENCE_gi|54036848" pre="K" post="M"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="22.94" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=18584" id="SPECGROUP_531938">
+          <SpectrumIdentificationItem calculatedMassToCharge="467.24506" chargeState="2" experimentalMassToCharge="467.2459" id="SII_531938_368144" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_368144">
+            <PeptideEvidence isDecoy="false" end="46" start="38" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="66" start="58" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="173" start="165" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="68" start="60" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="50" start="42" DBSequence_Ref="DBSEQUENCE_195326" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0201860448" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_531938_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="L" post="D"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="19.26" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=18681" id="SPECGROUP_532035">
+          <SpectrumIdentificationItem calculatedMassToCharge="467.24506" chargeState="2" experimentalMassToCharge="467.2464" id="SII_532035_368144" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_368144">
+            <PeptideEvidence isDecoy="false" end="46" start="38" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="66" start="58" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="173" start="165" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="68" start="60" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="50" start="42" DBSequence_Ref="DBSEQUENCE_195326" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0201860448" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_532035_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="L" post="D"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="19.28" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=18789" id="SPECGROUP_532143">
+          <SpectrumIdentificationItem calculatedMassToCharge="467.24506" chargeState="2" experimentalMassToCharge="467.2455" id="SII_532143_368144" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_368144">
+            <PeptideEvidence isDecoy="false" end="46" start="38" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="66" start="58" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="173" start="165" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="68" start="60" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="50" start="42" DBSequence_Ref="DBSEQUENCE_195326" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0201860448" pre="L" post="D"/>
+            <PeptideEvidence isDecoy="false" end="45" start="37" DBSequence_Ref="DBSEQUENCE_195329" id="PEPTIDEEVIDENCE_SPECGROUP_532143_PEPTIDE_368144_DBSEQUENCE_Thalassiosira_weissflogii_0203172898" pre="L" post="D"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="20.32" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=18840" id="SPECGROUP_532194">
+          <SpectrumIdentificationItem calculatedMassToCharge="655.34296" chargeState="2" experimentalMassToCharge="655.3411" id="SII_532194_368177" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_368177">
+            <PeptideEvidence isDecoy="false" end="211" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_532194_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="231" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_532194_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="239" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_532194_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="338" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_532194_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="392" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_532194_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="430" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_532194_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="Q"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.98" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=18929" id="SPECGROUP_532283">
+          <SpectrumIdentificationItem calculatedMassToCharge="655.34296" chargeState="2" experimentalMassToCharge="655.3453" id="SII_532283_368177" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_368177">
+            <PeptideEvidence isDecoy="false" end="211" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_532283_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="231" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_532283_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="239" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_532283_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="338" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_532283_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="392" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_532283_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="Q"/>
+            <PeptideEvidence isDecoy="false" end="430" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_532283_PEPTIDE_368177_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="Q"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="18.98" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+        <SpectrumIdentificationResult SpectraData_ref="SPECTRADATA_23" spectrumID="index=20139" id="SPECGROUP_533493">
+          <SpectrumIdentificationItem calculatedMassToCharge="598.8009" chargeState="2" experimentalMassToCharge="598.8030" id="SII_533493_367315" passThreshold="true" rank="1" Peptide_ref="PEPTIDE_367315">
+            <PeptideEvidence isDecoy="false" end="210" start="200" DBSequence_Ref="DBSEQUENCE_195318" id="PEPTIDEEVIDENCE_SPECGROUP_533493_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203546162" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="230" start="220" DBSequence_Ref="DBSEQUENCE_195319" id="PEPTIDEEVIDENCE_SPECGROUP_533493_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203258860" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="238" start="228" DBSequence_Ref="DBSEQUENCE_195320" id="PEPTIDEEVIDENCE_SPECGROUP_533493_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203319814" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="337" start="327" DBSequence_Ref="DBSEQUENCE_195321" id="PEPTIDEEVIDENCE_SPECGROUP_533493_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203628344" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="391" start="381" DBSequence_Ref="DBSEQUENCE_195322" id="PEPTIDEEVIDENCE_SPECGROUP_533493_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0201860518" pre="L" post="L"/>
+            <PeptideEvidence isDecoy="false" end="429" start="419" DBSequence_Ref="DBSEQUENCE_195323" id="PEPTIDEEVIDENCE_SPECGROUP_533493_PEPTIDE_367315_DBSEQUENCE_Thalassiosira_weissflogii_0203473996" pre="L" post="L"/>
+            <cvParam accession="MS:1001950" cvRef="PSI-MS" value="17.67" name="PEAKS:peptideScore"/>
+          </SpectrumIdentificationItem>
+        </SpectrumIdentificationResult>
+      </SpectrumIdentificationList>
+      <ProteinDetectionList id="PDL_1">
+      </ProteinDetectionList>
+     </AnalysisData>
+  </DataCollection>
+  <BibliographicReference authors="Bin Ma, Kaizhong Zhang, Christopher Hendrie, Chengzhi Liang, Ming Li, Amanda Doherty-Kirby, Gilles Lajoie" id="10.1002/rcm.1196" name="PEAKS: powerful software for peptide de novo sequencing by tandem mass spectrometry" issue="20" pages="2337-2342" publication="Rapid Communications in Mass Spectrometry" volume="17" year="2003" publisher="John Wiley and Sons, Ltd." title="PEAKS: powerful software for peptide de novo sequencing by tandem mass spectrometry"/>
+  <BibliographicReference authors="Han Yonghua, Bin Ma, Kaizhong Zhang" id="10.1109/CSB.2004.156" name="SPIDER: Software for Protein Identification from Sequence Tags with De Novo Sequencing Error" pages="206-215" publication="Rapid Communications in Mass Spectrometry" year="2004" publisher="IEEE Computer Society Washington, DC, USA" title="SPIDER: Software for Protein Identification from Sequence Tags with De Novo Sequencing Error"/>
+  <BibliographicReference authors="Jing Zhang, Lei Xin, Baozhen Shan, Weiwu Chen, Mingjie Xie, Denis Yuen, Weiming Zhang, Zefeng Zhang, Gilles A. Lajoie, Bin Ma" id="10.1074/mcp.M111.010587" name="PEAKS DB: De Novo sequencing assisted database search for sensitive and accurate peptide identification" publication="Molecular and Cellular Proteomics" year="2011" publisher="The American Society for Biochemistry and Molecular Biology" title="PEAKS DB: De Novo sequencing assisted database search for sensitive and accurate peptide identification"/>
+</mzIdentML>

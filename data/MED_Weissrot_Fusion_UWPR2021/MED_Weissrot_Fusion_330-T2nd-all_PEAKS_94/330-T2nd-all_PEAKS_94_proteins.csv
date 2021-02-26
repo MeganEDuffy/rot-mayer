@@ -1,0 +1,172 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) 330_T2_nodigest,Area 330_T2_nodigest,#Peptides,#Unique,#Spec 330_T2_nodigest,PTM,Avg. Mass,Description
+4,17,Thalassiosira_weissflogii_0203264230,116.96,82,82,1.27E8,112,7,288,Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,9829,Thalassiosira_weissflogii_0203264230
+8,316,Thalassiosira_weissflogii_0201845386,115.09,56,56,7.91E8,109,100,189,Oxidation (M); Pyro-glu from Q,26863,Thalassiosira_weissflogii_0201845386
+9,39069,Thalassiosira_weissflogii_0171390204,109.19,60,60,2.81E8,67,67,137,Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,20615,Thalassiosira_weissflogii_0171390204
+11,23,tr|A8DP72|A8DP72_THAWE,102.82,36,36,4.51E8,78,78,131,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,53326,Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
+11,24,Thalassiosira_weissflogii_0171383444,102.82,36,36,4.51E8,78,78,131,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,53546,Thalassiosira_weissflogii_0171383444
+11,25,tr|A8DP83|A8DP83_THAWE,102.82,36,36,4.51E8,78,78,131,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,53976,Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
+11,26,tr|A0A089VQA3|A0A089VQA3_THAWE,102.82,35,35,4.51E8,78,78,131,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,54332,Ribulose bisphosphate carboxylase large chain OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
+7,6,Thalassiosira_weissflogii_0201860448,101.29,43,43,4.54E7,113,12,231,Oxidation (M); Pyro-glu from Q,32687,Thalassiosira_weissflogii_0201860448
+12,105,tr|A0A089VQC9|A0A089VQC9_THAWE,98.08,52,52,2.29E8,76,64,107,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,51179,ATP synthase subunit beta  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpB PE=3 SV=1
+12,107,Thalassiosira_weissflogii_0203290328,98.08,50,50,2.28E8,75,63,106,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,52626,Thalassiosira_weissflogii_0203290328
+12,106,Thalassiosira_weissflogii_0203202236,98.08,50,50,2.29E8,76,64,107,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,53820,Thalassiosira_weissflogii_0203202236
+6,8,Thalassiosira_weissflogii_0203546162,94.78,41,41,5.11E8,67,34,272,Oxidation (M); Pyro-glu from Q,23008,Thalassiosira_weissflogii_0203546162
+6,9,Thalassiosira_weissflogii_0203258860,94.78,37,37,5.11E8,67,34,272,Oxidation (M); Pyro-glu from Q,25254,Thalassiosira_weissflogii_0203258860
+6,7,Thalassiosira_weissflogii_0203319814,94.78,40,40,5.11E8,67,34,272,Oxidation (M); Pyro-glu from Q,26374,Thalassiosira_weissflogii_0203319814
+6,12,Thalassiosira_weissflogii_0203628344,94.78,25,25,5.11E8,67,34,272,Oxidation (M); Pyro-glu from Q,36917,Thalassiosira_weissflogii_0203628344
+6,10,Thalassiosira_weissflogii_0201860518,94.78,22,22,5.11E8,67,34,272,Oxidation (M); Pyro-glu from Q,42433,Thalassiosira_weissflogii_0201860518
+6,11,Thalassiosira_weissflogii_0203473996,94.78,20,20,5.11E8,67,34,272,Oxidation (M); Pyro-glu from Q,46928,Thalassiosira_weissflogii_0203473996
+22,359,tr|A0A089VKF1|A0A089VKF1_THAWE,93.88,61,61,2.47E8,31,31,54,Oxidation(KPRY); Pyro-glu from Q,8166,ATP synthase subunit c  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpH PE=3 SV=1
+10,1,gi|54036848,90.90,11,11,7.53E8,12,12,104,Deamidation(N); Pyro-glu from Q,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+18,508,Thalassiosira_weissflogii_0203448720,90.32,18,18,9.99E7,35,35,54,Oxidation (M); Oxidation(KPRY); Pyro-glu from Q,22090,Thalassiosira_weissflogii_0203448720
+5,310,tr|A0A089X953|A0A089X953_THAWE,88.68,46,46,1.01E9,37,37,210,Pyro-glu from Q,9514,Cytochrome b559 subunit alpha OS=Thalassiosira weissflogii OX=1577725 GN=psbE PE=3 SV=1
+17,84,Thalassiosira_weissflogii_0203149732,82.41,60,60,2.44E7,43,14,67,Oxidation (M); Pyro-glu from Q,26804,Thalassiosira_weissflogii_0203149732
+17,85,Thalassiosira_weissflogii_0171415618,82.41,41,41,2.44E7,43,14,67,Oxidation (M); Pyro-glu from Q,38989,Thalassiosira_weissflogii_0171415618
+17,86,Thalassiosira_weissflogii_0201862216,82.41,41,41,2.44E7,44,14,68,Oxidation (M); Pyro-glu from Q,41801,Thalassiosira_weissflogii_0201862216
+13,142,tr|A0A089VKI3|A0A089VKI3_THAWE,81.71,16,16,8.05E8,55,18,133,Oxidation (M); Deamidation(N); Pyro-glu from Q,39050,Photosystem II D2 protein OS=Thalassiosira weissflogii OX=1577725 GN=psbD PE=3 SV=1
+19,353,Thalassiosira_weissflogii_0203355956,80.75,38,38,4.26E7,48,36,62,Oxidation (M),53122,Thalassiosira_weissflogii_0203355956
+26,187,Thalassiosira_weissflogii_0203382750,80.25,37,37,2.31E7,19,19,28,Acetylation (K),18548,Thalassiosira_weissflogii_0203382750
+26,188,Thalassiosira_weissflogii_0203229036,80.25,37,37,2.31E7,19,19,28,Acetylation (K),18541,Thalassiosira_weissflogii_0203229036
+26,195,Thalassiosira_weissflogii_0203540620,80.25,37,37,2.31E7,19,19,28,Acetylation (K),18633,Thalassiosira_weissflogii_0203540620
+26,190,Thalassiosira_weissflogii_0203261016,80.25,37,37,2.31E7,19,19,28,Acetylation (K),18625,Thalassiosira_weissflogii_0203261016
+26,191,Thalassiosira_weissflogii_0201834710,80.25,35,35,2.31E7,19,19,28,Acetylation (K),19740,Thalassiosira_weissflogii_0201834710
+26,194,Thalassiosira_weissflogii_0203294158,80.25,35,35,2.31E7,19,19,28,Acetylation (K),20115,Thalassiosira_weissflogii_0203294158
+26,189,Thalassiosira_weissflogii_0203604662,80.25,32,32,2.31E7,19,19,28,Acetylation (K),22034,Thalassiosira_weissflogii_0203604662
+26,192,Thalassiosira_weissflogii_0203289348,80.25,29,29,2.31E7,19,19,28,Acetylation (K),24482,Thalassiosira_weissflogii_0203289348
+16,93,tr|A0A089VIM8|A0A089VIM8_THAWE,79.90,45,45,1.48E8,54,50,80,Oxidation (M); Pyro-glu from Q,54087,ATP synthase subunit alpha  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpA PE=3 SV=1
+15,27,Thalassiosira_weissflogii_0203239758,79.27,29,29,7.37E7,63,25,115,Oxidation (M); Methylation(KR); Oxidation(KPRY); Pyro-glu from Q,66984,Thalassiosira_weissflogii_0203239758
+14,18,Thalassiosira_weissflogii_0203172898,79.14,40,40,7.75E6,54,2,112,Oxidation (M); Pyro-glu from Q,22018,Thalassiosira_weissflogii_0203172898
+23,20795,Thalassiosira_weissflogii_0203549518,75.70,30,30,9.12E7,25,25,41,Oxidation (M); Oxidation(KPRY),22688,Thalassiosira_weissflogii_0203549518
+21,101,Thalassiosira_weissflogii_0203297084,74.11,55,55,9.98E5,30,1,49,Oxidation (M); Pyro-glu from Q,27233,Thalassiosira_weissflogii_0203297084
+21,99,Thalassiosira_weissflogii_0203627630,74.11,36,36,9.98E5,31,1,50,Oxidation (M); Pyro-glu from Q,45285,Thalassiosira_weissflogii_0203627630
+20,39080,Thalassiosira_weissflogii_0203399586,73.97,46,46,1.28E8,38,38,57,,18933,Thalassiosira_weissflogii_0203399586
+24,111,Thalassiosira_weissflogii_0203627540,72.17,44,44,1.3E8,35,31,57,Oxidation (M); Pyro-glu from Q,23429,Thalassiosira_weissflogii_0203627540
+29,63,tr|A0A089VKD8|A0A089VKD8_THAWE,71.55,51,51,8.01E7,30,30,40,Oxidation (M); Pyro-glu from Q,15813,Ribulose-1 5-bisphosphate carboxylase/oxygenase small subunit OS=Thalassiosira weissflogii OX=1577725 GN=rbcS PE=4 SV=1
+27,61,Thalassiosira_weissflogii_0203389878,71.49,31,31,1.21E8,33,33,42,Oxidation (M); Methylation(KR),46783,Thalassiosira_weissflogii_0203389878
+28,2260,Thalassiosira_weissflogii_0203571294,71.35,20,20,5.21E7,21,21,31,Oxidation(KPRY); Pyro-glu from Q,67817,Thalassiosira_weissflogii_0203571294
+31,304,Thalassiosira_weissflogii_0203598492,71.09,20,20,3.73E7,29,29,43,Oxidation (M); Oxidation(KPRY),84598,Thalassiosira_weissflogii_0203598492
+25,148,Thalassiosira_weissflogii_0203566486,70.03,26,26,5.61E7,30,30,36,Oxidation(KPRY); Pyro-glu from Q,54093,Thalassiosira_weissflogii_0203566486
+37,523,Thalassiosira_weissflogii_0201776260,65.10,29,29,4.32E7,23,15,35,Oxidation (M); Pyro-glu from Q,22232,Thalassiosira_weissflogii_0201776260
+30,241,Thalassiosira_weissflogii_0203450516,62.92,19,19,6.57E7,14,3,32,,19624,Thalassiosira_weissflogii_0203450516
+30,236,Thalassiosira_weissflogii_0203167856,62.92,28,28,6.57E7,14,3,32,,13077,Thalassiosira_weissflogii_0203167856
+30,238,Thalassiosira_weissflogii_0171353608,62.92,27,27,6.57E7,14,3,32,,14097,Thalassiosira_weissflogii_0171353608
+30,237,Thalassiosira_weissflogii_0203204676,62.92,27,27,6.57E7,14,3,32,,13616,Thalassiosira_weissflogii_0203204676
+30,242,Thalassiosira_weissflogii_0203198822,62.92,12,12,6.57E7,14,3,32,,32023,Thalassiosira_weissflogii_0203198822
+44,248,Thalassiosira_weissflogii_0203581516,62.19,12,12,2.43E7,22,18,29,,100447,Thalassiosira_weissflogii_0203581516
+35,159,Thalassiosira_weissflogii_0203203762,62.06,29,29,3.57E7,23,16,29,Pyro-glu from Q,21802,Thalassiosira_weissflogii_0203203762
+35,160,Thalassiosira_weissflogii_0203386012,62.06,29,29,3.57E7,23,16,29,Pyro-glu from Q,22430,Thalassiosira_weissflogii_0203386012
+40,164,Thalassiosira_weissflogii_0203417438,60.83,29,29,2.16E7,21,13,25,Pyro-glu from Q,23542,Thalassiosira_weissflogii_0203417438
+32,464,tr|A0A089VKI6|A0A089VKI6_THAWE,60.35,48,48,7.21E7,20,20,31,,15533,Photosystem I subunit II OS=Thalassiosira weissflogii OX=1577725 GN=psaD PE=4 SV=1
+41,39074,Thalassiosira_weissflogii_0203135564,57.90,12,12,1.55E7,12,10,19,Methylation(KR); Oxidation(KPRY),80315,Thalassiosira_weissflogii_0203135564
+41,39076,Thalassiosira_weissflogii_0203506334,57.90,10,10,1.55E7,12,10,19,Methylation(KR); Oxidation(KPRY),93240,Thalassiosira_weissflogii_0203506334
+41,39077,Thalassiosira_weissflogii_0203565922,57.90,10,10,1.55E7,12,10,19,Methylation(KR); Oxidation(KPRY),94496,Thalassiosira_weissflogii_0203565922
+36,345,Thalassiosira_weissflogii_0171423018,56.58,25,25,1.36E8,28,26,37,Oxidation (M),26951,Thalassiosira_weissflogii_0171423018
+38,243,Thalassiosira_weissflogii_0203264358,56.52,38,38,3.78E7,18,17,35,Oxidation (M); Oxidation(KPRY),21360,Thalassiosira_weissflogii_0203264358
+54,39379,Thalassiosira_weissflogii_0203279580,56.23,11,11,1.26E7,8,8,12,Methylation(KR),27914,Thalassiosira_weissflogii_0203279580
+42,16,tr|A0A089VNZ5|A0A089VNZ5_THAWE,55.75,5,5,8.83E7,14,14,21,Pyro-glu from Q,83638,Photosystem I P700 chlorophyll a apoprotein A1 OS=Thalassiosira weissflogii OX=1577725 GN=psaA PE=3 SV=1
+39,20790,Thalassiosira_weissflogii_0203258570,55.40,52,52,3.14E7,16,16,22,Pyro-glu from Q,16419,Thalassiosira_weissflogii_0203258570
+46,143,Thalassiosira_weissflogii_0203358160,53.22,11,11,6.93E7,16,16,27,Oxidation (M); Oxidation(KPRY),21786,Thalassiosira_weissflogii_0203358160
+48,249,Thalassiosira_weissflogii_0203359074,53.06,37,37,2.16E7,11,11,14,Oxidation (M); Pyro-glu from Q,12879,Thalassiosira_weissflogii_0203359074
+48,416,Thalassiosira_weissflogii_0203398754,53.06,37,37,2.16E7,11,11,14,Oxidation (M); Pyro-glu from Q,12922,Thalassiosira_weissflogii_0203398754
+34,413,Thalassiosira_weissflogii_0203412222,51.48,25,25,6.65E7,20,20,31,Oxidation (M); Oxidation(KPRY),42375,Thalassiosira_weissflogii_0203412222
+34,414,Thalassiosira_weissflogii_0203597848,51.48,25,25,6.65E7,20,20,31,Oxidation (M); Oxidation(KPRY),43175,Thalassiosira_weissflogii_0203597848
+34,415,Thalassiosira_weissflogii_0201768036,51.48,24,24,6.65E7,20,20,31,Oxidation (M); Oxidation(KPRY),43712,Thalassiosira_weissflogii_0201768036
+52,290,Thalassiosira_weissflogii_0203135488,51.42,8,8,1.53E7,12,11,13,Oxidation (M); Oxidation(KPRY),50170,Thalassiosira_weissflogii_0203135488
+52,289,Thalassiosira_weissflogii_0203608338,51.42,17,17,1.53E7,12,11,13,Oxidation (M); Oxidation(KPRY),24708,Thalassiosira_weissflogii_0203608338
+43,80,Thalassiosira_weissflogii_0203204228,50.75,34,34,4.94E7,20,15,30,Oxidation (M); Pyro-glu from Q,21092,Thalassiosira_weissflogii_0203204228
+33,240,Thalassiosira_weissflogii_0201848920,50.69,24,24,7.9E5,13,2,26,,13946,Thalassiosira_weissflogii_0201848920
+56,77,Thalassiosira_weissflogii_0171446710,50.64,11,11,1.96E7,20,20,29,,125332,Thalassiosira_weissflogii_0171446710
+49,677,Thalassiosira_weissflogii_0203164374,50.25,71,71,9.01E7,14,14,23,Pyro-glu from Q,5413,Thalassiosira_weissflogii_0203164374
+49,645,tr|A0A089VIN2|A0A089VIN2_THAWE,50.25,54,54,9.01E7,14,14,23,Pyro-glu from Q,7470,Photosystem I reaction center subunit IV OS=Thalassiosira weissflogii OX=1577725 GN=psaE PE=3 SV=1
+60,20860,Thalassiosira_weissflogii_0203386744,50.03,28,28,1.32E7,10,10,15,Oxidation (M),15820,Thalassiosira_weissflogii_0203386744
+47,19,tr|A0A089VKF6|A0A089VKF6_THAWE,49.17,16,16,8.86E7,21,21,32,Methylation(KR); Pyro-glu from Q,56361,Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1
+47,20,Thalassiosira_weissflogii_0203103378,49.17,16,16,8.86E7,21,21,32,Methylation(KR); Pyro-glu from Q,56361,Thalassiosira_weissflogii_0203103378
+58,96,Thalassiosira_weissflogii_0203204888,48.53,10,10,1.31E7,17,17,20,Deamidation(N); Pyro-glu from Q,140088,Thalassiosira_weissflogii_0203204888
+57,103,Thalassiosira_weissflogii_0201773708,47.74,36,36,1.19E7,16,11,18,Oxidation (M),21231,Thalassiosira_weissflogii_0201773708
+53,1073,Thalassiosira_weissflogii_0203176104,47.20,13,13,1.7E7,12,12,14,,36010,Thalassiosira_weissflogii_0203176104
+53,1074,Thalassiosira_weissflogii_0203395622,47.20,13,13,1.7E7,12,12,14,,37003,Thalassiosira_weissflogii_0203395622
+51,9276,Thalassiosira_weissflogii_0201768374,47.19,27,27,2.65E7,14,14,22,Oxidation (M); Pyro-glu from Q,32815,Thalassiosira_weissflogii_0201768374
+59,285,Thalassiosira_weissflogii_0203520826,47.07,16,16,1.73E7,12,11,17,Pyro-glu from Q,35064,Thalassiosira_weissflogii_0203520826
+59,284,Thalassiosira_weissflogii_0203366844,47.07,10,10,1.73E7,12,11,17,Pyro-glu from Q,55376,Thalassiosira_weissflogii_0203366844
+61,130,Thalassiosira_weissflogii_0171449500,44.80,10,10,6.42E6,11,11,12,,41793,Thalassiosira_weissflogii_0171449500
+64,39104,Thalassiosira_weissflogii_0203479218,44.36,8,8,3.63E6,7,7,9,Pyro-glu from Q,53480,Thalassiosira_weissflogii_0203479218
+66,516,Thalassiosira_weissflogii_0201768196,42.46,5,5,1.33E7,16,16,18,Pyro-glu from Q,237822,Thalassiosira_weissflogii_0201768196
+55,98,tr|A0A1W6FBN1|A0A1W6FBN1_THAWE,40.94,13,13,5.69E7,11,11,21,Oxidation (M),36701,Photosystem II protein D1 (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=psbA PE=3 SV=1
+55,47,tr|A0A089VPE6|A0A089VPE6_THAWE,40.94,12,12,5.69E7,11,11,21,Oxidation (M),39725,Photosystem II protein D1 OS=Thalassiosira weissflogii OX=1577725 GN=psbA PE=3 SV=1
+55,48,Thalassiosira_weissflogii_0203215658,40.94,11,11,5.69E7,11,11,21,Oxidation (M),41911,Thalassiosira_weissflogii_0203215658
+45,21,tr|A0A089VKJ7|A0A089VKJ7_THAWE,40.25,17,17,1.54E8,5,5,14,Oxidation(KPRY),20450,Photosystem I subunit III OS=Thalassiosira weissflogii OX=1577725 GN=psaF PE=4 SV=1
+62,511,Thalassiosira_weissflogii_0203245572,40.08,13,13,3.44E7,10,10,14,,39916,Thalassiosira_weissflogii_0203245572
+63,325,Thalassiosira_weissflogii_0203211260,39.99,7,7,1.05E7,9,9,14,,48610,Thalassiosira_weissflogii_0203211260
+67,144,Thalassiosira_weissflogii_0203519974,39.91,14,14,8.54E6,12,11,15,Methylation(KR),75057,Thalassiosira_weissflogii_0203519974
+75,156,Thalassiosira_weissflogii_0171418338,39.89,18,18,4.52E6,6,5,8,Oxidation (M); Pyro-glu from Q,21099,Thalassiosira_weissflogii_0171418338
+50,22816,Thalassiosira_weissflogii_0171369240,38.84,21,21,2.75E7,6,6,15,,12382,Thalassiosira_weissflogii_0171369240
+69,67,tr|A0A089VKN5|A0A089VKN5_THAWE,38.71,19,19,4.24E6,10,10,10,Pyro-glu from Q,44681,Elongation factor Tu  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=tufA PE=3 SV=1
+69,66,Thalassiosira_weissflogii_0203257228,38.71,19,19,4.24E6,10,10,10,Pyro-glu from Q,44681,Thalassiosira_weissflogii_0203257228
+72,319,Thalassiosira_weissflogii_0171356290,38.58,9,9,1.23E7,9,9,10,Pyro-glu from Q,47343,Thalassiosira_weissflogii_0171356290
+77,426,Thalassiosira_weissflogii_0203122474,38.24,4,4,2.96E6,6,4,11,Pyro-glu from Q,114920,Thalassiosira_weissflogii_0203122474
+65,245,Thalassiosira_weissflogii_0201836064,38.03,20,20,2.47E6,8,2,11,Oxidation (M),21456,Thalassiosira_weissflogii_0201836064
+65,246,Thalassiosira_weissflogii_0203294152,38.03,20,20,2.47E6,8,2,11,Oxidation (M),21811,Thalassiosira_weissflogii_0203294152
+65,247,Thalassiosira_weissflogii_0171420522,38.03,20,20,2.47E6,8,2,11,Oxidation (M),21783,Thalassiosira_weissflogii_0171420522
+71,39090,tr|A0A089X936|A0A089X936_THAWE,37.29,40,40,8.31E6,8,8,10,,14294,ATP synthase epsilon chain  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=atpE PE=3 SV=1
+85,39268,Thalassiosira_weissflogii_0201811490,37.16,9,9,9.9E5,5,5,6,Oxidation (M),58518,Thalassiosira_weissflogii_0201811490
+74,39081,tr|A0A089X984|A0A089X984_THAWE,36.10,20,20,4.19E7,7,7,11,Pyro-glu from Q,22045,50S ribosomal protein L3  chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rpl3 PE=3 SV=1
+74,39082,Thalassiosira_weissflogii_0203311806,36.10,20,20,4.19E7,7,7,11,Pyro-glu from Q,22131,Thalassiosira_weissflogii_0203311806
+68,314,Thalassiosira_weissflogii_0171402288,35.46,10,10,4.64E6,8,8,10,,80690,Thalassiosira_weissflogii_0171402288
+73,7429,Thalassiosira_weissflogii_0203431958,34.83,6,6,6.11E6,10,10,11,,113574,Thalassiosira_weissflogii_0203431958
+82,444,Thalassiosira_weissflogii_0203386088,32.58,6,6,6.03E6,3,3,4,,36066,Thalassiosira_weissflogii_0203386088
+80,171,Thalassiosira_weissflogii_0203172154,30.95,5,5,5.1E6,5,5,6,,59067,Thalassiosira_weissflogii_0203172154
+96,96066,Thalassiosira_weissflogii_0203510706,30.92,5,5,2.55E6,3,3,4,,41441,Thalassiosira_weissflogii_0203510706
+76,326,Thalassiosira_weissflogii_0203356870,30.75,12,12,6.22E6,6,6,8,,27706,Thalassiosira_weissflogii_0203356870
+90,108,Thalassiosira_weissflogii_0201746798,29.48,4,4,2.75E6,3,3,3,,93086,Thalassiosira_weissflogii_0201746798
+99,185947,Thalassiosira_weissflogii_0203214018,29.32,6,6,2.23E6,2,2,2,Pyro-glu from Q,21634,Thalassiosira_weissflogii_0203214018
+99,185948,Thalassiosira_weissflogii_0203501280,29.32,5,5,2.23E6,2,2,2,Pyro-glu from Q,21663,Thalassiosira_weissflogii_0203501280
+70,634,Thalassiosira_weissflogii_0203273400,28.94,12,12,5.61E6,3,3,7,Methylation(KR),25096,Thalassiosira_weissflogii_0203273400
+70,625,Thalassiosira_weissflogii_0203522088,28.94,12,12,5.61E6,3,3,7,Methylation(KR),26794,Thalassiosira_weissflogii_0203522088
+70,635,Thalassiosira_weissflogii_0201778388,28.94,12,12,5.61E6,3,3,7,Methylation(KR),26716,Thalassiosira_weissflogii_0201778388
+84,559,Thalassiosira_weissflogii_0203230250,28.89,4,4,1.66E6,3,3,5,,33594,Thalassiosira_weissflogii_0203230250
+84,566,Thalassiosira_weissflogii_0203350886,28.89,3,3,1.66E6,3,3,5,,40711,Thalassiosira_weissflogii_0203350886
+84,567,Thalassiosira_weissflogii_0203566088,28.89,3,3,1.66E6,3,3,5,,41926,Thalassiosira_weissflogii_0203566088
+84,568,Thalassiosira_weissflogii_0171384504,28.89,3,3,1.66E6,3,3,5,,42582,Thalassiosira_weissflogii_0171384504
+84,587,Thalassiosira_weissflogii_0201769400,28.89,3,3,1.66E6,3,3,5,,46616,Thalassiosira_weissflogii_0201769400
+84,571,Thalassiosira_weissflogii_0203289384,28.89,2,2,1.66E6,3,3,5,,58968,Thalassiosira_weissflogii_0203289384
+84,39390,Thalassiosira_weissflogii_0171432196,28.89,10,10,1.66E6,3,3,5,,12072,Thalassiosira_weissflogii_0171432196
+84,599,Thalassiosira_weissflogii_0201837250,28.89,4,4,1.66E6,3,3,5,,31382,Thalassiosira_weissflogii_0201837250
+84,7748,Thalassiosira_weissflogii_0171353630,28.89,4,4,1.66E6,3,3,5,,32676,Thalassiosira_weissflogii_0171353630
+84,606,Thalassiosira_weissflogii_0201829604,28.89,4,4,1.66E6,3,3,5,,34915,Thalassiosira_weissflogii_0201829604
+84,562,Thalassiosira_weissflogii_0203104274,28.89,4,4,1.66E6,3,3,5,,34689,Thalassiosira_weissflogii_0203104274
+84,561,Thalassiosira_weissflogii_0203505400,28.89,4,4,1.66E6,3,3,5,,34833,Thalassiosira_weissflogii_0203505400
+84,563,Thalassiosira_weissflogii_0203474076,28.89,4,4,1.66E6,3,3,5,,35193,Thalassiosira_weissflogii_0203474076
+84,564,Thalassiosira_weissflogii_0203627578,28.89,3,3,1.66E6,3,3,5,,36011,Thalassiosira_weissflogii_0203627578
+84,565,Thalassiosira_weissflogii_0203198708,28.89,3,3,1.66E6,3,3,5,,38541,Thalassiosira_weissflogii_0203198708
+84,569,Thalassiosira_weissflogii_0203135454,28.89,3,3,1.66E6,3,3,5,,44247,Thalassiosira_weissflogii_0203135454
+83,208,tr|A0A089VKJ4|A0A089VKJ4_THAWE,27.23,11,11,1.97E7,5,5,8,,15754,Photosystem I reaction center subunit XI OS=Thalassiosira weissflogii OX=1577725 GN=psaL PE=3 SV=1
+98,295,Thalassiosira_weissflogii_0203228564,26.75,7,7,1.87E6,3,3,3,,53080,Thalassiosira_weissflogii_0203228564
+98,154,Thalassiosira_weissflogii_0201829390,26.75,5,5,1.87E6,3,3,3,,81211,Thalassiosira_weissflogii_0201829390
+101,457,Thalassiosira_weissflogii_0203545546,26.70,6,6,2.17E6,2,2,2,,30926,Thalassiosira_weissflogii_0203545546
+78,637,tr|A0A089VKH6|A0A089VKH6_THAWE,26.65,9,9,1.79E6,3,3,7,,39534,Mg-protoporphyrin IX chelatase OS=Thalassiosira weissflogii OX=1577725 GN=chlI PE=3 SV=1
+78,636,Thalassiosira_weissflogii_0203102818,26.65,10,10,1.79E6,3,3,7,,33942,Thalassiosira_weissflogii_0203102818
+89,1566,Thalassiosira_weissflogii_0203237080,25.80,11,11,6.19E6,10,10,12,Oxidation (M),85926,Thalassiosira_weissflogii_0203237080
+94,20653,Thalassiosira_weissflogii_0203609740,25.65,15,15,1.3E7,4,4,4,,18266,Thalassiosira_weissflogii_0203609740
+88,39102,Thalassiosira_weissflogii_0201775250,25.59,11,11,1.22E7,11,11,12,Oxidation(KPRY); Pyro-glu from Q,71980,Thalassiosira_weissflogii_0201775250
+95,39760,Thalassiosira_weissflogii_0203289014,25.46,3,3,2.05E6,2,2,5,Oxidation (M),41260,Thalassiosira_weissflogii_0203289014
+95,39761,Thalassiosira_weissflogii_0203538228,25.46,3,3,2.05E6,2,2,5,Oxidation (M),44032,Thalassiosira_weissflogii_0203538228
+102,39129,Thalassiosira_weissflogii_0203145968,25.25,3,3,7.77E5,2,2,2,,49775,Thalassiosira_weissflogii_0203145968
+86,39158,Thalassiosira_weissflogii_0171329804,24.56,11,11,4.81E6,2,2,4,,18537,Thalassiosira_weissflogii_0171329804
+87,39831,Thalassiosira_weissflogii_0203139544,24.40,2,2,3.64E5,2,2,4,,107642,Thalassiosira_weissflogii_0203139544
+91,39111,Thalassiosira_weissflogii_0203363640,24.17,10,10,2.03E6,3,3,3,,30994,Thalassiosira_weissflogii_0203363640
+91,39112,Thalassiosira_weissflogii_0201836810,24.17,10,10,2.03E6,3,3,3,,31352,Thalassiosira_weissflogii_0201836810
+79,14,Thalassiosira_weissflogii_0171348692,24.08,19,19,7.66E6,6,6,7,Pyro-glu from Q,28857,Thalassiosira_weissflogii_0171348692
+79,15,tr|A0A089VIP5|A0A089VIP5_THAWE,24.08,16,16,7.66E6,6,6,7,Pyro-glu from Q,33988,Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1
+81,39455,Thalassiosira_weissflogii_0203181712,24.07,5,5,3.47E6,3,3,4,,49819,Thalassiosira_weissflogii_0203181712
+92,207,Thalassiosira_weissflogii_0203169094,24.00,10,10,5.75E6,10,10,10,Pyro-glu from Q,67934,Thalassiosira_weissflogii_0203169094
+92,209,tr|A0A089VP72|A0A089VP72_THAWE,24.00,10,10,5.75E6,10,10,10,Pyro-glu from Q,69843,ATP-dependent zinc metalloprotease FtsH OS=Thalassiosira weissflogii OX=1577725 GN=ftsH PE=3 SV=1
+92,205,Thalassiosira_weissflogii_0203323600,24.00,7,7,5.16E6,7,7,7,Pyro-glu from Q,62910,Thalassiosira_weissflogii_0203323600
+92,206,Thalassiosira_weissflogii_0203107868,24.00,7,7,5.16E6,7,7,7,Pyro-glu from Q,64828,Thalassiosira_weissflogii_0203107868
+130,96093,Thalassiosira_weissflogii_0203592668,21.73,1,1,2.07E5,1,1,1,,135385,Thalassiosira_weissflogii_0203592668
+108,34,Thalassiosira_weissflogii_0201801252,21.67,4,4,1.25E6,2,2,2,,51368,Thalassiosira_weissflogii_0201801252
+108,33,Thalassiosira_weissflogii_0171446742,21.67,3,3,1.25E6,2,2,2,,63737,Thalassiosira_weissflogii_0171446742
+108,32,Thalassiosira_weissflogii_0203321206,21.67,3,3,1.25E6,2,2,2,,69732,Thalassiosira_weissflogii_0203321206
+108,234,Thalassiosira_weissflogii_0201804180,21.67,3,3,6.72E5,1,1,1,,33239,Thalassiosira_weissflogii_0201804180
+131,80885,Thalassiosira_weissflogii_0203565880,21.38,8,8,2.24E6,2,2,3,,13819,Thalassiosira_weissflogii_0203565880
+107,386,Thalassiosira_weissflogii_0203397068,21.15,10,10,4.02E6,2,2,3,Oxidation (M),14970,Thalassiosira_weissflogii_0203397068
+97,60720,Thalassiosira_weissflogii_0201831054,20.63,2,2,6E5,1,1,2,,103564,Thalassiosira_weissflogii_0201831054

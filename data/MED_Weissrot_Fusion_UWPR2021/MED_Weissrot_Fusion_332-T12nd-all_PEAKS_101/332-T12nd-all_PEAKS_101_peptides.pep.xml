@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BSI implementation of pepXML output for PEAKS Studio -->
+<msms_pipeline_analysis xmlns="http://regis-web.systemsbiology.net/pepXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://regis-web.systemsbiology.net/pepXML pepXML_v18_peaks_denovo.xsd" date="2021-02-21 22:54" summary_xml="peptide.pep.xml">
+  <msms_run_summary base_name="20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL" raw_data_type="" raw_data="">
+    <sample_enzyme name="None">
+      <specificity sense="C" cut="ARNDCEQGHILKMFPSTWYV" no_cut=""/>
+    </sample_enzyme>
+    <search_summary base_name="Instrument_default" search_engine="PEAKS DB" precursor_mass_type="monoisotopic" fragment_mass_type="monoisotopic" out_data_type="" out_data="" search_id="1">
+      <search_database local_path="D:\weissflogii-dbs\090820_Weissrot_Combineddbs_validated_20200908152309_gpm-craptome20170920_20170920131122.fasta" type="AA"/>
+      <enzymatic_search_constraint enzyme="None" max_num_internal_cleavages="100" min_number_termini="2"/>
+      <aminoacid_modification aminoacid="C" massdiff="57.021465" mass="160.03065"  variable="N" description="C(+57.02)"/>
+      <aminoacid_modification aminoacid="M" massdiff="15.994915" mass="147.03542"  variable="Y" description="M(+15.99)"/>
+      <aminoacid_modification aminoacid="N" massdiff="0.984" mass="115.02693"  variable="Y" description="N(+.98)"/>
+      <aminoacid_modification aminoacid="K" massdiff="14.01565" mass="142.11061"  variable="Y" description="K(+14.02)"/>
+      <aminoacid_modification aminoacid="R" massdiff="14.01565" mass="170.11676"  variable="Y" description="R(+14.02)"/>
+      <aminoacid_modification aminoacid="K" massdiff="15.9949" mass="144.08986"  variable="Y" description="K(+15.99)"/>
+      <aminoacid_modification aminoacid="P" massdiff="15.9949" mass="113.04765"  variable="Y" description="P(+15.99)"/>
+      <aminoacid_modification aminoacid="R" massdiff="15.9949" mass="172.09601"  variable="Y" description="R(+15.99)"/>
+      <aminoacid_modification aminoacid="Y" massdiff="15.9949" mass="179.05823"  variable="Y" description="Y(+15.99)"/>
+      <aminoacid_modification aminoacid="Q" massdiff="-17.026548" mass="111.03203" peptide_terminus="n" variable="Y" description="Q(-17.03)"/>
+      <aminoacid_modification aminoacid="K" massdiff="42.010567" mass="170.10553"  variable="Y" description="K(+42.01)"/>
+      <parameter name="instrument" value="Orbitrap (Orbi-Trap)"/>
+      <parameter name="parent_error" value="15.0"/>
+      <parameter name="delta" value="0.5"/>
+      <parameter name="top" value="25"/>
+      <parameter name="enzyme" value="None"/>
+      <parameter name="missed_cleavage" value="100"/>
+      <parameter name="max_ptm" value="8"/>
+      <parameter name="database" value="Weissrot_combined_mmetsp-uniprot_090820"/>
+      <parameter name="taxons" value="All"/>
+    </search_summary>
+  </msms_run_summary>
+  <msms_run_summary base_name="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL" raw_data_type="" raw_data="">
+    <sample_enzyme name="None">
+      <specificity sense="C" cut="ARNDCEQGHILKMFPSTWYV" no_cut=""/>
+    </sample_enzyme>
+    <search_summary base_name="Instrument_default" search_engine="PEAKS DB" precursor_mass_type="monoisotopic" fragment_mass_type="monoisotopic" out_data_type="" out_data="" search_id="1">
+      <search_database local_path="D:\weissflogii-dbs\090820_Weissrot_Combineddbs_validated_20200908152309_gpm-craptome20170920_20170920131122.fasta" type="AA"/>
+      <enzymatic_search_constraint enzyme="None" max_num_internal_cleavages="100" min_number_termini="2"/>
+      <aminoacid_modification aminoacid="C" massdiff="57.021465" mass="160.03065"  variable="N" description="C(+57.02)"/>
+      <aminoacid_modification aminoacid="M" massdiff="15.994915" mass="147.03542"  variable="Y" description="M(+15.99)"/>
+      <aminoacid_modification aminoacid="N" massdiff="0.984" mass="115.02693"  variable="Y" description="N(+.98)"/>
+      <aminoacid_modification aminoacid="K" massdiff="14.01565" mass="142.11061"  variable="Y" description="K(+14.02)"/>
+      <aminoacid_modification aminoacid="R" massdiff="14.01565" mass="170.11676"  variable="Y" description="R(+14.02)"/>
+      <aminoacid_modification aminoacid="K" massdiff="15.9949" mass="144.08986"  variable="Y" description="K(+15.99)"/>
+      <aminoacid_modification aminoacid="P" massdiff="15.9949" mass="113.04765"  variable="Y" description="P(+15.99)"/>
+      <aminoacid_modification aminoacid="R" massdiff="15.9949" mass="172.09601"  variable="Y" description="R(+15.99)"/>
+      <aminoacid_modification aminoacid="Y" massdiff="15.9949" mass="179.05823"  variable="Y" description="Y(+15.99)"/>
+      <aminoacid_modification aminoacid="Q" massdiff="-17.026548" mass="111.03203" peptide_terminus="n" variable="Y" description="Q(-17.03)"/>
+      <aminoacid_modification aminoacid="K" massdiff="42.010567" mass="170.10553"  variable="Y" description="K(+42.01)"/>
+      <parameter name="instrument" value="Orbitrap (Orbi-Trap)"/>
+      <parameter name="parent_error" value="15.0"/>
+      <parameter name="delta" value="0.5"/>
+      <parameter name="top" value="25"/>
+      <parameter name="enzyme" value="None"/>
+      <parameter name="missed_cleavage" value="100"/>
+      <parameter name="max_ptm" value="8"/>
+      <parameter name="database" value="Weissrot_combined_mmetsp-uniprot_090820"/>
+      <parameter name="taxons" value="All"/>
+    </search_summary>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="3566" end_scan="3566" precursor_neutral_mass="946.4747" assumed_charge="2" index="514607">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DKEGRELT" calc_neutral_pep_mass="946.4719" massdiff="2.9" num_tot_proteins="1" protein="tr|A0A089VKF6|A0A089VKF6_THAWE" protein_descr="Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1" protein_mw="56360.59">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203103378" protein_descr="Thalassiosira_weissflogii_0203103378" protein_mw="56360.59"/>
+          <search_score name="-10lgP" value="16.69"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="4561" end_scan="4561" precursor_neutral_mass="950.4392" assumed_charge="2" index="515449">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVMKDVTGE" calc_neutral_pep_mass="950.4379" massdiff="1.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984">
+          <modification_info modified_peptide="GVM(+15.99)KDVTGE">
+            <mod_aminoacid_mass position="3" mass="147.03542"/>
+          </modification_info>
+          <search_score name="-10lgP" value="17.79"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="4802" end_scan="4802" precursor_neutral_mass="931.4373" assumed_charge="2" index="515641">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DSGGARIQE" calc_neutral_pep_mass="931.4359" massdiff="1.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="16.53"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="5727" end_scan="5727" precursor_neutral_mass="877.4228" assumed_charge="2" index="516379">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VMKDVTGE" calc_neutral_pep_mass="877.4215" massdiff="1.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984"/>
+          <search_score name="-10lgP" value="15.87"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="8744" end_scan="8744" precursor_neutral_mass="755.3652" assumed_charge="2" index="518576">
+      <search_result>
+        <search_hit hit_rank="1" peptide="MVHEQL" calc_neutral_pep_mass="755.3636" massdiff="2.1" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984"/>
+          <search_score name="-10lgP" value="16.91"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="8965" end_scan="8965" precursor_neutral_mass="813.3701" assumed_charge="2" index="518739">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GLMVHEE" calc_neutral_pep_mass="813.3691" massdiff="1.2" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.57"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="9583" end_scan="9583" precursor_neutral_mass="850.4456" assumed_charge="2" index="519166">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VDKVVEY" calc_neutral_pep_mass="850.4436" massdiff="2.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201806284" protein_descr="Thalassiosira_weissflogii_0201806284" protein_mw="22856.535">
+          <search_score name="-10lgP" value="15.24"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="9783" end_scan="9783" precursor_neutral_mass="934.4445" assumed_charge="2" index="519304">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVMKDVTGE" calc_neutral_pep_mass="934.4430" massdiff="1.5" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984">
+          <search_score name="-10lgP" value="17.17"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="10121" end_scan="10121" precursor_neutral_mass="1008.5137" assumed_charge="2" index="519532">
+      <search_result>
+        <search_hit hit_rank="1" peptide="KFDEETKL" calc_neutral_pep_mass="1008.5128" massdiff="0.9" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19">
+          <search_score name="-10lgP" value="16.53"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="10289" end_scan="10289" precursor_neutral_mass="955.4996" assumed_charge="2" index="519640">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IGADGKPADL" calc_neutral_pep_mass="955.4974" massdiff="2.2" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0171348692" protein_descr="Thalassiosira_weissflogii_0171348692" protein_mw="28856.848">
+          <alternative_protein protein="tr|A0A089VIP5|A0A089VIP5_THAWE" protein_descr="Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1" protein_mw="33988.027"/>
+          <search_score name="-10lgP" value="15.27"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="10817" end_scan="10817" precursor_neutral_mass="926.4253" assumed_charge="2" index="520003">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VGDFRNGY" calc_neutral_pep_mass="926.4246" massdiff="0.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="18.18"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="11240" end_scan="11240" precursor_neutral_mass="1102.5795" assumed_charge="2" index="520293">
+      <search_result>
+        <search_hit hit_rank="1" peptide="YIGNNPAKGGL" calc_neutral_pep_mass="1102.5770" massdiff="2.2" num_tot_proteins="1" protein="tr|A0A089VKF6|A0A089VKF6_THAWE" protein_descr="Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1" protein_mw="56360.59">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203103378" protein_descr="Thalassiosira_weissflogii_0203103378" protein_mw="56360.59"/>
+          <search_score name="-10lgP" value="17.44"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="11891" end_scan="11891" precursor_neutral_mass="839.4512" assumed_charge="2" index="520722">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AAIGPGIGQG" calc_neutral_pep_mass="839.4501" massdiff="1.4" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="15.12"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="13133" end_scan="13133" precursor_neutral_mass="802.4349" assumed_charge="2" index="521557">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NPAKGGLF" calc_neutral_pep_mass="802.4337" massdiff="1.4" num_tot_proteins="1" protein="tr|A0A089VKF6|A0A089VKF6_THAWE" protein_descr="Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1" protein_mw="56360.59">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203103378" protein_descr="Thalassiosira_weissflogii_0203103378" protein_mw="56360.59"/>
+          <search_score name="-10lgP" value="20.61"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="13397" end_scan="13397" precursor_neutral_mass="916.4786" assumed_charge="2" index="521734">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NNPAKGGLF" calc_neutral_pep_mass="916.4766" massdiff="2.1" num_tot_proteins="1" protein="tr|A0A089VKF6|A0A089VKF6_THAWE" protein_descr="Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1" protein_mw="56360.59">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203103378" protein_descr="Thalassiosira_weissflogii_0203103378" protein_mw="56360.59"/>
+          <search_score name="-10lgP" value="15.71"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="13538" end_scan="13538" precursor_neutral_mass="947.4836" assumed_charge="2" index="521827">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VGDFRNGAL" calc_neutral_pep_mass="947.4824" massdiff="1.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984"/>
+          <search_score name="-10lgP" value="15.23"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="14213" end_scan="14213" precursor_neutral_mass="1024.5215" assumed_charge="2" index="522298">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AISGPDAIPGAG" calc_neutral_pep_mass="1024.5189" massdiff="2.5" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="15.42"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="14861" end_scan="14861" precursor_neutral_mass="812.5150" assumed_charge="2" index="522772">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AGGVAVIKV" calc_neutral_pep_mass="812.5120" massdiff="3.7" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="17.35"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="15453" end_scan="15453" precursor_neutral_mass="991.5103" assumed_charge="2" index="523186">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AGVHLPGNID" calc_neutral_pep_mass="991.5087" massdiff="1.6" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="17.42"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16155" end_scan="16155" precursor_neutral_mass="966.4863" assumed_charge="2" index="523678">
+      <search_result>
+        <search_hit hit_rank="1" peptide="MVHEEIIP" calc_neutral_pep_mass="966.4844" massdiff="1.9" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.42"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16174" end_scan="16174" precursor_neutral_mass="1994.0094" assumed_charge="3" index="523691">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGDVQPSQDLVR" calc_neutral_pep_mass="1994.0068" massdiff="1.3" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="18.59"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16298" end_scan="16298" precursor_neutral_mass="1994.0098" assumed_charge="3" index="523788">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LPQVEGTGGDVQPSQDLVR" calc_neutral_pep_mass="1994.0068" massdiff="1.5" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="33.29"/>
+          <search_score name="confidence" value="0.05"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16453" end_scan="16453" precursor_neutral_mass="937.3947" assumed_charge="2" index="523901">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FDWRDAE" calc_neutral_pep_mass="937.3929" massdiff="1.9" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201788838" protein_descr="Thalassiosira_weissflogii_0201788838" protein_mw="47433.31">
+          <search_score name="-10lgP" value="15.72"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16839" end_scan="16839" precursor_neutral_mass="858.4819" assumed_charge="2" index="524179">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GGGKLKGVGG" calc_neutral_pep_mass="858.4922" massdiff="-12.1" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <modification_info modified_peptide="GGGK(+14.02)LK(+15.99)GVGG">
+            <mod_aminoacid_mass position="4" mass="142.11061"/>
+            <mod_aminoacid_mass position="6" mass="144.08986"/>
+          </modification_info>
+          <search_score name="-10lgP" value="15.12"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16844" end_scan="16844" precursor_neutral_mass="1213.5999" assumed_charge="2" index="524182">
+      <search_result>
+        <search_hit hit_rank="1" peptide="IIDTPGHVDFT" calc_neutral_pep_mass="1213.5979" massdiff="1.6" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="15.28"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="16923" end_scan="16923" precursor_neutral_mass="1165.5060" assumed_charge="2" index="524239">
+      <search_result>
+        <search_hit hit_rank="1" peptide="QEYGPHLPGDA" calc_neutral_pep_mass="1165.5039" massdiff="1.8" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <modification_info modified_peptide="Q(-17.03)EYGPHLPGDA">
+            <mod_aminoacid_mass position="1" mass="111.03203"/>
+          </modification_info>
+          <search_score name="-10lgP" value="15.08"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="17586" end_scan="17586" precursor_neutral_mass="1181.6782" assumed_charge="2" index="524702">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VVLNDPGRLIS" calc_neutral_pep_mass="1181.6768" massdiff="1.2" num_tot_proteins="1" protein="tr|A0A089VKF6|A0A089VKF6_THAWE" protein_descr="Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1" protein_mw="56360.59">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203103378" protein_descr="Thalassiosira_weissflogii_0203103378" protein_mw="56360.59"/>
+          <search_score name="-10lgP" value="17.11"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="17670" end_scan="17670" precursor_neutral_mass="1106.5745" assumed_charge="2" index="524765">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GIHLPGNIDTA" calc_neutral_pep_mass="1106.5720" massdiff="2.2" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19">
+          <search_score name="-10lgP" value="16.74"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="17787" end_scan="17787" precursor_neutral_mass="1106.5729" assumed_charge="2" index="524850">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GIHLPGNIDTA" calc_neutral_pep_mass="1106.5720" massdiff="0.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19">
+          <search_score name="-10lgP" value="18.39"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="17838" end_scan="17838" precursor_neutral_mass="932.4451" assumed_charge="2" index="524881">
+      <search_result>
+        <search_hit hit_rank="1" peptide="MGGSGNILAGG" calc_neutral_pep_mass="932.4385" massdiff="7.0" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="15.97"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="17888" end_scan="17888" precursor_neutral_mass="1609.7286" assumed_charge="3" index="524918">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GWDDFDEETKLQK" calc_neutral_pep_mass="1609.7260" massdiff="1.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="18.44"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18230" end_scan="18230" precursor_neutral_mass="1154.5752" assumed_charge="2" index="525171">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVHLPGNIDYA" calc_neutral_pep_mass="1154.5720" massdiff="2.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="16.04"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18352" end_scan="18352" precursor_neutral_mass="1154.5758" assumed_charge="2" index="525263">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVHLPGNIDYA" calc_neutral_pep_mass="1154.5720" massdiff="3.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="18.00"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18382" end_scan="18382" precursor_neutral_mass="1094.5527" assumed_charge="2" index="525285">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FVGDFRNGAL" calc_neutral_pep_mass="1094.5509" massdiff="1.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984"/>
+          <search_score name="-10lgP" value="15.66"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18509" end_scan="18509" precursor_neutral_mass="1083.5364" assumed_charge="2" index="525381">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVHLPGNIDY" calc_neutral_pep_mass="1083.5349" massdiff="1.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="16.62"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18573" end_scan="18573" precursor_neutral_mass="949.5135" assumed_charge="2" index="525428">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SVFEVEIK" calc_neutral_pep_mass="949.5120" massdiff="1.5" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0171348692" protein_descr="Thalassiosira_weissflogii_0171348692" protein_mw="28856.848">
+          <alternative_protein protein="tr|A0A089VIP5|A0A089VIP5_THAWE" protein_descr="Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1" protein_mw="33988.027"/>
+          <search_score name="-10lgP" value="15.03"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18636" end_scan="18636" precursor_neutral_mass="1083.5365" assumed_charge="2" index="525470">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GVHLPGNIDY" calc_neutral_pep_mass="1083.5349" massdiff="1.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="16.69"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="18713" end_scan="18713" precursor_neutral_mass="1225.6116" assumed_charge="2" index="525523">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AGVHLPGNIDYA" calc_neutral_pep_mass="1225.6091" massdiff="2.0" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="16.85"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="19294" end_scan="19294" precursor_neutral_mass="755.4442" assumed_charge="2" index="525953">
+      <search_result>
+        <search_hit hit_rank="1" peptide="PAILLET" calc_neutral_pep_mass="755.4429" massdiff="1.7" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="15.66"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+        <search_hit hit_rank="2" peptide="PALLIET" calc_neutral_pep_mass="755.4429" massdiff="1.7" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="15.66"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="19807" end_scan="19807" precursor_neutral_mass="1279.6758" assumed_charge="2" index="526318">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AAISGPDAIPGAGLA" calc_neutral_pep_mass="1279.6771" massdiff="-1.1" num_tot_proteins="1" protein="" protein_descr="" protein_mw="">
+          <search_score name="-10lgP" value="16.41"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20068" end_scan="20068" precursor_neutral_mass="1654.8678" assumed_charge="3" index="526516">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="2.4" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="24.07"/>
+          <search_score name="confidence" value="0.04"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20124" end_scan="20124" precursor_neutral_mass="902.4859" assumed_charge="2" index="526558">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GQDVKLPF" calc_neutral_pep_mass="902.4861" massdiff="-0.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201788838" protein_descr="Thalassiosira_weissflogii_0201788838" protein_mw="47433.31">
+          <search_score name="-10lgP" value="15.82"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20132" end_scan="20132" precursor_neutral_mass="1280.6162" assumed_charge="2" index="526564">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GEFVGDFRNGAL" calc_neutral_pep_mass="1280.6149" massdiff="1.0" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <search_score name="-10lgP" value="17.48"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20187" end_scan="20187" precursor_neutral_mass="1654.8673" assumed_charge="3" index="526601">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VIGQNEAVDAVSNAIR" calc_neutral_pep_mass="1654.8638" massdiff="2.1" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="24.97"/>
+          <search_score name="confidence" value="0.04"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20226" end_scan="20226" precursor_neutral_mass="1138.5674" assumed_charge="2" index="526630">
+      <search_result>
+        <search_hit hit_rank="1" peptide="YDPDLPIIGH" calc_neutral_pep_mass="1138.5658" massdiff="1.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.13"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20265" end_scan="20265" precursor_neutral_mass="902.4873" assumed_charge="2" index="526656">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GQDVKLPF" calc_neutral_pep_mass="902.4861" massdiff="1.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201788838" protein_descr="Thalassiosira_weissflogii_0201788838" protein_mw="47433.31">
+          <search_score name="-10lgP" value="15.83"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20531" end_scan="20531" precursor_neutral_mass="1095.5652" assumed_charge="2" index="526859">
+      <search_result>
+        <search_hit hit_rank="1" peptide="MVHEEIIPL" calc_neutral_pep_mass="1095.5634" massdiff="1.6" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <modification_info modified_peptide="M(+15.99)VHEEIIPL">
+            <mod_aminoacid_mass position="1" mass="147.03542"/>
+          </modification_info>
+          <search_score name="-10lgP" value="15.83"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20610" end_scan="20610" precursor_neutral_mass="1195.5920" assumed_charge="2" index="526924">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="4.0" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="16.22"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20736" end_scan="20736" precursor_neutral_mass="1195.5889" assumed_charge="2" index="527021">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="1.3" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.47"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20740" end_scan="20740" precursor_neutral_mass="761.3867" assumed_charge="2" index="527025">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AHGAIFF" calc_neutral_pep_mass="761.3860" massdiff="0.8" num_tot_proteins="1" protein="tr|A0A089VIJ5|A0A089VIJ5_THAWE" protein_descr="Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1" protein_mw="81999.09">
+          <search_score name="-10lgP" value="18.20"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20852" end_scan="20852" precursor_neutral_mass="1195.5883" assumed_charge="2" index="527103">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="0.8" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.24"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="20898" end_scan="20898" precursor_neutral_mass="1173.5109" assumed_charge="2" index="527137">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SIWDPHFGES" calc_neutral_pep_mass="1173.5090" massdiff="1.5" num_tot_proteins="1" protein="tr|A0A089VIJ5|A0A089VIJ5_THAWE" protein_descr="Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1" protein_mw="81999.09">
+          <search_score name="-10lgP" value="16.15"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21016" end_scan="21016" precursor_neutral_mass="761.3870" assumed_charge="2" index="527230">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AHGAIFF" calc_neutral_pep_mass="761.3860" massdiff="1.2" num_tot_proteins="1" protein="tr|A0A089VIJ5|A0A089VIJ5_THAWE" protein_descr="Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1" protein_mw="81999.09">
+          <search_score name="-10lgP" value="17.38"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21028" end_scan="21028" precursor_neutral_mass="761.3868" assumed_charge="2" index="527238">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AHGAIFF" calc_neutral_pep_mass="761.3860" massdiff="0.9" num_tot_proteins="1" protein="tr|A0A089VIJ5|A0A089VIJ5_THAWE" protein_descr="Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1" protein_mw="81999.09">
+          <search_score name="-10lgP" value="18.08"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21088" end_scan="21088" precursor_neutral_mass="1195.5886" assumed_charge="2" index="527281">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="1.1" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="16.69"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21188" end_scan="21188" precursor_neutral_mass="1022.6498" assumed_charge="2" index="527359">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NVGGILILPK" calc_neutral_pep_mass="1022.6488" massdiff="0.9" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0171348692" protein_descr="Thalassiosira_weissflogii_0171348692" protein_mw="28856.848">
+          <alternative_protein protein="tr|A0A089VIP5|A0A089VIP5_THAWE" protein_descr="Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1" protein_mw="33988.027"/>
+          <search_score name="-10lgP" value="15.15"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21306" end_scan="21306" precursor_neutral_mass="1022.6509" assumed_charge="2" index="527449">
+      <search_result>
+        <search_hit hit_rank="1" peptide="NVGGILILPK" calc_neutral_pep_mass="1022.6488" massdiff="2.0" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0171348692" protein_descr="Thalassiosira_weissflogii_0171348692" protein_mw="28856.848">
+          <alternative_protein protein="tr|A0A089VIP5|A0A089VIP5_THAWE" protein_descr="Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1" protein_mw="33988.027"/>
+          <search_score name="-10lgP" value="15.13"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21329" end_scan="21329" precursor_neutral_mass="1195.5898" assumed_charge="2" index="527467">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="2.1" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="16.13"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21699" end_scan="21699" precursor_neutral_mass="1285.6893" assumed_charge="3" index="527757">
+      <search_result>
+        <search_hit hit_rank="1" peptide="VTDAEIAEVLAR" calc_neutral_pep_mass="1285.6877" massdiff="1.2" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="28.69"/>
+          <search_score name="confidence" value="0.05"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21796" end_scan="21796" precursor_neutral_mass="1195.5884" assumed_charge="2" index="527831">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="0.9" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="16.74"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="21918" end_scan="21918" precursor_neutral_mass="1195.5887" assumed_charge="2" index="527932">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="1.2" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.73"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="22065" end_scan="22065" precursor_neutral_mass="798.3714" assumed_charge="2" index="528053">
+      <search_result>
+        <search_hit hit_rank="1" peptide="FGWDKF" calc_neutral_pep_mass="798.3701" massdiff="1.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19"/>
+          <search_score name="-10lgP" value="15.00"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="22103" end_scan="22103" precursor_neutral_mass="1079.5686" assumed_charge="2" index="528081">
+      <search_result>
+        <search_hit hit_rank="1" peptide="MVHEEIIPL" calc_neutral_pep_mass="1079.5685" massdiff="0.1" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="16.05"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="22163" end_scan="22163" precursor_neutral_mass="1195.5902" assumed_charge="2" index="528126">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="2.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="15.21"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="22889" end_scan="22889" precursor_neutral_mass="1308.6736" assumed_charge="2" index="528709">
+      <search_result>
+        <search_hit hit_rank="1" peptide="LGYDPDLPIIGH" calc_neutral_pep_mass="1308.6714" massdiff="1.7" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="17.34"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="23521" end_scan="23521" precursor_neutral_mass="1220.6793" assumed_charge="3" index="529207">
+      <search_result>
+        <search_hit hit_rank="1" peptide="SLEDIAKVLPH" calc_neutral_pep_mass="1220.6764" massdiff="2.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201806284" protein_descr="Thalassiosira_weissflogii_0201806284" protein_mw="22856.535">
+          <search_score name="-10lgP" value="20.36"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="23554" end_scan="23554" precursor_neutral_mass="999.5071" assumed_charge="2" index="529231">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GGELPIVGQM" calc_neutral_pep_mass="999.5059" massdiff="1.1" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203264230" protein_descr="Thalassiosira_weissflogii_0203264230" protein_mw="9828.984">
+          <search_score name="-10lgP" value="16.57"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="24178" end_scan="24178" precursor_neutral_mass="913.3983" assumed_charge="2" index="529723">
+      <search_result>
+        <search_hit hit_rank="1" peptide="DFGWDKF" calc_neutral_pep_mass="913.3970" massdiff="1.4" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19"/>
+          <search_score name="-10lgP" value="16.09"/>
+          <search_score name="confidence" value="0.02"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="24333" end_scan="24333" precursor_neutral_mass="1372.7227" assumed_charge="3" index="529855">
+      <search_result>
+        <search_hit hit_rank="1" peptide="AIDLIDEAASSIR" calc_neutral_pep_mass="1372.7197" massdiff="2.2" num_tot_proteins="1" protein="gi|54036848" protein_descr="RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1" protein_mw="95585.08">
+          <search_score name="-10lgP" value="22.94"/>
+          <search_score name="confidence" value="0.04"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="26993" end_scan="26993" precursor_neutral_mass="932.4773" assumed_charge="2" index="531938">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GAQPPLGFF" calc_neutral_pep_mass="932.4756" massdiff="1.8" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19"/>
+          <search_score name="-10lgP" value="19.26"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="27115" end_scan="27115" precursor_neutral_mass="932.4783" assumed_charge="2" index="532035">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GAQPPLGFF" calc_neutral_pep_mass="932.4756" massdiff="2.9" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19"/>
+          <search_score name="-10lgP" value="19.28"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="27245" end_scan="27245" precursor_neutral_mass="932.4764" assumed_charge="2" index="532143">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GAQPPLGFF" calc_neutral_pep_mass="932.4756" massdiff="0.8" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860448" protein_descr="Thalassiosira_weissflogii_0201860448" protein_mw="32687.057"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203172898" protein_descr="Thalassiosira_weissflogii_0203172898" protein_mw="22018.19"/>
+          <search_score name="-10lgP" value="20.32"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="27319" end_scan="27319" precursor_neutral_mass="1308.6677" assumed_charge="2" index="532194">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGHL" calc_neutral_pep_mass="1308.6714" massdiff="-2.8" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="17.98"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="27437" end_scan="27437" precursor_neutral_mass="1308.6761" assumed_charge="2" index="532283">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGHL" calc_neutral_pep_mass="1308.6714" massdiff="3.6" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="18.98"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+    <spectrum_query spectrum="2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw" start_scan="29125" end_scan="29125" precursor_neutral_mass="1195.5914" assumed_charge="2" index="533493">
+      <search_result>
+        <search_hit hit_rank="1" peptide="GYDPDLPIIGH" calc_neutral_pep_mass="1195.5873" massdiff="3.5" num_tot_proteins="1" protein="Thalassiosira_weissflogii_0203546162" protein_descr="Thalassiosira_weissflogii_0203546162" protein_mw="23008.162">
+          <alternative_protein protein="Thalassiosira_weissflogii_0203258860" protein_descr="Thalassiosira_weissflogii_0203258860" protein_mw="25253.666"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203319814" protein_descr="Thalassiosira_weissflogii_0203319814" protein_mw="26374.14"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203628344" protein_descr="Thalassiosira_weissflogii_0203628344" protein_mw="36916.953"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0201860518" protein_descr="Thalassiosira_weissflogii_0201860518" protein_mw="42433.375"/>
+          <alternative_protein protein="Thalassiosira_weissflogii_0203473996" protein_descr="Thalassiosira_weissflogii_0203473996" protein_mw="46927.637"/>
+          <search_score name="-10lgP" value="17.67"/>
+          <search_score name="confidence" value="0.03"/>
+        </search_hit>
+      </search_result>
+    </spectrum_query>
+  </msms_run_summary>
+</msms_pipeline_analysis>

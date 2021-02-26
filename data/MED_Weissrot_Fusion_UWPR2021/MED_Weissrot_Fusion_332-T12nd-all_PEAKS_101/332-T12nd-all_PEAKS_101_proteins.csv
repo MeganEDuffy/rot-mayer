@@ -1,0 +1,18 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) 332_T12_nodigest,Area 332_T12_nodigest,#Peptides,#Unique,#Spec 332_T12_nodigest,PTM,Avg. Mass,Description
+8,1,gi|54036848,61.70,7,7,4.75E7,4,4,6,,95585,RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
+3,6,Thalassiosira_weissflogii_0201860448,56.06,18,18,5.38E5,12,1,16,,32687,Thalassiosira_weissflogii_0201860448
+1,8,Thalassiosira_weissflogii_0203546162,54.40,25,25,6.24E8,10,9,22,Oxidation (M),23008,Thalassiosira_weissflogii_0203546162
+1,9,Thalassiosira_weissflogii_0203258860,54.40,23,23,6.24E8,10,9,22,Oxidation (M),25254,Thalassiosira_weissflogii_0203258860
+1,7,Thalassiosira_weissflogii_0203319814,54.40,22,22,6.24E8,10,9,22,Oxidation (M),26374,Thalassiosira_weissflogii_0203319814
+1,12,Thalassiosira_weissflogii_0203628344,54.40,16,16,6.24E8,10,9,22,Oxidation (M),36917,Thalassiosira_weissflogii_0203628344
+1,10,Thalassiosira_weissflogii_0201860518,54.40,13,13,6.24E8,10,9,22,Oxidation (M),42433,Thalassiosira_weissflogii_0201860518
+1,11,Thalassiosira_weissflogii_0203473996,54.40,12,12,6.24E8,10,9,22,Oxidation (M),46928,Thalassiosira_weissflogii_0203473996
+9,19,tr|A0A089VKF6|A0A089VKF6_THAWE,42.35,6,6,9.04E6,5,5,5,,56361,Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1
+9,20,Thalassiosira_weissflogii_0203103378,42.35,6,6,9.04E6,5,5,5,,56361,Thalassiosira_weissflogii_0203103378
+6,18,Thalassiosira_weissflogii_0203172898,42.06,16,16,4.47E6,5,2,8,,22018,Thalassiosira_weissflogii_0203172898
+7,17,Thalassiosira_weissflogii_0203264230,41.41,38,38,3.94E6,6,1,7,Oxidation (M),9829,Thalassiosira_weissflogii_0203264230
+13,344,Thalassiosira_weissflogii_0201806284,27.98,9,9,1.91E6,2,2,2,,22857,Thalassiosira_weissflogii_0201806284
+10,14,Thalassiosira_weissflogii_0171348692,27.86,10,10,4.07E7,3,3,4,,28857,Thalassiosira_weissflogii_0171348692
+10,15,tr|A0A089VIP5|A0A089VIP5_THAWE,27.86,9,9,4.07E7,3,3,4,,33988,Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1
+11,31,tr|A0A089VIJ5|A0A089VIJ5_THAWE,26.28,2,2,2.41E6,2,2,4,,81999,Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1
+12,346,Thalassiosira_weissflogii_0201788838,23.69,3,3,1.6E6,2,2,3,,47433,Thalassiosira_weissflogii_0201788838
