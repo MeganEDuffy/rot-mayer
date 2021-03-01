@@ -1,0 +1,22 @@
+Peptides,GO-term,Name
+12,GO:0018298,protein-chromophore linkage
+9,GO:0009768,"photosynthesis, light harvesting in photosystem I"
+9,GO:0009416,response to light stimulus
+8,GO:0009765,"photosynthesis, light harvesting"
+5,GO:0015986,ATP synthesis coupled proton transport
+4,GO:0015979,photosynthesis
+2,GO:0009772,photosynthetic electron transport in photosystem II
+2,GO:0006006,glucose metabolic process
+2,GO:0006096,glycolytic process
+1,GO:0019253,reductive pentose-phosphate cycle
+1,GO:0009767,photosynthetic electron transport chain
+1,GO:0006098,pentose-phosphate shunt
+1,GO:0070125,mitochondrial translational elongation
+1,GO:0032790,ribosome disassembly
+1,GO:0007035,vacuolar acidification
+1,GO:0034620,cellular response to unfolded protein
+1,GO:0051085,chaperone cofactor-dependent protein refolding
+1,GO:0030968,endoplasmic reticulum unfolded protein response
+1,GO:0042026,protein refolding
+1,GO:0006986,response to unfolded protein
+1,GO:0030433,ubiquitin-dependent ERAD pathway

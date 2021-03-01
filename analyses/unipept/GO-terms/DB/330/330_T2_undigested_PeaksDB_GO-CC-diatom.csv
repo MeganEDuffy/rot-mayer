@@ -1,0 +1,18 @@
+Peptides,GO-term,Name
+18,GO:0009507,chloroplast
+17,GO:0009535,chloroplast thylakoid membrane
+17,GO:0016021,integral component of membrane
+5,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+4,GO:0009538,photosystem I reaction center
+3,GO:0005829,cytosol
+2,GO:0009523,photosystem II
+2,GO:0016020,membrane
+1,GO:0009521,photosystem
+1,GO:0005739,mitochondrion
+1,GO:0005623,cell
+1,GO:0016471,vacuolar proton-transporting V-type ATPase complex
+1,GO:0000220,"vacuolar proton-transporting V-type ATPase, V0 domain"
+1,GO:0033179,"proton-transporting V-type ATPase, V0 domain"
+1,GO:0005737,cytoplasm
+1,GO:0034663,endoplasmic reticulum chaperone complex
+1,GO:0005788,endoplasmic reticulum lumen

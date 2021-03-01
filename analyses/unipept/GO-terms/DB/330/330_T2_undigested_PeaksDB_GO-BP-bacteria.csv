@@ -1,0 +1,54 @@
+Peptides,GO-term,Name
+7,GO:0000160,phosphorelay signal transduction system
+3,GO:0006260,DNA replication
+3,GO:0006355,"regulation of transcription, DNA-templated"
+3,GO:0015979,photosynthesis
+3,GO:0009772,photosynthetic electron transport in photosystem II
+2,GO:0055085,transmembrane transport
+2,GO:0005975,carbohydrate metabolic process
+2,GO:0006979,response to oxidative stress
+1,GO:0070475,rRNA base methylation
+1,GO:0017038,protein import
+1,GO:0006605,protein targeting
+1,GO:0006289,nucleotide-excision repair
+1,GO:0006782,protoporphyrinogen IX biosynthetic process
+1,GO:0018160,peptidyl-pyrromethane cofactor linkage
+1,GO:0009307,DNA restriction-modification system
+1,GO:0009089,lysine biosynthetic process via diaminopimelate
+1,GO:0006221,pyrimidine nucleotide biosynthetic process
+1,GO:0000724,double-strand break repair via homologous recombination
+1,GO:0006313,"transposition, DNA-mediated"
+1,GO:0006419,alanyl-tRNA aminoacylation
+1,GO:0035556,intracellular signal transduction
+1,GO:0009190,cyclic nucleotide biosynthetic process
+1,GO:0006780,uroporphyrinogen III biosynthetic process
+1,GO:0001514,selenocysteine incorporation
+1,GO:0097056,selenocysteinyl-tRNA(Sec) biosynthetic process
+1,GO:0055114,oxidation-reduction process
+1,GO:0007049,cell cycle
+1,GO:0051301,cell division
+1,GO:0007059,chromosome segregation
+1,GO:1901137,carbohydrate derivative biosynthetic process
+1,GO:0042744,hydrogen peroxide catabolic process
+1,GO:0009405,pathogenesis
+1,GO:0006259,DNA metabolic process
+1,GO:0009244,lipopolysaccharide core region biosynthetic process
+1,GO:0000271,polysaccharide biosynthetic process
+1,GO:0006281,DNA repair
+1,GO:0006464,cellular protein modification process
+1,GO:0030091,protein repair
+1,GO:0006412,translation
+1,GO:0042908,xenobiotic transport
+1,GO:0016042,lipid catabolic process
+1,GO:0009252,peptidoglycan biosynthetic process
+1,GO:0008360,regulation of cell shape
+1,GO:0071555,cell wall organization
+1,GO:0006435,threonyl-tRNA aminoacylation
+1,GO:0006438,valyl-tRNA aminoacylation
+1,GO:0030494,bacteriochlorophyll biosynthetic process
+1,GO:0015986,ATP synthesis coupled proton transport
+1,GO:0046034,ATP metabolic process
+1,GO:1902600,proton transmembrane transport
+1,GO:0042128,nitrate assimilation
+1,GO:0031564,transcription antitermination
+1,GO:0006353,"DNA-templated transcription, termination"

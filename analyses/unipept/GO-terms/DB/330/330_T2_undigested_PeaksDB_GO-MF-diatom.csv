@@ -1,0 +1,30 @@
+Peptides,GO-term,Name
+12,GO:0016168,chlorophyll binding
+8,GO:0005524,ATP binding
+5,GO:0000287,magnesium ion binding
+5,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+5,GO:0005525,GTP binding
+5,GO:0003924,GTPase activity
+5,GO:0003746,translation elongation factor activity
+3,GO:0016984,ribulose-bisphosphate carboxylase activity
+3,GO:0046872,metal ion binding
+2,GO:0045156,"electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity"
+2,GO:0004365,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+2,GO:0051287,NAD binding
+2,GO:0050661,NADP binding
+1,GO:0004497,monooxygenase activity
+1,GO:0003824,catalytic activity
+1,GO:0004802,transketolase activity
+1,GO:0051117,ATPase binding
+1,GO:0016787,hydrolase activity
+1,GO:0046961,"proton-transporting ATPase activity, rotational mechanism"
+1,GO:0015078,proton transmembrane transporter activity
+1,GO:0016887,ATPase activity
+1,GO:0042623,ATPase activity
+1,GO:0031072,heat shock protein binding
+1,GO:0051787,misfolded protein binding
+1,GO:0044183,protein folding chaperone
+1,GO:0051082,unfolded protein binding
+1,GO:0016868,"intramolecular transferase activity, phosphotransferases"
+1,GO:0070569,uridylyltransferase activity
+1,GO:0004222,metalloendopeptidase activity

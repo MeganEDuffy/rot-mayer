@@ -1,0 +1,94 @@
+Peptides,GO-term,Name
+23,GO:0005524,ATP binding
+10,GO:0003677,DNA binding
+10,GO:0046872,metal ion binding
+9,GO:0016491,oxidoreductase activity
+6,GO:0016787,hydrolase activity
+5,GO:0016887,ATPase activity
+4,GO:0003700,DNA-binding transcription factor activity
+4,GO:0000155,phosphorelay sensor kinase activity
+4,GO:0016740,transferase activity
+3,GO:0043565,sequence-specific DNA binding
+3,GO:0003887,DNA-directed DNA polymerase activity
+3,GO:0051539,"4 iron, 4 sulfur cluster binding"
+3,GO:0045156,"electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity"
+2,GO:0004519,endonuclease activity
+2,GO:0003824,catalytic activity
+2,GO:0050660,flavin adenine dinucleotide binding
+2,GO:0008270,zinc ion binding
+2,GO:0000049,tRNA binding
+2,GO:0016301,kinase activity
+2,GO:0008484,sulfuric ester hydrolase activity
+2,GO:0022857,transmembrane transporter activity
+2,GO:0003746,translation elongation factor activity
+2,GO:0003676,nucleic acid binding
+2,GO:0043546,molybdopterin cofactor binding
+1,GO:0015655,alanine:sodium symporter activity
+1,GO:0008137,NADH dehydrogenase (ubiquinone) activity
+1,GO:0048038,quinone binding
+1,GO:0004527,exonuclease activity
+1,GO:0005507,copper ion binding
+1,GO:0016853,isomerase activity
+1,GO:0015667,site-specific DNA-methyltransferase (cytosine-N4-specific) activity
+1,GO:0008170,N-methyltransferase activity
+1,GO:0071424,rRNA (cytosine-N4-)-methyltransferase activity
+1,GO:0004563,beta-N-acetylhexosaminidase activity
+1,GO:0004518,nuclease activity
+1,GO:0016805,dipeptidase activity
+1,GO:0004418,hydroxymethylbilane synthase activity
+1,GO:0015087,cobalt ion transmembrane transporter activity
+1,GO:0015095,magnesium ion transmembrane transporter activity
+1,GO:0030170,pyridoxal phosphate binding
+1,GO:0015297,antiporter activity
+1,GO:0042910,xenobiotic transmembrane transporter activity
+1,GO:0050662,coenzyme binding
+1,GO:0008836,diaminopimelate decarboxylase activity
+1,GO:0008874,gluconate 5-dehydrogenase activity
+1,GO:0004674,protein serine/threonine kinase activity
+1,GO:0004151,dihydroorotase activity
+1,GO:0016627,"oxidoreductase activity, acting on the CH-CH group of donors"
+1,GO:0000150,recombinase activity
+1,GO:0004181,metallocarboxypeptidase activity
+1,GO:0004803,transposase activity
+1,GO:0003690,double-stranded DNA binding
+1,GO:0003678,DNA helicase activity
+1,GO:0008409,5'-3' exonuclease activity
+1,GO:0004386,helicase activity
+1,GO:0004813,alanine-tRNA ligase activity
+1,GO:0016849,phosphorus-oxygen lyase activity
+1,GO:0003989,acetyl-CoA carboxylase activity
+1,GO:0004852,uroporphyrinogen-III synthase activity
+1,GO:0004125,L-seryl-tRNASec selenium transferase activity
+1,GO:0051536,iron-sulfur cluster binding
+1,GO:0004784,superoxide dismutase activity
+1,GO:0004360,glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+1,GO:0004096,catalase activity
+1,GO:0020037,heme binding
+1,GO:0016776,"phosphotransferase activity, phosphate group as acceptor"
+1,GO:0016772,"transferase activity, transferring phosphorus-containing groups"
+1,GO:0017150,tRNA dihydrouridine synthase activity
+1,GO:0004040,amidase activity
+1,GO:0005525,GTP binding
+1,GO:0051287,NAD binding
+1,GO:0016628,"oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"
+1,GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+1,GO:0003924,GTPase activity
+1,GO:0008408,3'-5' exonuclease activity
+1,GO:0033743,peptide-methionine (R)-S-oxide reductase activity
+1,GO:0008113,peptide-methionine (S)-S-oxide reductase activity
+1,GO:0042626,ATPase-coupled transmembrane transporter activity
+1,GO:0019843,rRNA binding
+1,GO:0003735,structural constituent of ribosome
+1,GO:0015562,efflux transmembrane transporter activity
+1,GO:0008881,glutamate racemase activity
+1,GO:0004829,threonine-tRNA ligase activity
+1,GO:0016868,"intramolecular transferase activity, phosphotransferases"
+1,GO:0016851,magnesium chelatase activity
+1,GO:0004832,valine-tRNA ligase activity
+1,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+1,GO:0010181,FMN binding
+1,GO:0016829,lyase activity
+1,GO:0000166,nucleotide binding
+1,GO:0003723,RNA binding
+1,GO:0016757,"transferase activity, transferring glycosyl groups"
+1,GO:0008236,serine-type peptidase activity
