@@ -1,0 +1,84 @@
+Peptides,GO-term,Name
+13,GO:0005524,ATP binding
+7,GO:0003677,DNA binding
+6,GO:0046872,metal ion binding
+5,GO:0016491,oxidoreductase activity
+5,GO:0016740,transferase activity
+3,GO:0003676,nucleic acid binding
+3,GO:0051539,"4 iron, 4 sulfur cluster binding"
+3,GO:0016887,ATPase activity
+3,GO:0016853,isomerase activity
+3,GO:0008168,methyltransferase activity
+2,GO:0003700,DNA-binding transcription factor activity
+2,GO:0000287,magnesium ion binding
+2,GO:0008270,zinc ion binding
+2,GO:0010181,FMN binding
+2,GO:0008137,NADH dehydrogenase (ubiquinone) activity
+2,GO:0004519,endonuclease activity
+2,GO:0030983,mismatched DNA binding
+2,GO:0004252,serine-type endopeptidase activity
+2,GO:0003824,catalytic activity
+2,GO:0004360,glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+2,GO:0097367,carbohydrate derivative binding
+1,GO:0005518,collagen binding
+1,GO:0004329,formate-tetrahydrofolate ligase activity
+1,GO:0004654,polyribonucleotide nucleotidyltransferase activity
+1,GO:0003723,RNA binding
+1,GO:0008176,tRNA (guanine-N7-)-methyltransferase activity
+1,GO:0043138,3'-5' DNA helicase activity
+1,GO:0005506,iron ion binding
+1,GO:0051213,dioxygenase activity
+1,GO:0051537,"2 iron, 2 sulfur cluster binding"
+1,GO:0004181,metallocarboxypeptidase activity
+1,GO:0004803,transposase activity
+1,GO:0003690,double-stranded DNA binding
+1,GO:0003678,DNA helicase activity
+1,GO:0008409,5'-3' exonuclease activity
+1,GO:0004866,endopeptidase inhibitor activity
+1,GO:0046025,"precorrin-6Y C5,15-methyltransferase (decarboxylating) activity"
+1,GO:0008276,protein methyltransferase activity
+1,GO:0008641,ubiquitin-like modifier activating enzyme activity
+1,GO:0034023,5-(carboxyamino)imidazole ribonucleotide mutase activity
+1,GO:0003910,DNA ligase (ATP) activity
+1,GO:0004350,glutamate-5-semialdehyde dehydrogenase activity
+1,GO:0050661,NADP binding
+1,GO:0050660,flavin adenine dinucleotide binding
+1,GO:0016879,"ligase activity, forming carbon-nitrogen bonds"
+1,GO:0000155,phosphorelay sensor kinase activity
+1,GO:0008658,penicillin binding
+1,GO:0009002,serine-type D-Ala-D-Ala carboxypeptidase activity
+1,GO:0008460,"dTDP-glucose 4,6-dehydratase activity"
+1,GO:0008408,3'-5' exonuclease activity
+1,GO:0003887,DNA-directed DNA polymerase activity
+1,GO:0030246,carbohydrate binding
+1,GO:0016793,triphosphoric monoester hydrolase activity
+1,GO:0033926,glycopeptide alpha-N-acetylgalactosaminidase activity
+1,GO:0008897,holo-[acyl-carrier-protein] synthase activity
+1,GO:0003735,structural constituent of ribosome
+1,GO:0016787,hydrolase activity
+1,GO:0005525,GTP binding
+1,GO:0003924,GTPase activity
+1,GO:0003743,translation initiation factor activity
+1,GO:0043565,sequence-specific DNA binding
+1,GO:0016301,kinase activity
+1,GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+1,GO:0003684,damaged DNA binding
+1,GO:0009381,excinuclease ABC activity
+1,GO:0016597,amino acid binding
+1,GO:0016743,carboxyl- or carbamoyltransferase activity
+1,GO:0004070,aspartate carbamoyltransferase activity
+1,GO:0052693,epoxyqueuosine reductase activity
+1,GO:0004106,chorismate mutase activity
+1,GO:0004664,prephenate dehydratase activity
+1,GO:0000150,recombinase activity
+1,GO:0004477,methenyltetrahydrofolate cyclohydrolase activity
+1,GO:0004488,methylenetetrahydrofolate dehydrogenase (NADP+) activity
+1,GO:0016874,ligase activity
+1,GO:0008233,peptidase activity
+1,GO:0004736,pyruvate carboxylase activity
+1,GO:0009374,biotin binding
+1,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+1,GO:0016620,"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"
+1,GO:0016779,nucleotidyltransferase activity
+1,GO:0004315,3-oxoacyl-[acyl-carrier-protein] synthase activity
+1,GO:0004604,phosphoadenylyl-sulfate reductase (thioredoxin) activity

@@ -1,0 +1,89 @@
+Peptides,GO-term,Name
+7,GO:0000160,phosphorelay signal transduction system
+5,GO:0032259,methylation
+4,GO:0055085,transmembrane transport
+4,GO:0005975,carbohydrate metabolic process
+4,GO:0051301,cell division
+4,GO:0007049,cell cycle
+4,GO:0006412,translation
+3,GO:0006281,DNA repair
+3,GO:0071555,cell wall organization
+3,GO:0009252,peptidoglycan biosynthetic process
+3,GO:0008360,regulation of cell shape
+3,GO:0042026,protein refolding
+3,GO:0009408,response to heat
+2,GO:0006355,"regulation of transcription, DNA-templated"
+2,GO:0006289,nucleotide-excision repair
+2,GO:0006419,alanyl-tRNA aminoacylation
+2,GO:0006605,protein targeting
+2,GO:0006284,base-excision repair
+2,GO:0006261,DNA-dependent DNA replication
+2,GO:1901137,carbohydrate derivative biosynthetic process
+2,GO:0006432,phenylalanyl-tRNA aminoacylation
+2,GO:0045454,cell redox homeostasis
+2,GO:0019538,protein metabolic process
+2,GO:0031564,transcription antitermination
+2,GO:0006353,"DNA-templated transcription, termination"
+2,GO:0015979,photosynthesis
+1,GO:0000724,double-strand break repair via homologous recombination
+1,GO:0006313,"transposition, DNA-mediated"
+1,GO:0006665,sphingolipid metabolic process
+1,GO:0070475,rRNA base methylation
+1,GO:0006260,DNA replication
+1,GO:0006098,pentose-phosphate shunt
+1,GO:0006096,glycolytic process
+1,GO:0065002,intracellular protein transmembrane transport
+1,GO:0043952,protein transport by the Sec complex
+1,GO:0006465,signal peptide processing
+1,GO:0006071,glycerol metabolic process
+1,GO:0006086,acetyl-CoA biosynthetic process from pyruvate
+1,GO:0006420,arginyl-tRNA aminoacylation
+1,GO:0010974,negative regulation of division septum assembly
+1,GO:0006777,Mo-molybdopterin cofactor biosynthetic process
+1,GO:0019301,rhamnose catabolic process
+1,GO:0009307,DNA restriction-modification system
+1,GO:0006782,protoporphyrinogen IX biosynthetic process
+1,GO:0018160,peptidyl-pyrromethane cofactor linkage
+1,GO:0006614,SRP-dependent cotranslational protein targeting to membrane
+1,GO:0006813,potassium ion transport
+1,GO:0017038,protein import
+1,GO:0006352,"DNA-templated transcription, initiation"
+1,GO:0045017,glycerolipid biosynthetic process
+1,GO:0006493,protein O-linked glycosylation
+1,GO:0001522,pseudouridine synthesis
+1,GO:0009058,biosynthetic process
+1,GO:0006099,tricarboxylic acid cycle
+1,GO:0042128,nitrate assimilation
+1,GO:0006817,phosphate ion transport
+1,GO:0019441,tryptophan catabolic process to kynurenine
+1,GO:0018298,protein-chromophore linkage
+1,GO:0006012,galactose metabolic process
+1,GO:0006779,porphyrin-containing compound biosynthetic process
+1,GO:0017004,cytochrome complex assembly
+1,GO:0046417,chorismate metabolic process
+1,GO:0009094,L-phenylalanine biosynthetic process
+1,GO:0006808,regulation of nitrogen utilization
+1,GO:0044097,secretion by the type IV secretion system
+1,GO:0042823,pyridoxal phosphate biosynthetic process
+1,GO:0008615,pyridoxine biosynthetic process
+1,GO:0009306,protein secretion
+1,GO:0000162,tryptophan biosynthetic process
+1,GO:0006094,gluconeogenesis
+1,GO:0006090,pyruvate metabolic process
+1,GO:0006935,chemotaxis
+1,GO:0009405,pathogenesis
+1,GO:0001514,selenocysteine incorporation
+1,GO:0055072,iron ion homeostasis
+1,GO:0006066,alcohol metabolic process
+1,GO:0015976,carbon utilization
+1,GO:0030435,sporulation resulting in formation of a cellular spore
+1,GO:0042173,regulation of sporulation resulting in formation of a cellular spore
+1,GO:0051606,detection of stimulus
+1,GO:0006298,mismatch repair
+1,GO:0042773,ATP synthesis coupled electron transport
+1,GO:0046034,ATP metabolic process
+1,GO:1902600,proton transmembrane transport
+1,GO:0019557,histidine catabolic process to glutamate and formate
+1,GO:0019556,histidine catabolic process to glutamate and formamide
+1,GO:0006310,DNA recombination
+1,GO:0006541,glutamine metabolic process

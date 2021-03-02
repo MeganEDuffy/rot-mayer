@@ -1,0 +1,59 @@
+Peptides,GO-term,Name
+5,GO:0055085,transmembrane transport
+3,GO:0032259,methylation
+3,GO:0005975,carbohydrate metabolic process
+3,GO:0042026,protein refolding
+3,GO:0009408,response to heat
+2,GO:0006355,"regulation of transcription, DNA-templated"
+2,GO:0006396,RNA processing
+2,GO:0035999,tetrahydrofolate interconversion
+2,GO:0006310,DNA recombination
+2,GO:0006281,DNA repair
+2,GO:0006260,DNA replication
+2,GO:0009432,SOS response
+2,GO:0006298,mismatch repair
+2,GO:0006633,fatty acid biosynthetic process
+2,GO:0008616,queuosine biosynthetic process
+2,GO:1901137,carbohydrate derivative biosynthetic process
+2,GO:0019538,protein metabolic process
+1,GO:0006402,mRNA catabolic process
+1,GO:0007155,cell adhesion
+1,GO:0071973,bacterial-type flagellum-dependent cell motility
+1,GO:0044237,cellular metabolic process
+1,GO:0000724,double-strand break repair via homologous recombination
+1,GO:0006313,"transposition, DNA-mediated"
+1,GO:0009236,cobalamin biosynthetic process
+1,GO:0006189,'de novo' IMP biosynthetic process
+1,GO:0006777,Mo-molybdopterin cofactor biosynthetic process
+1,GO:0009306,protein secretion
+1,GO:0015074,DNA integration
+1,GO:0032196,transposition
+1,GO:0009063,cellular amino acid catabolic process
+1,GO:0006561,proline biosynthetic process
+1,GO:0055129,L-proline biosynthetic process
+1,GO:0045910,negative regulation of DNA recombination
+1,GO:0006400,tRNA modification
+1,GO:0009252,peptidoglycan biosynthetic process
+1,GO:0009225,nucleotide-sugar metabolic process
+1,GO:0008610,lipid biosynthetic process
+1,GO:0042773,ATP synthesis coupled electron transport
+1,GO:0006412,translation
+1,GO:0006289,nucleotide-excision repair
+1,GO:0006520,cellular amino acid metabolic process
+1,GO:0006207,'de novo' pyrimidine nucleobase biosynthetic process
+1,GO:0044205,'de novo' UMP biosynthetic process
+1,GO:0008033,tRNA processing
+1,GO:0006596,polyamine biosynthetic process
+1,GO:0046417,chorismate metabolic process
+1,GO:0009094,L-phenylalanine biosynthetic process
+1,GO:0000105,histidine biosynthetic process
+1,GO:0009086,methionine biosynthetic process
+1,GO:0006164,purine nucleotide biosynthetic process
+1,GO:0006094,gluconeogenesis
+1,GO:0006090,pyruvate metabolic process
+1,GO:0008643,carbohydrate transport
+1,GO:0006081,cellular aldehyde metabolic process
+1,GO:0005976,polysaccharide metabolic process
+1,GO:0017013,protein flavinylation
+1,GO:0070814,hydrogen sulfide biosynthetic process
+1,GO:0019379,"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"
