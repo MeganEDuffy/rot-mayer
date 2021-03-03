@@ -1,0 +1,118 @@
+Peptides,GO-term,Name
+21,GO:0005524,ATP binding
+14,GO:0046872,metal ion binding
+10,GO:0003824,catalytic activity
+9,GO:0003677,DNA binding
+8,GO:0016491,oxidoreductase activity
+6,GO:0016787,hydrolase activity
+5,GO:0030170,pyridoxal phosphate binding
+5,GO:0008270,zinc ion binding
+5,GO:0005525,GTP binding
+4,GO:0003700,DNA-binding transcription factor activity
+4,GO:0003924,GTPase activity
+4,GO:0008233,peptidase activity
+4,GO:0016740,transferase activity
+3,GO:0003735,structural constituent of ribosome
+3,GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+3,GO:0000287,magnesium ion binding
+3,GO:0043565,sequence-specific DNA binding
+3,GO:0051539,"4 iron, 4 sulfur cluster binding"
+3,GO:0004519,endonuclease activity
+3,GO:0016887,ATPase activity
+2,GO:0008483,transaminase activity
+2,GO:0016829,lyase activity
+2,GO:0022857,transmembrane transporter activity
+2,GO:0008237,metallopeptidase activity
+2,GO:0005507,copper ion binding
+2,GO:0004252,serine-type endopeptidase activity
+2,GO:0003678,DNA helicase activity
+2,GO:0003723,RNA binding
+2,GO:0051287,NAD binding
+2,GO:0016616,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+2,GO:0000155,phosphorelay sensor kinase activity
+2,GO:0003676,nucleic acid binding
+2,GO:0030246,carbohydrate binding
+1,GO:0004673,protein histidine kinase activity
+1,GO:0008881,glutamate racemase activity
+1,GO:0008757,S-adenosylmethionine-dependent methyltransferase activity
+1,GO:0016788,"hydrolase activity, acting on ester bonds"
+1,GO:0045300,acyl-[acyl-carrier-protein] desaturase activity
+1,GO:0031177,phosphopantetheine binding
+1,GO:0008948,oxaloacetate decarboxylase activity
+1,GO:0008933,lytic transglycosylase activity
+1,GO:0003871,5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity
+1,GO:0008080,N-acetyltransferase activity
+1,GO:0015562,efflux transmembrane transporter activity
+1,GO:0003746,translation elongation factor activity
+1,GO:0030151,molybdenum ion binding
+1,GO:0000166,nucleotide binding
+1,GO:0008253,5'-nucleotidase activity
+1,GO:0010181,FMN binding
+1,GO:0030983,mismatched DNA binding
+1,GO:0004315,3-oxoacyl-[acyl-carrier-protein] synthase activity
+1,GO:0008234,cysteine-type peptidase activity
+1,GO:0008460,"dTDP-glucose 4,6-dehydratase activity"
+1,GO:0004812,aminoacyl-tRNA ligase activity
+1,GO:0070008,serine-type exopeptidase activity
+1,GO:0042586,peptide deformylase activity
+1,GO:0051537,"2 iron, 2 sulfur cluster binding"
+1,GO:0003857,3-hydroxyacyl-CoA dehydrogenase activity
+1,GO:0004185,serine-type carboxypeptidase activity
+1,GO:0051536,iron-sulfur cluster binding
+1,GO:0102131,3-oxo-glutaryl-[acp] methyl ester reductase activity
+1,GO:0102132,3-oxo-pimeloyl-[acp] methyl ester reductase activity
+1,GO:0004316,3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity
+1,GO:0008236,serine-type peptidase activity
+1,GO:0051082,unfolded protein binding
+1,GO:0003684,damaged DNA binding
+1,GO:0008094,DNA-dependent ATPase activity
+1,GO:0008168,methyltransferase activity
+1,GO:0004359,glutaminase activity
+1,GO:0000107,imidazoleglycerol-phosphate synthase activity
+1,GO:0016798,"hydrolase activity, acting on glycosyl bonds"
+1,GO:0070180,large ribosomal subunit rRNA binding
+1,GO:0016987,sigma factor activity
+1,GO:0008324,cation transmembrane transporter activity
+1,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism"
+1,GO:0004181,metallocarboxypeptidase activity
+1,GO:0016831,carboxy-lyase activity
+1,GO:0016746,"transferase activity, transferring acyl groups"
+1,GO:0008804,carbamate kinase activity
+1,GO:0003896,DNA primase activity
+1,GO:0004540,ribonuclease activity
+1,GO:0008859,exoribonuclease II activity
+1,GO:0004803,transposase activity
+1,GO:0003755,peptidyl-prolyl cis-trans isomerase activity
+1,GO:0050660,flavin adenine dinucleotide binding
+1,GO:0004672,protein kinase activity
+1,GO:0042626,ATPase-coupled transmembrane transporter activity
+1,GO:0004591,oxoglutarate dehydrogenase (succinyl-transferring) activity
+1,GO:0030976,thiamine pyrophosphate binding
+1,GO:0015288,porin activity
+1,GO:0008658,penicillin binding
+1,GO:0004174,electron-transferring-flavoprotein dehydrogenase activity
+1,GO:0004821,histidine-tRNA ligase activity
+1,GO:0004736,pyruvate carboxylase activity
+1,GO:0009374,biotin binding
+1,GO:0004527,exonuclease activity
+1,GO:0004364,glutathione transferase activity
+1,GO:0003993,acid phosphatase activity
+1,GO:0004326,tetrahydrofolylpolyglutamate synthase activity
+1,GO:0008484,sulfuric ester hydrolase activity
+1,GO:0031419,cobalamin binding
+1,GO:0008705,methionine synthase activity
+1,GO:0016874,ligase activity
+1,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+1,GO:0008312,7S RNA binding
+1,GO:0009055,electron transfer activity
+1,GO:0020037,heme binding
+1,GO:0016855,"racemase and epimerase activity, acting on amino acids and derivatives"
+1,GO:0005506,iron ion binding
+1,GO:0016984,ribulose-bisphosphate carboxylase activity
+1,GO:0004386,helicase activity
+1,GO:0008961,phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+1,GO:0008677,2-dehydropantoate 2-reductase activity
+1,GO:0009030,thiamine-phosphate kinase activity
+1,GO:0009035,type I site-specific deoxyribonuclease activity
+1,GO:0017057,6-phosphogluconolactonase activity
+1,GO:0003989,acetyl-CoA carboxylase activity

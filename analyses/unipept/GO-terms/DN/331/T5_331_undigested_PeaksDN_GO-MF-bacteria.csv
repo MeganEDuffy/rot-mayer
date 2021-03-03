@@ -1,0 +1,96 @@
+Peptides,GO-term,Name
+20,GO:0003677,DNA binding
+17,GO:0005524,ATP binding
+9,GO:0046872,metal ion binding
+7,GO:0003700,DNA-binding transcription factor activity
+5,GO:0016740,transferase activity
+4,GO:0050660,flavin adenine dinucleotide binding
+4,GO:0016491,oxidoreductase activity
+4,GO:0008270,zinc ion binding
+3,GO:0009055,electron transfer activity
+3,GO:0003824,catalytic activity
+3,GO:0004519,endonuclease activity
+3,GO:0008168,methyltransferase activity
+3,GO:0003676,nucleic acid binding
+3,GO:0016887,ATPase activity
+3,GO:0016301,kinase activity
+2,GO:0003678,DNA helicase activity
+2,GO:0016787,hydrolase activity
+2,GO:0000287,magnesium ion binding
+2,GO:0004550,nucleoside diphosphate kinase activity
+2,GO:0000155,phosphorelay sensor kinase activity
+2,GO:0003723,RNA binding
+2,GO:0051536,iron-sulfur cluster binding
+2,GO:0030170,pyridoxal phosphate binding
+2,GO:0051539,"4 iron, 4 sulfur cluster binding"
+2,GO:0004386,helicase activity
+1,GO:0004527,exonuclease activity
+1,GO:0004540,ribonuclease activity
+1,GO:0090729,toxin activity
+1,GO:0004829,threonine-tRNA ligase activity
+1,GO:0000049,tRNA binding
+1,GO:0008964,phosphoenolpyruvate carboxylase activity
+1,GO:0016747,"transferase activity, transferring acyl groups other than amino-acyl groups"
+1,GO:0033812,3-oxoadipyl-CoA thiolase activity
+1,GO:0003988,acetyl-CoA C-acyltransferase activity
+1,GO:0016836,hydro-lyase activity
+1,GO:0016702,"oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen"
+1,GO:0008199,ferric iron binding
+1,GO:0008721,D-serine ammonia-lyase activity
+1,GO:0003939,L-iditol 2-dehydrogenase activity
+1,GO:0016040,glutamate synthase (NADH) activity
+1,GO:0004355,glutamate synthase (NADPH) activity
+1,GO:0016614,"oxidoreductase activity, acting on CH-OH group of donors"
+1,GO:0016879,"ligase activity, forming carbon-nitrogen bonds"
+1,GO:0070290,N-acylphosphatidylethanolamine-specific phospholipase D activity
+1,GO:0016597,amino acid binding
+1,GO:0004070,aspartate carbamoyltransferase activity
+1,GO:0008675,2-dehydro-3-deoxy-phosphogluconate aldolase activity
+1,GO:0043725,2-keto-3-deoxygluconate aldolase activity
+1,GO:0008700,4-hydroxy-2-oxoglutarate aldolase activity
+1,GO:0016829,lyase activity
+1,GO:0004367,glycerol-3-phosphate dehydrogenase [NAD+] activity
+1,GO:0046983,protein dimerization activity
+1,GO:0046914,transition metal ion binding
+1,GO:0008484,sulfuric ester hydrolase activity
+1,GO:0016772,"transferase activity, transferring phosphorus-containing groups"
+1,GO:0009036,type II site-specific deoxyribonuclease activity
+1,GO:0070626,(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity
+1,GO:0004018,"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity"
+1,GO:0003735,structural constituent of ribosome
+1,GO:0004888,transmembrane signaling receptor activity
+1,GO:0008976,polyphosphate kinase activity
+1,GO:0008137,NADH dehydrogenase (ubiquinone) activity
+1,GO:0008483,transaminase activity
+1,GO:0042626,ATPase-coupled transmembrane transporter activity
+1,GO:0003887,DNA-directed DNA polymerase activity
+1,GO:0004518,nuclease activity
+1,GO:0008233,peptidase activity
+1,GO:0043565,sequence-specific DNA binding
+1,GO:0000156,phosphorelay response regulator activity
+1,GO:0008134,transcription factor binding
+1,GO:0004174,electron-transferring-flavoprotein dehydrogenase activity
+1,GO:0070063,RNA polymerase binding
+1,GO:0003746,translation elongation factor activity
+1,GO:0008289,lipid binding
+1,GO:0019151,galactose 1-dehydrogenase activity
+1,GO:0004736,pyruvate carboxylase activity
+1,GO:0009374,biotin binding
+1,GO:0000150,recombinase activity
+1,GO:0004371,glycerone kinase activity
+1,GO:0030246,carbohydrate binding
+1,GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds"
+1,GO:0004252,serine-type endopeptidase activity
+1,GO:0047810,D-alanine:2-oxoglutarate aminotransferase activity
+1,GO:0004489,methylenetetrahydrofolate reductase (NAD(P)H) activity
+1,GO:0071949,FAD binding
+1,GO:0004768,stearoyl-CoA 9-desaturase activity
+1,GO:0016717,"oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water"
+1,GO:0004315,3-oxoacyl-[acyl-carrier-protein] synthase activity
+1,GO:0020037,heme binding
+1,GO:0003861,3-isopropylmalate dehydratase activity
+1,GO:0016987,sigma factor activity
+1,GO:0008170,N-methyltransferase activity
+1,GO:0008237,metallopeptidase activity
+1,GO:0004856,xylulokinase activity
+1,GO:0016773,"phosphotransferase activity, alcohol group as acceptor"
