@@ -1,0 +1,43 @@
+Names	total	elements
+PeaksDB PepEx	1	Thalassiosira_weissflogii_0201806284
+PeaksDB	15	Thalassiosira_weissflogii_0203172898
+		Thalassiosira_weissflogii_0201860448
+		tr|A0A089VIJ5|A0A089VIJ5_THAWE
+		Thalassiosira_weissflogii_0201788838
+		Thalassiosira_weissflogii_0203319814
+		tr|A0A089VIP5|A0A089VIP5_THAWE
+		tr|A0A089VKF6|A0A089VKF6_THAWE
+		Thalassiosira_weissflogii_0171348692
+		Thalassiosira_weissflogii_0203546162
+		Thalassiosira_weissflogii_0203473996
+		Thalassiosira_weissflogii_0203103378
+		Thalassiosira_weissflogii_0203258860
+		Thalassiosira_weissflogii_0203628344
+		Thalassiosira_weissflogii_0201860518
+		Thalassiosira_weissflogii_0203264230
+PepEx	26	tr|A0A089VNZ5|A0A089VNZ5_THAWE
+		Thalassiosira_weissflogii_0201830652
+		Thalassiosira_weissflogii_0203123814
+		Thalassiosira_weissflogii_0203390134
+		Thalassiosira_weissflogii_0171427748
+		Thalassiosira_weissflogii_0171392966
+		Thalassiosira_weissflogii_0203326676
+		Thalassiosira_weissflogii_0203561094
+		Thalassiosira_weissflogii_0203603364
+		Thalassiosira_weissflogii_0203285468
+		Thalassiosira_weissflogii_0203485622
+		Thalassiosira_weissflogii_0203444510
+		Thalassiosira_weissflogii_0171445162
+		Thalassiosira_weissflogii_0203360464
+		tr|A0A089VP60|A0A089VP60_THAWE
+		Thalassiosira_weissflogii_0171356076
+		Thalassiosira_weissflogii_0203204228
+		Thalassiosira_weissflogii_0203598778
+		Thalassiosira_weissflogii_0203510544
+		Thalassiosira_weissflogii_0171418628
+		Thalassiosira_weissflogii_0203453428
+		tr|A0A089VPD6|A0A089VPD6_THAWE
+		Thalassiosira_weissflogii_0203128372
+		Thalassiosira_weissflogii_0203568866
+		Thalassiosira_weissflogii_0171387744
+		Thalassiosira_weissflogii_0203365344

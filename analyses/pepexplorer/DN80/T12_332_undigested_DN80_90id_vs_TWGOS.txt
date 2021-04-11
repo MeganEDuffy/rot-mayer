@@ -1,1820 +1,795 @@
-#PROT	ID	Alignments	SpecCounts	Unique	Coverage	Description
-#ALN	FileName	ScanNo	Z	Redundancy	DeNovoScore	DeNovoSeq	DBSeq	SimilarityScore	Identity
-PROT	Thalassiosira_weissflogii_0203507610	1	1	0	0.001	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203632510	1	1	0	0.001	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203509200	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12868	2	5	82	DALLDER	DALLDER	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203232360	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12868	2	5	82	DALLDER	DALLDER	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203505338	1	1	0	0.001	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26645	2	4	84	DLR(+14.02)LSF	DIRISF	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203474624	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203354880	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26645	2	4	84	DLR(+14.02)LSF	DIRISF	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203355062	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203443900	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26645	2	4	84	DLR(+14.02)LSF	DIRISF	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171388736	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20399	2	5	92	LTKVPEL	ITKVPEL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0171449642	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20399	2	5	92	LTKVPEL	ITKVPEL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203382948	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20399	2	5	92	LTKVPEL	ITKVPEL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203262626	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203172238	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203508018	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201861324	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171384764	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171358200	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25599	2	8	89	FEVVRL	FEVVRI	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203259712	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203536474	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201861618	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203596506	1	2	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203598778	1	1	1	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16786	2	1	83	FLYPPQ	FLYPPQ	48	6 (1)
-PROT	Thalassiosira_weissflogii_0201861462	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17976	2	3	91	R(+15.99)PVLKY	RPVIKY	45	6 (1)
-PROT	Thalassiosira_weissflogii_0201829816	1	1	0	0.002	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171356188	1	2	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0171419880	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203322750	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171446864	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171353656	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171447898	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	31868	2	3	85	P(+15.99)FDFPL	PFDFPI	47	6 (1)
-PROT	Thalassiosira_weissflogii_0171356464	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	31868	2	3	85	P(+15.99)FDFPL	PFDFPI	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203476766	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KLLRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203447024	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	31868	2	3	85	P(+15.99)FDFPL	PFDFPI	47	6 (1)
-PROT	Thalassiosira_weissflogii_0201862064	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203537588	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203352224	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203200728	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171368196	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203136636	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203629868	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203232282	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203201202	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203420966	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203453428	1	1	1	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29470	2	1	93	K(+42.01)WEFR	KWEFR	45	5 (1)
-PROT	Thalassiosira_weissflogii_0203537770	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203474920	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203231272	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0171389254	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0201771246	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171448868	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203320032	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203477544	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203568308	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17981	2	2	91	DAR(+15.99)LLY	DARLLY	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203169780	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17981	2	2	91	DAR(+15.99)LLY	DARLLY	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201771352	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203508522	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203213558	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENLLRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203600290	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19766	2	4	88	YLRALK	YIRALK	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203433664	1	1	0	0.003	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19766	2	4	88	YLRALK	YIRALK	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171385522	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203259202	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10306	2	2	88	LHFHKL	LHFHKL	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201863604	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10306	2	2	88	LHFHKL	LHFHKL	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203383420	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0171355862	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203230144	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0171387134	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201832004	1	2	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203628772	1	2	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KILIPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203136254	1	2	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KILIPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203447046	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171417654	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203568880	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171449136	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201861348	1	2	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KILIPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203506978	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201829588	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0201861846	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171388008	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203323292	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171355572	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203260812	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203229680	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171420442	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15621	2	3	86	ETELR(+15.99)AL	ETELRAL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203262482	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203323830	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203290872	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171451014	2	2	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20877	2	6	93	FDVLGPR	FDVLGPR	51	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9764	2	6	86	YDELTR	YDEITR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201847290	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171358178	2	2	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20877	2	6	93	FDVLGPR	FDVLGPR	51	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9764	2	6	86	YDELTR	YDEITR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203230984	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9256	2	4	93	LNSP(+15.99)LPK	INSPLPK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203199580	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201829230	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171387744	1	1	1	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29064	2	1	87	K(+42.01)DRLHL	KDRLHL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203570544	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0171447376	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203260134	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0201773232	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203169848	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7698	2	3	89	VVADLPR	VVADLPR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203478692	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0171354628	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203385684	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203598316	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203627768	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203506788	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203537704	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203167446	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0201768586	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203172024	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203108674	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203385056	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203630424	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171426816	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203631262	1	1	0	0.004	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLILH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203381466	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201829064	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203290748	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30555	2	4	91	ALDFLLK	ALDFIIK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0201803216	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203507506	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLILH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203292756	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203383306	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30555	2	4	91	ALDFLLK	ALDFIIK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171356326	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201860546	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203292462	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLILH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203324166	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203263480	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0171357504	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203171698	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0201804134	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203106946	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203198916	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203324454	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203628422	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203290908	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0171448046	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24965	2	2	86	SERLLF	SERILF	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203444222	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201831088	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203201350	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22935	2	6	83	LN(+.98)RVKF	LNRVKF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203509180	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29664	2	2	81	LSLPLLK	ISLPLLK	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203168326	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22289	2	2	83	DALLRPL	DALIRPI	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171354018	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201856150	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22935	2	6	83	LN(+.98)RVKF	LNRVKF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201802574	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22289	2	2	83	DALLRPL	DALIRPI	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203292968	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171418954	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203570404	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203570052	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203168390	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7756	2	4	89	ERLRER	ERLRER	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203537740	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203598410	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203352638	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201799620	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203319952	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171447152	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22935	2	6	83	LN(+.98)RVKF	LNRVKF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171416446	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203106990	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201769796	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171449940	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203597072	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203477998	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22935	2	6	83	LN(+.98)RVKF	LNRVKF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203568296	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203568708	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203139570	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22935	2	6	83	LN(+.98)RVKF	LNRVKF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203136778	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203352544	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30555	2	4	91	ALDFLLK	ALDFIIK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203350848	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203104334	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171388288	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QELIDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203228748	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171449202	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203229448	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7698	2	3	89	VVADLPR	VVADLPR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203323502	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203168786	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171354066	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7698	2	3	89	VVADLPR	VVADLPR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203293758	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14340	2	9	88	ERDFRL	ERDFRI	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203632146	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0201832364	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0201861670	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171385292	1	1	0	0.005	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203478970	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203506982	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6337	2	5	95	KALLEEK	KALIEEK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203600714	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203230292	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6337	2	5	95	KALLEEK	KALIEEK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0171355982	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6337	2	5	95	KALLEEK	KALIEEK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0201808950	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203446730	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12868	2	5	82	DALLDER	DALLDER	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203106610	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0171417868	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203536594	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6337	2	5	95	KALLEEK	KALIEEK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203171402	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30555	2	4	91	ALDFLLK	ALDFIIK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171416234	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203258762	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203631838	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203262580	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203382350	2	2	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20877	2	6	93	FDVLGPR	FDVLGPR	51	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9764	2	6	86	YDELTR	YDEITR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203169342	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203567414	2	2	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20877	2	6	93	FDVLGPR	FDVLGPR	51	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9764	2	6	86	YDELTR	YDEITR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203232176	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203383748	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203168638	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLILPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLILPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203596840	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203515948	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7105	2	2	88	EK(+14.02)K(+14.02)R(+14.02)KP	EKKRKP	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203507562	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201769128	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203288940	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	5917	2	4	87	EVDEER	EVDEER	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203599932	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLILPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLILPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203107052	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22935	2	6	83	LN(+.98)RVKF	LNRVKF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203629354	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203566530	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203107338	2	2	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20877	2	6	93	FDVLGPR	FDVLGPR	51	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9764	2	6	86	YDELTR	YDEITR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203350968	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203382596	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0201832340	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203353174	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171394444	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLILPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLILPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203613400	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLILPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLILPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203445710	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0201831128	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203105506	1	2	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIEILR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIEILR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203477758	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171384676	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203412884	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0201831054	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203505188	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203539788	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203630000	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203365344	1	1	1	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24098	2	1	86	DLDFLPL	DIDFLPL	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203537600	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203230080	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203628378	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203200190	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171449946	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	3325	2	4	89	PSK(+42.01)NK(+42.01)P	PSKNKP	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171448164	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203172060	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0201803024	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203535952	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203598256	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203289050	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203321468	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171386232	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171338952	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27007	2	4	86	YLLDRL	YLLDRL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203570480	1	1	0	0.006	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27007	2	4	86	YLLDRL	YLLDRL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203540310	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0171447586	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23577	2	3	91	EVLALVK	EVLALVK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171386662	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DEILKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203263818	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0201864586	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12868	2	5	82	DALLDER	DALLDER	48	7 (1)
-PROT	Thalassiosira_weissflogii_0201799862	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203473440	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12868	2	5	82	DALLDER	DALLDER	48	7 (1)
-PROT	Thalassiosira_weissflogii_0171353994	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	3325	2	4	89	PSK(+42.01)NK(+42.01)P	PSKNKP	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203202418	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0171418628	1	1	1	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15397	2	1	91	YVLLEK	YVLLEK	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201829392	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9039	2	2	90	MYDTVK	MYDTVK	50	6 (1)
-PROT	Thalassiosira_weissflogii_0201755936	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171375094	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29769	2	4	86	SLLPLLR	SILPILR	42	7 (1)
-PROT	Thalassiosira_weissflogii_0203630704	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27007	2	4	86	YLLDRL	YLLDRL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171356998	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23577	2	3	91	EVLALVK	EVLALVK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203355158	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203539016	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0171447912	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203381324	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203484710	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171333452	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27509	2	4	80	YVDFLR	YVDFLR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0171449328	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32257	2	2	87	KN(+.98)LALLL	KNIALLL	41	7 (1)
-PROT	Thalassiosira_weissflogii_0171384952	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203138428	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171419898	2	3	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32257	2	2	87	KN(+.98)LALLL	KNIALLL	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203326676	1	1	1	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17454	2	1	93	ESSLLLK	ESSLLLK	42	7 (1)
-PROT	Thalassiosira_weissflogii_0203203024	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171354008	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171448216	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203568866	1	1	1	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22616	2	1	84	NKRELL	NKREII	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203414238	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203632248	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203445576	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0201830652	1	1	1	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27750	2	1	86	K(+42.01)PPK(+42.01)K(+14.02)F	KPPKKF	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203444510	1	1	1	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15509	2	1	89	K(+42.01)PVLKPE	KPVLKPE	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203415600	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203300420	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19766	2	4	88	YLRALK	YIRALK	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203568750	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0201835474	1	2	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203568566	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17976	2	3	91	R(+15.99)PVLKY	RPVIKY	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203544632	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29067	2	2	80	QVPLLLH	QVPLLLH	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203507364	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203172744	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171415840	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203088892	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171351036	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201830978	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203106544	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27509	2	4	80	YVDFLR	YVDFLR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203383522	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203397446	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27509	2	4	80	YVDFLR	YVDFLR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0171417184	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	3325	2	4	89	PSK(+42.01)NK(+42.01)P	PSKNKP	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203229034	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171448832	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203108752	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22143	2	8	89	DADTLRF	DADTLRF	51	7 (1)
-PROT	Thalassiosira_weissflogii_0201861744	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201830138	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171447936	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0201749504	1	1	0	0.007	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19766	2	4	88	YLRALK	YIRALK	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203630902	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203413852	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0201844628	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201864750	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29769	2	4	86	SLLPLLR	SILPILR	42	7 (1)
-PROT	Thalassiosira_weissflogii_0171376872	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29527	2	4	85	KSLFDF	KSLFDF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203106084	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203447050	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	5917	2	4	87	EVDEER	EVDEER	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203261644	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203384792	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29527	2	4	85	KSLFDF	KSLFDF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201830454	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201803916	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203448088	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29527	2	4	85	KSLFDF	KSLFDF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203291688	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203445788	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29067	2	2	80	QVPLLLH	QVPLLLH	47	7 (1)
-PROT	Thalassiosira_weissflogii_0171417854	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203539140	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203455680	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203231198	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203632658	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0201799296	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19529	2	2	84	NYP(+15.99)K(+14.02)VL	NYPKVI	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203200792	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203319674	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19529	2	2	84	NYP(+15.99)K(+14.02)VL	NYPKVI	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171355320	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203240274	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0171355710	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203139870	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171366772	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FIDLIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203629950	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171360022	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KLLRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203232718	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12733	2	2	89	LSPLDAR	LSPIDAR	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203630614	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203091438	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24470	2	2	84	LN(+.98)P(+15.99)R(+15.99)C(+57.02)T	LNPRCT	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201864904	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24470	2	2	84	LN(+.98)P(+15.99)R(+15.99)C(+57.02)T	LNPRCT	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203541078	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6898	2	12	94	EVK(+42.01)KLE	EVKKLE	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203231054	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203259458	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203321466	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8402	2	5	94	DEMLLM	DEMIIM	48	6 (1)
-PROT	Thalassiosira_weissflogii_0203536036	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203109212	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12733	2	2	89	LSPLDAR	LSPIDAR	46	7 (1)
-PROT	Thalassiosira_weissflogii_0201835174	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9039	2	2	90	MYDTVK	MYDTVK	50	6 (1)
-PROT	Thalassiosira_weissflogii_0171387974	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171427128	1	1	0	0.008	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0201771140	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8402	2	5	94	DEMLLM	DEMIIM	48	6 (1)
-PROT	Thalassiosira_weissflogii_0203478614	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201852050	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24965	2	2	86	SERLLF	SERLIF	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203383660	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	5917	2	4	87	EVDEER	EVDEER	47	6 (1)
-PROT	Thalassiosira_weissflogii_0171355576	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15621	2	3	86	ETELR(+15.99)AL	ETELRAL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203475674	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203232540	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29527	2	4	85	KSLFDF	KSLFDF	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203601126	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203628526	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0171395930	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8402	2	5	94	DEMLLM	DEMIIM	48	6 (1)
-PROT	Thalassiosira_weissflogii_0203263220	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26645	2	4	84	DLR(+14.02)LSF	DIRISF	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203291540	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203446056	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0171415916	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26782	2	4	83	K(+42.01)LMKNL	KLMKNL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203377050	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6337	2	5	95	KALLEEK	KALIEEK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0201779176	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	5917	2	4	87	EVDEER	EVDEER	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203354518	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203445154	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203135618	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8402	2	5	94	DEMLLM	DEMIIM	48	6 (1)
-PROT	Thalassiosira_weissflogii_0203232930	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203630212	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203505646	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203598978	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201811356	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203291908	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203538346	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0171416598	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203414766	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203252894	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9050	2	2	94	KMEK(+15.99)KK	KMEKKK	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203415282	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203443696	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171365708	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9050	2	2	94	KMEK(+15.99)KK	KMEKKK	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203500814	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203261590	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201801688	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203566044	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203107272	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203597282	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0171373146	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203324156	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203477838	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171388266	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203137652	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203537978	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171331430	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26782	2	4	83	K(+42.01)LMKNL	KLMKNL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203477844	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171355616	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203214962	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203630530	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171369712	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	INKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0201770382	1	1	0	0.009	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203508208	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28090	2	2	86	MLLLVLP	MLIIVIP	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203566522	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17519	2	4	92	SSLLELK	SSLLELK	42	7 (1)
-PROT	Thalassiosira_weissflogii_0203289226	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLLYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203475126	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171384186	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203105314	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171358122	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203413062	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203338628	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14807	2	6	86	LDEPFR	LDEPFR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203289320	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203265514	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203506530	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171428428	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171356282	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203083016	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171372248	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203515654	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201803762	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203108958	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0171421934	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26782	2	4	83	K(+42.01)LMKNL	KLMKNL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203475590	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203140318	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203320466	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203229414	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203575894	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171448112	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7581	2	3	96	ELVEER	ELVEER	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171395050	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201802528	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14807	2	6	86	LDEPFR	IDEPFR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203385770	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171355476	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	INKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0201863290	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0201773140	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0201803222	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0201844046	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14807	2	6	86	LDEPFR	IDEPFR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201829706	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203084612	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7581	2	3	96	ELVEER	ELVEER	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203447044	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26460	2	3	86	LERLVLY	IERIVLY	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203202618	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7756	2	4	89	ERLRER	ERLRER	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203401034	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLIDALR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203519948	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14807	2	6	86	LDEPFR	LDEPFR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203299724	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKLRI	38	6 (1)
-PROT	Thalassiosira_weissflogii_0201860916	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7581	2	3	96	ELVEER	ELVEER	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171329992	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203506148	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203169102	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22781	2	18	83	ELRNKL	ELRNKL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203498434	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203123814	1	1	1	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9464	2	1	87	EVPVENR	EVPVENR	54	7 (1)
-PROT	Thalassiosira_weissflogii_0171428124	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26460	2	3	86	LERLVLY	IERIVLY	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203262576	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLLLH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203128372	1	1	1	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12852	2	1	82	K(+42.01)NVPLR	KNVPLR	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171416770	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203628220	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203304842	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLLLH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203168612	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203202714	1	1	0	0.01	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLLLH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0201830780	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26010	2	2	91	YPPLKF	YPPLKF	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203168276	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14807	2	6	86	LDEPFR	LDEPFR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171358156	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0171447028	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14729	2	11	83	FGLLY(+15.99)FA	FGLIYFA	50	7 (1)
-PROT	Thalassiosira_weissflogii_0171369840	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203293622	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFIEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201772544	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203272650	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLLLH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0171416546	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201824606	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DELIKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203206072	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203231882	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28090	2	2	86	MLLLVLP	MLIIVIP	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203108134	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201772218	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DELIKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201864508	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYLFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203171424	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171397428	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10537	2	2	84	FEESLR	FEESLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203446436	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203353228	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171371322	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203544642	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203570122	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DELIKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201800140	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203139322	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8221	2	8	89	DLLNER	DLINER	42	6 (1)
-PROT	Thalassiosira_weissflogii_0171387956	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203538170	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0201862792	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203477734	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DELIKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203108762	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DELIKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203201288	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201862872	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203199720	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203631334	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203448312	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201853908	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171392966	1	1	1	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16467	2	1	91	TGN(+.98)TLVLK	TGNTIVLK	52	8 (1)
-PROT	Thalassiosira_weissflogii_0203152868	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171444434	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201802750	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203198876	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9866	2	4	83	LDR(+14.02)P(+15.99)TE	IDRPTE	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203600810	1	1	0	0.011	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203101708	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9703	2	2	86	SLYDRN	SIYDRN	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203530532	1	2	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203336438	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23360	2	6	85	EVLLER	EVLIER	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203228560	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9703	2	2	86	SLYDRN	SIYDRN	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203138142	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203138864	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19974	2	2	84	P(+15.99)ELRDF	PEIRDF	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203114790	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0171447518	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15621	2	3	86	ETELR(+15.99)AL	ETELRAL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203103378	2	2	0	0.029	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11787	2	2	91	ESDGVFR	ESDGVFR	52	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6703	2	2	83	YLGNNPAK	YIGNNPAK	58	8 (1)
-PROT	Thalassiosira_weissflogii_0203167498	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKLRI	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203352672	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKLRI	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203600148	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKLRI	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203381338	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203475056	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QEILDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203139900	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201813078	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203416498	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26010	2	2	91	YPPLKF	YPPLKF	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203631858	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0201775194	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8279	2	9	80	EKFEKE	EKFEKE	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203323526	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKLRI	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203416156	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203505340	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0171370720	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKLRI	38	6 (1)
-PROT	Thalassiosira_weissflogii_0171329146	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203416112	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25740	2	9	82	EFLERL	EFLERI	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203320868	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19974	2	2	84	P(+15.99)ELRDF	PEIRDF	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171383444	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	Thalassiosira_weissflogii_0201861752	1	1	0	0.012	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203446702	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171356076	1	1	1	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16730	2	1	95	RLEPLAK	RLEPIAK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0201779386	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27394	2	8	88	K(+42.01)PLLLH	KPLLLH	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203079354	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203622482	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13487	2	4	85	C(+57.02)KLTPR	CKITPR	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171368748	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15170	2	2	88	MFVK(+14.02)LT	MFVKLT	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171420056	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203448054	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203201998	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203105462	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18148	2	2	96	LSPLLER	LSPLLER	45	7 (1)
-PROT	Thalassiosira_weissflogii_0201813228	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25792	2	6	85	NDLRFL	NDIRFL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201864698	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25792	2	6	85	NDLRFL	NDIRFL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203106528	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0201834348	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203148784	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15170	2	2	88	MFVK(+14.02)LT	MFVKLT	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203390134	1	1	1	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24257	2	1	93	LVVPVLR	LVVPVLR	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203416034	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19453	2	2	85	LSEVEKL	LSEVEKL	46	7 (1)
-PROT	Thalassiosira_weissflogii_0201801988	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENIIRF	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201801356	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22499	2	2	92	R(+14.02)VPERL	RVPERL	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203475574	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18148	2	2	96	LSPLLER	LSPLLER	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203631412	1	1	0	0.013	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14807	2	6	86	LDEPFR	IDEPFR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203232682	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19453	2	2	85	LSEVEKL	LSEVEKL	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203333882	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14504	2	2	94	VEMELR	VEMEIR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203544586	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203106384	1	2	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLILPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLILPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0171425106	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203292358	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203385142	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26460	2	3	86	LERLVLY	IERIVLY	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203476536	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201769194	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203079478	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QEILDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203599254	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22113	2	9	87	EGLLRLP	EGLLRLP	45	7 (1)
-PROT	Thalassiosira_weissflogii_0203508352	4	4	0	0.06	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203473996	8	16	0	0.046	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203292364	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10772	2	8	90	LDELN(+.98)SK(+42.01)	IDELNSK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203137030	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203171200	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203443384	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15590	2	10	97	SALFEGR	SALFEGR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203136600	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27509	2	4	80	YVDFLR	YVDFLR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0201744050	1	2	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLILPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLILPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0171416460	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203230286	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171419838	1	1	0	0.014	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203171952	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7899	2	13	90	NN(+.98)DALAR	NNDALAR	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203523098	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	2137	2	2	84	EDPKEM(+15.99)	EDPKEM	50	6 (1)
-PROT	Thalassiosira_weissflogii_0203415686	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203186366	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203606918	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13374	2	2	92	TTDLY(+15.99)AP	TTDIYAP	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203485892	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	2137	2	2	84	EDPKEM(+15.99)	EDPKEM	50	6 (1)
-PROT	Thalassiosira_weissflogii_0203190782	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14504	2	2	94	VEMELR	VEMELR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203451936	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203351452	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203385426	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25792	2	6	85	NDLRFL	NDIRFL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171392206	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203446880	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14438	2	3	89	ERFDLR	ERFDLR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171451130	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	Thalassiosira_weissflogii_0203400590	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	EIVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203460398	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0171404668	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0201860518	8	16	0	0.051	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203579186	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14438	2	3	89	ERFDLR	ERFDLR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201804070	1	1	0	0.018	
-ALN	2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw	13934	2	3	87	SSLLDLH	SSLLDIH	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203334394	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203490260	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203612606	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	14438	2	3	89	ERFDLR	ERFDLR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203354466	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9256	2	4	93	LNSP(+15.99)LPK	INSPLPK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0201833028	1	1	0	0.015	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13487	2	4	85	C(+57.02)KLTPR	CKITPR	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203089184	1	1	0	0.018	
-ALN	2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw	13934	2	3	87	SSLLDLH	SSLLDIH	44	7 (1)
-PROT	Thalassiosira_weissflogii_0171342430	1	1	0	0.018	
-ALN	2021015_Weissrot_332_T12_nodigest_EThcD_120min_2uL.raw	13934	2	3	87	SSLLDLH	SSLLDIH	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203140452	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13487	2	4	85	C(+57.02)KLTPR	CKITPR	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203201882	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203344336	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVIIDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203240698	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0171447994	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203266654	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22499	2	2	92	R(+14.02)VPERL	RVPERL	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203200932	1	2	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171426938	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19760	2	7	85	EALDKLK	EALDKLK	46	7 (1)
-PROT	Thalassiosira_weissflogii_0203240054	1	2	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203301806	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203385546	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203425344	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21388	2	3	88	MLVK(+14.02)RP	MIVKRP	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203114378	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21388	2	3	88	MLVK(+14.02)RP	MIVKRP	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201825206	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23360	2	6	85	EVLLER	EVLLER	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201862074	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203307106	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6625	2	7	91	TVHLR(+14.02)D	TVHLRD	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203202962	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23360	2	6	85	EVLLER	EVLLER	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203577902	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21388	2	3	88	MLVK(+14.02)RP	MIVKRP	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203120094	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203448962	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203489690	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171377730	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9866	2	4	83	LDR(+14.02)P(+15.99)TE	LDRPTE	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203291764	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9866	2	4	83	LDR(+14.02)P(+15.99)TE	IDRPTE	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201773436	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13374	2	2	92	TTDLY(+15.99)AP	TTDIYAP	51	7 (1)
-PROT	Thalassiosira_weissflogii_0171357042	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29664	2	2	81	LSLPLLK	LSLPILK	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203106230	1	1	0	0.016	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203416598	2	2	0	0.035	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20877	2	6	93	FDVLGPR	FDVLGPR	51	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9764	2	6	86	YDELTR	YDEITR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203293074	1	1	0	0.027	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	35332	2	2	94	FVFPEEVLPR	FVFPEEVLPR	77	10 (1)
-PROT	Thalassiosira_weissflogii_0203107296	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6187	2	7	95	NK(+14.02)VEER	NKVEER	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203519168	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7638	2	2	87	SFDERT	SFDERT	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203250348	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7105	2	2	88	EK(+14.02)K(+14.02)R(+14.02)KP	EKKRKP	45	6 (1)
-PROT	Thalassiosira_weissflogii_0171337554	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18686	2	2	83	VENVGKL	VENVGKI	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203326958	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7756	2	4	89	ERLRER	ERIRER	45	6 (1)
-PROT	Thalassiosira_weissflogii_0201773036	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23360	2	6	85	EVLLER	EVLLER	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203553890	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18686	2	2	83	VENVGKL	VENVGKI	48	7 (1)
-PROT	Thalassiosira_weissflogii_0171413520	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23577	2	3	91	EVLALVK	EVLALVK	45	7 (1)
-PROT	Thalassiosira_weissflogii_0171418478	1	1	0	0.017	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12650	2	17	92	LN(+.98)KLRL	LNKIRL	38	6 (1)
-PROT	Thalassiosira_weissflogii_0203628344	8	16	0	0.059	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0171389148	1	2	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171356384	1	2	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203599042	1	2	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203170414	1	1	0	0.021	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0171349992	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7638	2	2	87	SFDERT	SFDERT	46	6 (1)
-PROT	Thalassiosira_weissflogii_0171357820	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24167	2	10	86	KKLK(+14.02)MT	KKLKMT	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203268896	1	1	0	0.021	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203570410	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19436	2	2	91	MLEVLR	MIEVLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203478792	1	1	0	0.018	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVLLDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0171416902	1	1	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26951	2	2	89	LKLGPGDF	LKIGPGDF	54	8 (1)
-PROT	Thalassiosira_weissflogii_0201846846	1	1	0	0.022	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203207034	1	1	0	0.022	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203451770	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22958	2	2	89	R(+14.02)FGETF	RFGETF	47	6 (1)
-PROT	Thalassiosira_weissflogii_0201802832	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203327834	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8884	2	7	91	DELLKR	DEILKR	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171450076	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203477188	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203417344	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203531590	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11890	2	10	95	QELLDR	QEILDR	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203632388	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203243956	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22958	2	2	89	R(+14.02)FGETF	RFGETF	47	6 (1)
-PROT	Thalassiosira_weissflogii_0203149214	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0171400684	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203447790	1	1	0	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203485622	1	1	1	0.019	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6875	2	1	92	K(+42.01)DR(+14.02)KLE	KDRKIE	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203177464	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7756	2	4	89	ERLRER	ERLRER	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203117354	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0201860448	8	9	0	0.121	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	31909	2	3	95	LELFVMK	LELFVMK	52	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30950	2	3	91	FGWDKF	FGWDKF	52	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34195	2	3	87	DFGWDKF	DFGWDKF	60	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34422	2	3	85	DFGWDKF	DFGWDKF	60	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20868	2	3	88	DFGWDK	DFGWDK	51	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0201864560	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203578210	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203396252	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0201825352	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18883	2	3	80	DLTVPLH	DLTVPLH	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203630836	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203332506	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0201770182	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203539370	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23360	2	6	85	EVLLER	EVLLER	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203322900	1	1	0	0.02	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19688	2	12	81	ELVFRE	ELVFRE	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203510544	1	1	1	0.024	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11369	2	1	84	TSPNLLR	TSPNILR	47	7 (1)
-PROT	Thalassiosira_weissflogii_0171433046	1	1	0	0.024	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203538338	1	1	0	0.024	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0171387458	1	1	0	0.021	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203229440	1	1	0	0.021	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171354372	1	1	0	0.024	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29769	2	4	86	SLLPLLR	SILPIIR	42	7 (1)
-PROT	Thalassiosira_weissflogii_0203285006	1	1	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203237250	1	1	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203179522	1	1	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203166346	1	1	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8065	2	12	92	DLNEVVK	DLNEVVK	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203183518	1	1	0	0.022	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21979	2	15	90	K(+42.01)VLLDR	KVIIDR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203453816	1	1	0	0.026	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15637	2	13	81	SLSTLK(+15.99)L	SISTIKI	41	7 (1)
-PROT	Thalassiosira_weissflogii_0203598234	1	1	0	0.022	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0171348692	4	7	0	0.089	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25574	2	2	86	SVFEVELK	SVFEVEIK	57	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13852	2	2	95	LVGPLAGKT	IVGPIAGKT	57	9 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13688	2	2	90	LVGPLAGKT	IVGPIAGKT	57	9 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12624	2	2	94	LVGPLAGK	IVGPIAGK	50	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12462	2	2	85	LVGPLAGK	IVGPIAGK	50	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	4801	2	2	90	QGYSNPR	QGYSNPR	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	4532	2	2	88	QGYSNPR	QGYSNPR	54	7 (1)
-PROT	Thalassiosira_weissflogii_0171356982	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203136054	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203096078	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23360	2	6	85	EVLLER	EVLLER	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203413268	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	21669	2	12	84	K(+14.02)Y(+15.99)LFLR	KYIFLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203628430	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203212436	1	1	0	0.023	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9866	2	4	83	LDR(+14.02)P(+15.99)TE	IDRPTE	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171423018	1	1	0	0.028	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20399	2	5	92	LTKVPEL	ITKVPEL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203580532	1	2	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203391506	1	2	0	0.025	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203319814	8	16	0	0.083	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203456088	1	1	0	0.03	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23729	2	16	86	TGLLDLR	TGLLDLR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203084810	1	1	0	0.026	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203258860	8	16	0	0.086	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203454798	1	2	0	0.027	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203417438	1	2	0	0.028	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203235074	1	1	0	0.028	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203360464	1	1	1	0.033	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19451	2	1	89	SSLLN(+.98)LH	SSIINLH	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203518536	1	1	0	0.033	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13031	2	2	92	NSLLREP	NSLIREP	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203546162	8	16	0	0.094	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203603364	1	1	1	0.028	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8309	2	1	84	TETDFR	TETDFR	47	6 (1)
-PROT	Thalassiosira_weissflogii_0171425048	1	1	0	0.033	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13031	2	2	92	NSLLREP	NSLIREP	48	7 (1)
-PROT	Thalassiosira_weissflogii_0201806284	1	1	1	0.038	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16879	2	1	92	DLAKVLPH	DIAKVLPH	55	8 (1)
-PROT	Thalassiosira_weissflogii_0203386012	1	1	0	0.034	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22867	2	2	91	LTPELFR	ITPEIFR	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203265014	4	4	0	0.127	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203291566	1	1	0	0.029	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203172898	5	6	0	0.103	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	31909	2	3	95	LELFVMK	LELFVMK	52	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30950	2	3	91	FGWDKF	FGWDKF	52	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34195	2	3	87	DFGWDKF	DFGWDKF	60	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34422	2	3	85	DFGWDKF	DFGWDKF	60	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20868	2	3	88	DFGWDK	DFGWDK	51	6 (1)
-PROT	Thalassiosira_weissflogii_0203178556	1	1	0	0.03	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203262304	1	1	0	0.03	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203203762	1	1	0	0.035	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22867	2	2	91	LTPELFR	ITPEIFR	50	7 (1)
-PROT	Thalassiosira_weissflogii_0203383282	1	1	0	0.03	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDLLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0201773708	1	1	0	0.036	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15365	2	2	95	LVPELTR	IVPEITR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0203204228	2	3	1	0.066	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8478	2	1	91	VAPETYR	VAPETYR	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELIR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203243274	1	1	0	0.037	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18883	2	3	80	DLTVPLH	DLTVPLH	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203548706	1	2	0	0.032	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203425620	4	4	0	0.142	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203502308	1	1	0	0.038	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17519	2	4	92	SSLLELK	SSLLELK	42	7 (1)
-PROT	Thalassiosira_weissflogii_0171445162	1	1	1	0.035	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	5607	2	1	86	LVDDWK(+42.01)	LVDDWK	48	6 (1)
-PROT	Thalassiosira_weissflogii_0171338042	1	1	0	0.035	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8402	2	5	94	DEMLLM	DEMIIM	48	6 (1)
-PROT	Thalassiosira_weissflogii_0203622760	1	1	0	0.036	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19436	2	2	91	MLEVLR	MIEVLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0171353016	1	1	0	0.036	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	10537	2	2	84	FEESLR	FEESLR	44	6 (1)
-PROT	Thalassiosira_weissflogii_0201813222	1	1	0	0.048	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-PROT	Thalassiosira_weissflogii_0203132844	1	1	0	0.043	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	Thalassiosira_weissflogii_0201832964	1	1	0	0.043	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25225	2	2	90	LTLPEK(+42.01)T	LTIPEKT	47	7 (1)
-PROT	Thalassiosira_weissflogii_0201854910	1	1	0	0.044	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20399	2	5	92	LTKVPEL	ITKVPEL	47	7 (1)
-PROT	Thalassiosira_weissflogii_0201770892	1	1	0	0.044	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17519	2	4	92	SSLLELK	SSLLELK	42	7 (1)
-PROT	Thalassiosira_weissflogii_0171396472	1	1	0	0.038	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203609088	1	1	0	0.045	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25225	2	2	90	LTLPEK(+42.01)T	LTIPEKT	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203541550	1	1	0	0.04	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26782	2	4	83	K(+42.01)LMKNL	KLMKNL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0171339844	1	1	0	0.047	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9256	2	4	93	LNSP(+15.99)LPK	INSPLPK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203129214	1	1	0	0.041	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203268494	1	1	0	0.041	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24983	2	20	87	EFLEKL	EFLEKL	42	6 (1)
-PROT	Thalassiosira_weissflogii_0203162778	1	1	0	0.05	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18883	2	3	80	DLTVPLH	DLTVPLH	49	7 (1)
-PROT	Thalassiosira_weissflogii_0203180712	1	1	0	0.044	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203222970	1	1	0	0.062	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29769	2	4	86	SLLPLLR	SLLPLLR	42	7 (1)
-PROT	Thalassiosira_weissflogii_0203561094	1	1	1	0.066	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	4952	2	1	87	KDWDLSP	KDWDLSP	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203429492	1	1	0	0.061	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25792	2	6	85	NDLRFL	NDIRFL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201764820	1	2	0	0.061	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KILIPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203587696	1	1	0	0.061	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13487	2	4	85	C(+57.02)KLTPR	CKITPR	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203152572	5	6	0	0.194	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	31909	2	3	95	LELFVMK	LELFVMK	52	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30950	2	3	91	FGWDKF	FGWDKF	52	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34195	2	3	87	DFGWDKF	DFGWDKF	60	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34422	2	3	85	DFGWDKF	DFGWDKF	60	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20868	2	3	88	DFGWDK	DFGWDK	51	6 (1)
-PROT	Thalassiosira_weissflogii_0171427748	1	1	1	0.062	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16503	2	1	88	QN(+.98)DFLR	QNDFLR	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203110824	3	3	0	0.188	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203268246	1	1	0	0.063	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203215690	1	2	0	0.064	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KILIPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KILIPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203264230	1	1	0	0.086	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-PROT	Thalassiosira_weissflogii_0171441468	1	2	0	0.065	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203287482	1	2	0	0.121	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19426	2	3	93	EAN(+.98)SPPALALK	EADSPPALALK	67	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19566	2	3	90	EAN(+.98)SPPALALK	EADSPPALALK	67	10 (0.909)
-PROT	Thalassiosira_weissflogii_0203203280	1	1	0	0.08	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15365	2	2	95	LVPELTR	IVPEITR	48	7 (1)
-PROT	Thalassiosira_weissflogii_0171438116	1	1	0	0.069	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	16220	2	8	96	TYLLER	TYILER	43	6 (1)
-PROT	Thalassiosira_weissflogii_0203159890	1	1	0	0.07	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201745364	1	1	0	0.093	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	8634	2	8	82	VMKDVTGE	VMKDVTGE	61	8 (1)
-PROT	Thalassiosira_weissflogii_0201785258	1	1	0	0.071	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCLL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203411192	1	1	0	0.074	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27007	2	4	86	YLLDRL	YLLDRL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0171366098	1	2	0	0.074	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FIELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FIELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203130476	1	1	0	0.074	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	3325	2	4	89	PSK(+42.01)NK(+42.01)P	PSKNKP	44	6 (1)
-PROT	Thalassiosira_weissflogii_0203169582	1	1	0	0.088	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17519	2	4	92	SSLLELK	SSLLELK	42	7 (1)
-PROT	Thalassiosira_weissflogii_0201745788	1	1	0	0.088	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-PROT	Thalassiosira_weissflogii_0201765508	1	1	0	0.075	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	17976	2	3	91	R(+15.99)PVLKY	RPVIKY	45	6 (1)
-PROT	Thalassiosira_weissflogii_0203165070	1	1	0	0.078	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203345372	1	1	0	0.08	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVLERI	41	6 (1)
-PROT	Thalassiosira_weissflogii_0201766952	1	1	0	0.081	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13368	2	16	87	K(+42.01)LLRSP	KILRSP	39	6 (1)
-PROT	Thalassiosira_weissflogii_0203257554	1	1	0	0.082	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25242	2	10	82	K(+42.01)VLDLR	KVLDLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203451804	1	1	0	0.083	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0203103090	1	1	0	0.083	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25792	2	6	85	NDLRFL	NDIRFL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201760888	1	2	0	0.085	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25831	2	17	96	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25643	2	17	93	K(+42.01)LLLPK	KLLLPK	37	6 (1)
-PROT	Thalassiosira_weissflogii_0203586380	1	1	0	0.085	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25792	2	6	85	NDLRFL	NDIRFL	43	6 (1)
-PROT	Thalassiosira_weissflogii_0201828296	1	1	0	0.087	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26537	2	44	85	EVLERL	EVIERL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203565264	1	1	0	0.101	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	9256	2	4	93	LNSP(+15.99)LPK	INSPLPK	47	7 (1)
-PROT	Thalassiosira_weissflogii_0203285468	1	1	1	0.087	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	36027	2	1	83	VP(+15.99)FYP(+15.99)V	VPFYPV	49	6 (1)
-PROT	Thalassiosira_weissflogii_0203140794	2	2	0	0.164	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203226722	1	2	0	0.169	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19426	2	3	93	EAN(+.98)SPPALALK	EADSPPALALK	67	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19566	2	3	90	EAN(+.98)SPPALALK	EADSPPALALK	67	10 (0.909)
-PROT	Thalassiosira_weissflogii_0203455236	8	16	0	0.312	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0201843182	1	2	0	0.095	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203227790	1	1	0	0.097	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	18683	2	26	83	LERC(+57.02)LL	LERCIL	41	6 (1)
-PROT	Thalassiosira_weissflogii_0203358894	3	3	0	0.3	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203265334	3	8	0	0.153	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203140810	1	1	0	0.121	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	15150	2	8	86	LGNLLTR	LGNIITR	44	7 (1)
-PROT	Thalassiosira_weissflogii_0203096504	1	1	0	0.109	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	29139	2	21	92	EFLRML	EFLRML	46	6 (1)
-PROT	Thalassiosira_weissflogii_0201822014	2	2	0	0.204	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25520	2	8	94	K(+42.01)LDDADQERFD	LLDDADQERFD	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11430	2	8	81	DADQERF	DADQERF	55	7 (1)
-PROT	Thalassiosira_weissflogii_0203282320	1	1	0	0.13	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26178	2	12	80	SLLDALR	SLLDAIR	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203134984	1	1	0	0.118	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDIIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203163228	1	1	0	0.118	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27349	2	23	90	FLDLLR	FLDIIR	40	6 (1)
-PROT	Thalassiosira_weissflogii_0203365792	7	15	0	0.271	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28136	2	8	94	YDPDLPLLGH	YDPDLPIIGH	72	10 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27796	2	9	94	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27960	2	9	92	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27979	2	9	91	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27611	2	9	85	LPLLGHLQ	LPIIGHLQ	51	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28287	2	8	87	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28664	2	8	86	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28871	2	8	85	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28494	2	8	80	GYN(+.98)PDLPLLGH	GYDPDLPIIGH	72	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32228	2	8	91	K(+42.01)YDPDLPLLGH	GYDPDLPIIGH	65	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23521	2	9	83	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	23365	2	9	80	DLPLLGH	DLPIIGH	46	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33836	2	8	84	DPN(+.98)LPLLGHLQ	DPDLPIIGHLQ	69	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32351	2	9	90	LPLLGHL	LPIIGHL	43	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	32757	2	9	89	LPLLGHL	LPIIGHL	43	7 (1)
-PROT	Thalassiosira_weissflogii_0203540572	1	2	0	0.171	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28336	2	23	95	FLELLR	FLELLR	40	6 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	28126	2	23	94	FLELLR	FLELLR	40	6 (1)
-PROT	tr|A0A089VQA3|A0A089VQA3_THAWE	1	1	0	0.014	Ribulose bisphosphate carboxylase large chain OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	tr|A0A089VNZ5|A0A089VNZ5_THAWE	1	1	1	0.009	Photosystem I P700 chlorophyll a apoprotein A1 OS=Thalassiosira weissflogii OX=1577725 GN=psaA PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25708	2	1	98	LQNLHLL	IQNIHLL	45	7 (1)
-PROT	tr|A0A089VIJ5|A0A089VIJ5_THAWE	1	1	0	0.011	Photosystem I P700 chlorophyll a apoprotein A2 OS=Thalassiosira weissflogii OX=1577725 GN=psaB PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	26951	2	2	89	LKLGPGDF	LKIGPGDF	54	8 (1)
-PROT	tr|A0A089VKI3|A0A089VKI3_THAWE	1	1	0	0.028	Photosystem II D2 protein OS=Thalassiosira weissflogii OX=1577725 GN=psbD PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	35332	2	2	94	FVFPEEVLPR	FVFPEEVLPR	77	10 (1)
-PROT	tr|A8DP72|A8DP72_THAWE	1	1	0	0.015	Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	tr|A8DP83|A8DP83_THAWE	1	1	0	0.014	Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	tr|A0A089VKF6|A0A089VKF6_THAWE	2	2	0	0.029	Photosystem II CP47 reaction center protein OS=Thalassiosira weissflogii OX=1577725 GN=psbB PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	11787	2	2	91	ESDGVFR	ESDGVFR	52	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	6703	2	2	83	YLGNNPAK	YIGNNPAK	58	8 (1)
-PROT	tr|H9BE90|H9BE90_THAWE	1	1	0	0.019	Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	tr|C6FG05|C6FG05_THAWE	1	1	0	0.016	Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	tr|A0A089VPD6|A0A089VPD6_THAWE	1	1	1	0.089	30S ribosomal protein S12, chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rps12 PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	7511	2	1	89	LGGEGHNLQEH	IPGEGHNLQEH	66	10 (0.909)
-PROT	tr|A0A5J6DKU0|A0A5J6DKU0_THAWE	1	1	0	0.033	Ribulose bisphosphate carboxylase large chain (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=rbcL PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	22572	2	9	91	ALRLEDM	ALRLEDM	51	7 (1)
-PROT	tr|A0A089VIP5|A0A089VIP5_THAWE	4	7	0	0.076	Cytochrome f OS=Thalassiosira weissflogii OX=1577725 GN=petA PE=4 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	25574	2	2	86	SVFEVELK	SVFEVEIK	57	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13852	2	2	95	LVGPLAGKT	IVGPIAGKT	57	9 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	13688	2	2	90	LVGPLAGKT	IVGPIAGKT	57	9 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12624	2	2	94	LVGPLAGK	IVGPIAGK	50	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	12462	2	2	85	LVGPLAGK	IVGPIAGK	50	8 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	4801	2	2	90	QGYSNPR	QGYSNPR	54	7 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	4532	2	2	88	QGYSNPR	QGYSNPR	54	7 (1)
-PROT	tr|A0A089VP60|A0A089VP60_THAWE	1	1	1	0.027	30S ribosomal protein S2, chloroplastic OS=Thalassiosira weissflogii OX=1577725 GN=rps2 PE=3 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	20607	2	1	89	NWVTLK	NWVTLK	47	6 (1)
-PROT	tr|A0A089VKJ7|A0A089VKJ7_THAWE	1	2	0	0.059	Photosystem I subunit III OS=Thalassiosira weissflogii OX=1577725 GN=psaF PE=4 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19426	2	3	93	EAN(+.98)SPPALALK	EADSPPALALK	67	10 (0.909)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	19566	2	3	90	EAN(+.98)SPPALALK	EADSPPALALK	67	10 (0.909)
-PROT	tr|O96712|O96712_THAWE	1	1	0	0.062	Fucoxanthin chlorophyll a/c binding protein (Fragment) OS=Thalassiosira weissflogii OX=1577725 GN=FCP PE=4 SV=1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	24564	2	9	82	RNGYLDF	RNGYIDF	54	7 (1)
-PROT	gi|54036848|sp|P63284.1|CLPB_ECOLI	4	5	4	0.029	RecName: Full=Chaperone protein ClpB; AltName: Full=Heat shock protein F84.1
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30114	2	1	93	VTDAELAEVLAR	VTDAEIAEVLAR	81	12 (1)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	33369	2	1	88	LDLLN(+.98)EAASSLR	IDLIDEAASSIR	70	11 (0.917)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30528	2	1	94	VTN(+.98)AELAEVLAR	VTDAEIAEVLAR	75	11 (0.917)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	30314	2	1	94	VTN(+.98)AELAEVLAR	VTDAEIAEVLAR	75	11 (0.917)
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	34489	2	1	90	ALN(+.98)LLDEAASSLR	AIDLIDEAASSIR	76	12 (0.923)
-PROT	sp|#CONTAM#CAS1_BOVIN|	1	1	0	0.028	
-ALN	20210115_Weissrot_332_T12_nodigest_DDA_120min_2uL.raw	27258	2	10	82	EN(+.98)LLRF	ENLLRF	43	6 (1)
+ID,Alignments,SpecCounts,Unique,Coverage,Description,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203598778,1,1,1,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203453428,1,1,1,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171387744,1,1,1,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203365344,1,1,1,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171418628,1,1,1,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203326676,1,1,1,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568866,1,1,1,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201830652,1,1,1,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203444510,1,1,1,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203123814,1,1,1,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203128372,1,1,1,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171392966,1,1,1,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356076,1,1,1,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203390134,1,1,1,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203485622,1,1,1,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203510544,1,1,1,0.024,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203360464,1,1,1,0.033,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203603364,1,1,1,0.028,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201806284,1,1,1,0.038,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203204228,2,3,1,0.066,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171445162,1,1,1,0.035,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203561094,1,1,1,0.066,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171427748,1,1,1,0.062,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203285468,1,1,1,0.087,,,,,,,,,,,,,
+tr|A0A089VNZ5|A0A089VNZ5_THAWE,1,1,1,0.009,Photosystem,I,P700,chlorophyll,a,apoprotein,A1,OS=Thalassiosira,weissflogii,OX=1577725,GN=psaA,PE=3,SV=1
+tr|A0A089VPD6|A0A089VPD6_THAWE,1,1,1,0.089,30S,ribosomal,protein,S12,,chloroplastic,OS=Thalassiosira,weissflogii,OX=1577725,GN=rps12,PE=3,SV=1,
+tr|A0A089VP60|A0A089VP60_THAWE,1,1,1,0.027,30S,ribosomal,protein,S2,,chloroplastic,OS=Thalassiosira,weissflogii,OX=1577725,GN=rps2,PE=3,SV=1,
+Thalassiosira_weissflogii_0203507610,1,1,0,0.001,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203632510,1,1,0,0.001,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203509200,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232360,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203505338,1,1,0,0.001,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203474624,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203354880,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203355062,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203443900,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171388736,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171449642,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203382948,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203262626,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203172238,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203508018,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861324,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171384764,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171358200,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203259712,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203536474,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861618,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203596506,1,2,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861462,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201829816,1,1,0,0.002,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356188,1,2,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171419880,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203322750,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171446864,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171353656,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447898,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356464,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203476766,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203447024,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201862064,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203537588,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203352224,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203200728,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171368196,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203136636,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203629868,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232282,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203201202,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203420966,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203537770,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203474920,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203231272,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171389254,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201771246,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171448868,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203320032,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477544,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568308,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203169780,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201771352,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203508522,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203213558,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203600290,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203433664,1,1,0,0.003,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171385522,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203259202,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201863604,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203383420,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355862,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203230144,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171387134,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201832004,1,2,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628772,1,2,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203136254,1,2,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203447046,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171417654,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568880,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171449136,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861348,1,2,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203506978,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201829588,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861846,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171388008,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203323292,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355572,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203260812,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203229680,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171420442,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203262482,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203323830,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203290872,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171451014,2,2,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201847290,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171358178,2,2,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203230984,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203199580,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201829230,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203570544,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447376,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203260134,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201773232,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203169848,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203478692,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171354628,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203385684,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203598316,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203627768,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203506788,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203537704,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203167446,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201768586,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203172024,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203108674,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203385056,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630424,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171426816,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203631262,1,1,0,0.004,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203381466,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201829064,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203290748,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201803216,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203507506,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203292756,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203383306,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356326,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201860546,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203292462,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203324166,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203263480,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171357504,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203171698,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201804134,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106946,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203198916,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203324454,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628422,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203290908,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171448046,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203444222,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201831088,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203201350,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203509180,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203168326,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171354018,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201856150,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201802574,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203292968,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171418954,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203570404,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203570052,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203168390,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203537740,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203598410,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203352638,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201799620,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203319952,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447152,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416446,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106990,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201769796,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171449940,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203597072,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477998,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568296,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568708,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203139570,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203136778,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203352544,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203350848,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203104334,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171388288,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203228748,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171449202,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203229448,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203323502,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203168786,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171354066,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203293758,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203632146,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201832364,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861670,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171385292,1,1,0,0.005,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203478970,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203506982,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203600714,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203230292,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355982,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201808950,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203446730,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106610,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171417868,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203536594,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203171402,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416234,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203258762,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203631838,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203262580,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203382350,2,2,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203169342,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203567414,2,2,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232176,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203383748,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203168638,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203596840,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203515948,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203507562,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201769128,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203288940,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203599932,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203107052,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203629354,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203566530,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203107338,2,2,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203350968,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203382596,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201832340,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203353174,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171394444,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203613400,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203445710,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201831128,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203105506,1,2,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477758,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171384676,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203412884,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201831054,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203505188,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203539788,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630000,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203537600,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203230080,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628378,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203200190,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171449946,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171448164,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203172060,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201803024,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203535952,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203598256,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203289050,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203321468,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171386232,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171338952,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203570480,1,1,0,0.006,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203540310,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447586,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171386662,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203263818,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201864586,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201799862,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203473440,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171353994,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203202418,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201829392,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201755936,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171375094,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630704,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356998,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203355158,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203539016,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447912,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203381324,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203484710,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171333452,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171449328,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171384952,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203138428,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171419898,2,3,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203203024,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171354008,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171448216,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203414238,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203632248,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203445576,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203415600,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203300420,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568750,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201835474,1,2,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203568566,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203544632,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203507364,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203172744,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171415840,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203088892,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171351036,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201830978,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106544,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203383522,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203397446,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171417184,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203229034,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171448832,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203108752,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861744,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201830138,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447936,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201749504,1,1,0,0.007,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630902,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203413852,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201844628,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201864750,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171376872,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106084,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203447050,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203261644,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203384792,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201830454,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201803916,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203448088,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203291688,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203445788,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171417854,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203539140,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203455680,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203231198,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203632658,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201799296,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203200792,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203319674,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355320,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203240274,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355710,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203139870,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171366772,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203629950,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171360022,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232718,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630614,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203091438,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201864904,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203541078,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203231054,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203259458,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203321466,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203536036,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203109212,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201835174,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171387974,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171427128,1,1,0,0.008,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201771140,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203478614,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201852050,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203383660,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355576,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203475674,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232540,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203601126,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628526,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171395930,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203263220,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203291540,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203446056,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171415916,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203377050,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201779176,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203354518,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203445154,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203135618,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232930,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630212,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203505646,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203598978,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201811356,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203291908,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203538346,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416598,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203414766,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203252894,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203415282,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203443696,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171365708,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203500814,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203261590,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201801688,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203566044,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203107272,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203597282,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171373146,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203324156,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477838,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171388266,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203137652,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203537978,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171331430,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477844,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355616,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203214962,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630530,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171369712,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201770382,1,1,0,0.009,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203508208,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203566522,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203289226,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203475126,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171384186,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203105314,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171358122,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203413062,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203338628,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203289320,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203265514,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203506530,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171428428,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356282,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203083016,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171372248,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203515654,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201803762,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203108958,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171421934,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203475590,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203140318,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203320466,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203229414,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203575894,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171448112,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171395050,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201802528,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203385770,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171355476,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201863290,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201773140,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201803222,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201844046,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201829706,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203084612,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203447044,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203202618,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203401034,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203519948,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203299724,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201860916,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171329992,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203506148,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203169102,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203498434,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171428124,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203262576,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416770,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628220,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203304842,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203168612,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203202714,1,1,0,0.01,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201830780,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203168276,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171358156,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447028,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171369840,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203293622,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201772544,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203272650,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416546,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201824606,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203206072,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203231882,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203108134,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201772218,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201864508,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203171424,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171397428,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203446436,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203353228,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171371322,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203544642,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203570122,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201800140,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203139322,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171387956,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203538170,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201862792,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477734,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203108762,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203201288,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201862872,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203199720,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203631334,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203448312,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201853908,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203152868,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171444434,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201802750,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203198876,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203600810,1,1,0,0.011,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203101708,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203530532,1,2,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203336438,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203228560,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203138142,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203138864,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203114790,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447518,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203103378,2,2,0,0.029,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203167498,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203352672,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203600148,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203381338,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203475056,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203139900,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201813078,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203416498,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203631858,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201775194,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203323526,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203416156,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203505340,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171370720,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171329146,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203416112,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203320868,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171383444,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201861752,1,1,0,0.012,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203446702,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201779386,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203079354,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203622482,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171368748,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171420056,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203448054,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203201998,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203105462,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201813228,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201864698,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106528,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201834348,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203148784,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203416034,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201801988,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201801356,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203475574,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203631412,1,1,0,0.013,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203232682,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203333882,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203544586,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106384,1,2,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171425106,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203292358,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203385142,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203476536,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201769194,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203079478,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203599254,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203508352,4,4,0,0.06,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203473996,8,16,0,0.046,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203292364,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203137030,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203171200,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203443384,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203136600,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201744050,1,2,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416460,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203230286,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171419838,1,1,0,0.014,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203171952,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203523098,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203415686,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203186366,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203606918,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203485892,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203190782,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203451936,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203351452,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203385426,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171392206,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203446880,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171451130,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203400590,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203460398,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171404668,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201860518,8,16,0,0.051,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203579186,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201804070,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203334394,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203490260,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203612606,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203354466,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201833028,1,1,0,0.015,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203089184,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171342430,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203140452,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203201882,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203344336,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203240698,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171447994,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203266654,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203200932,1,2,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171426938,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203240054,1,2,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203301806,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203385546,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203425344,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203114378,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201825206,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201862074,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203307106,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203202962,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203577902,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203120094,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203448962,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203489690,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171377730,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203291764,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201773436,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171357042,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203106230,1,1,0,0.016,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203416598,2,2,0,0.035,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203293074,1,1,0,0.027,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203107296,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203519168,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203250348,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171337554,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203326958,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201773036,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203553890,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171413520,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171418478,1,1,0,0.017,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628344,8,16,0,0.059,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171389148,1,2,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356384,1,2,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203599042,1,2,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203170414,1,1,0,0.021,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171349992,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171357820,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203268896,1,1,0,0.021,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203570410,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203478792,1,1,0,0.018,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171416902,1,1,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201846846,1,1,0,0.022,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203207034,1,1,0,0.022,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203451770,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201802832,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203327834,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171450076,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203477188,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203417344,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203531590,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203632388,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203243956,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203149214,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171400684,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203447790,1,1,0,0.019,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203177464,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203117354,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201860448,8,9,0,0.121,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201864560,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203578210,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203396252,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201825352,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203630836,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203332506,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201770182,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203539370,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203322900,1,1,0,0.02,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171433046,1,1,0,0.024,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203538338,1,1,0,0.024,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171387458,1,1,0,0.021,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203229440,1,1,0,0.021,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171354372,1,1,0,0.024,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203285006,1,1,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203237250,1,1,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203179522,1,1,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203166346,1,1,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203183518,1,1,0,0.022,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203453816,1,1,0,0.026,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203598234,1,1,0,0.022,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171348692,4,7,0,0.089,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171356982,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203136054,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203096078,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203413268,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203628430,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203212436,1,1,0,0.023,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171423018,1,1,0,0.028,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203580532,1,2,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203391506,1,2,0,0.025,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203319814,8,16,0,0.083,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203456088,1,1,0,0.03,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203084810,1,1,0,0.026,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203258860,8,16,0,0.086,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203454798,1,2,0,0.027,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203417438,1,2,0,0.028,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203235074,1,1,0,0.028,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203518536,1,1,0,0.033,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203546162,8,16,0,0.094,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171425048,1,1,0,0.033,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203386012,1,1,0,0.034,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203265014,4,4,0,0.127,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203291566,1,1,0,0.029,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203172898,5,6,0,0.103,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203178556,1,1,0,0.03,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203262304,1,1,0,0.03,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203203762,1,1,0,0.035,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203383282,1,1,0,0.03,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201773708,1,1,0,0.036,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203243274,1,1,0,0.037,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203548706,1,2,0,0.032,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203425620,4,4,0,0.142,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203502308,1,1,0,0.038,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171338042,1,1,0,0.035,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203622760,1,1,0,0.036,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171353016,1,1,0,0.036,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201813222,1,1,0,0.048,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203132844,1,1,0,0.043,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201832964,1,1,0,0.043,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201854910,1,1,0,0.044,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201770892,1,1,0,0.044,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171396472,1,1,0,0.038,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203609088,1,1,0,0.045,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203541550,1,1,0,0.04,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171339844,1,1,0,0.047,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203129214,1,1,0,0.041,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203268494,1,1,0,0.041,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203162778,1,1,0,0.05,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203180712,1,1,0,0.044,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203222970,1,1,0,0.062,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203429492,1,1,0,0.061,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201764820,1,2,0,0.061,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203587696,1,1,0,0.061,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203152572,5,6,0,0.194,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203110824,3,3,0,0.188,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203268246,1,1,0,0.063,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203215690,1,2,0,0.064,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203264230,1,1,0,0.086,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171441468,1,2,0,0.065,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203287482,1,2,0,0.121,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203203280,1,1,0,0.08,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171438116,1,1,0,0.069,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203159890,1,1,0,0.07,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201745364,1,1,0,0.093,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201785258,1,1,0,0.071,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203411192,1,1,0,0.074,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0171366098,1,2,0,0.074,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203130476,1,1,0,0.074,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203169582,1,1,0,0.088,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201745788,1,1,0,0.088,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201765508,1,1,0,0.075,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203165070,1,1,0,0.078,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203345372,1,1,0,0.08,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201766952,1,1,0,0.081,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203257554,1,1,0,0.082,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203451804,1,1,0,0.083,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203103090,1,1,0,0.083,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201760888,1,2,0,0.085,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203586380,1,1,0,0.085,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201828296,1,1,0,0.087,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203565264,1,1,0,0.101,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203140794,2,2,0,0.164,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203226722,1,2,0,0.169,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203455236,8,16,0,0.312,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201843182,1,2,0,0.095,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203227790,1,1,0,0.097,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203358894,3,3,0,0.3,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203265334,3,8,0,0.153,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203140810,1,1,0,0.121,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203096504,1,1,0,0.109,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0201822014,2,2,0,0.204,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203282320,1,1,0,0.13,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203134984,1,1,0,0.118,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203163228,1,1,0,0.118,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203365792,7,15,0,0.271,,,,,,,,,,,,,
+Thalassiosira_weissflogii_0203540572,1,2,0,0.171,,,,,,,,,,,,,
+tr|A0A089VQA3|A0A089VQA3_THAWE,1,1,0,0.014,Ribulose,bisphosphate,carboxylase,large,chain,OS=Thalassiosira,weissflogii,OX=1577725,GN=rbcL,PE=3,SV=1,,
+tr|A0A089VIJ5|A0A089VIJ5_THAWE,1,1,0,0.011,Photosystem,I,P700,chlorophyll,a,apoprotein,A2,OS=Thalassiosira,weissflogii,OX=1577725,GN=psaB,PE=3,SV=1
+tr|A0A089VKI3|A0A089VKI3_THAWE,1,1,0,0.028,Photosystem,II,D2,protein,OS=Thalassiosira,weissflogii,OX=1577725,GN=psbD,PE=3,SV=1,,,
+tr|A8DP72|A8DP72_THAWE,1,1,0,0.015,Ribulose,bisphosphate,carboxylase,large,chain,(Fragment),OS=Thalassiosira,weissflogii,OX=1577725,GN=rbcL,PE=3,SV=1,
+tr|A8DP83|A8DP83_THAWE,1,1,0,0.014,Ribulose,bisphosphate,carboxylase,large,chain,(Fragment),OS=Thalassiosira,weissflogii,OX=1577725,GN=rbcL,PE=3,SV=1,
+tr|A0A089VKF6|A0A089VKF6_THAWE,2,2,0,0.029,Photosystem,II,CP47,reaction,center,protein,OS=Thalassiosira,weissflogii,OX=1577725,GN=psbB,PE=3,SV=1,
+tr|H9BE90|H9BE90_THAWE,1,1,0,0.019,Ribulose,bisphosphate,carboxylase,large,chain,(Fragment),OS=Thalassiosira,weissflogii,OX=1577725,GN=rbcL,PE=3,SV=1,
+tr|C6FG05|C6FG05_THAWE,1,1,0,0.016,Ribulose,bisphosphate,carboxylase,large,chain,(Fragment),OS=Thalassiosira,weissflogii,OX=1577725,PE=3,SV=1,,
+tr|A0A5J6DKU0|A0A5J6DKU0_THAWE,1,1,0,0.033,Ribulose,bisphosphate,carboxylase,large,chain,(Fragment),OS=Thalassiosira,weissflogii,OX=1577725,GN=rbcL,PE=3,SV=1,
+tr|A0A089VIP5|A0A089VIP5_THAWE,4,7,0,0.076,Cytochrome,f,OS=Thalassiosira,weissflogii,OX=1577725,GN=petA,PE=4,SV=1,,,,,
+tr|A0A089VKJ7|A0A089VKJ7_THAWE,1,2,0,0.059,Photosystem,I,subunit,III,OS=Thalassiosira,weissflogii,OX=1577725,GN=psaF,PE=4,SV=1,,,
+tr|O96712|O96712_THAWE,1,1,0,0.062,Fucoxanthin,chlorophyll,a/c,binding,protein,(Fragment),OS=Thalassiosira,weissflogii,OX=1577725,GN=FCP,PE=4,SV=1,
+sp|#CONTAM#CAS1_BOVIN|,1,1,0,0.028,,,,,,,,,,,,,
