@@ -10,7 +10,7 @@ library( ggplot2 );
 
 # --------------------------------------------------------------------------
 # If you don't have the scales package installed, uncomment the following line:
-install.packages( "scales" );
+#install.packages( "scales" );
 library( scales );
 
 # --------------------------------------------------------------------------
