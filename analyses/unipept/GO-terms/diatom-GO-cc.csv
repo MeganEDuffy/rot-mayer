@@ -2,8 +2,12 @@ GO term,T0-322,T2-323,T5-324,T12-325
 GO:0009538 photosystem I reaction center,8,2,8,7
 GO:0009507 chloroplast,46,2,34,30
 GO:0016021 integral component of membrane,41,3,28,24
+GO:0009279 cell outer membrane,0,0,0,0
 GO:0009536 plastid ,0,0,0,1
 GO:0005886 plasma membrane ,0,1,0,0
+GO:0016020 membrane,0,0,0,0
+GO:0030288 outer membrane-bounded periplasmic space,0,0,0,0
+GO:0008076 voltage-gated potassium channel complex,0,0,0,0
 "GO:0045263 proton-transporting ATP synthase complex, coupling factor F(o)",2,2,3,0
 GO:0043231 intracellular membrane-bounded organelle,1,13,0,0
 GO:0005794 Golgi apparatus,2,0,0,0
