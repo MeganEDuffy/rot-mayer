@@ -1,0 +1,27 @@
+Peptides,GO-term,Name
+115,GO:0016021,integral component of membrane
+78,GO:0009535,chloroplast thylakoid membrane
+49,GO:0009507,chloroplast
+14,GO:0009522,photosystem I
+11,GO:0031361,integral component of thylakoid membrane
+11,GO:0009538,photosystem I reaction center
+10,GO:0009523,photosystem II
+8,GO:0005737,cytoplasm
+5,GO:0005840,ribosome
+4,GO:0009579,thylakoid
+4,GO:0009536,plastid
+4,GO:0016020,membrane
+4,GO:0022625,cytosolic large ribosomal subunit
+4,GO:0005743,mitochondrial inner membrane
+3,GO:0005739,mitochondrion
+3,GO:0009539,photosystem II reaction center
+2,GO:0005634,nucleus
+2,GO:0000786,nucleosome
+2,GO:0000790,nuclear chromatin
+2,GO:0005886,plasma membrane
+2,GO:0005774,vacuolar membrane
+2,GO:0033179,"proton-transporting V-type ATPase, V0 domain"
+2,GO:0008076,voltage-gated potassium channel complex
+1,GO:0030076,light-harvesting complex
+1,GO:0009521,photosystem
+1,GO:0005783,endoplasmic reticulum

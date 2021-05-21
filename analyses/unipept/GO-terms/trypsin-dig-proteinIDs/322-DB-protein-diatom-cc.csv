@@ -1,0 +1,51 @@
+Peptides,GO-term,Name
+197,GO:0016021,integral component of membrane
+139,GO:0009535,chloroplast thylakoid membrane
+64,GO:0005737,cytoplasm
+59,GO:0009507,chloroplast
+50,GO:0005829,cytosol
+33,GO:0016020,membrane
+31,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+18,GO:0022627,cytosolic small ribosomal subunit
+17,GO:0015935,small ribosomal subunit
+16,GO:0009538,photosystem I reaction center
+16,GO:0030126,COPI vesicle coat
+16,GO:0000139,Golgi membrane
+14,GO:0009522,photosystem I
+13,GO:1990904,ribonucleoprotein complex
+13,GO:0043231,intracellular membrane-bounded organelle
+13,GO:0005634,nucleus
+13,GO:0000220,"vacuolar proton-transporting V-type ATPase, V0 domain"
+13,GO:0005794,Golgi apparatus
+13,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment
+13,GO:0005783,endoplasmic reticulum
+11,GO:0031361,integral component of thylakoid membrane
+11,GO:0009523,photosystem II
+11,GO:0005840,ribosome
+11,GO:0016471,vacuolar proton-transporting V-type ATPase complex
+11,GO:0005623,cell
+10,GO:0005886,plasma membrane
+10,GO:0009941,chloroplast envelope
+10,GO:0005739,mitochondrion
+9,GO:0000145,exocyst
+8,GO:0005788,endoplasmic reticulum lumen
+8,GO:0034663,endoplasmic reticulum chaperone complex
+8,GO:0010494,cytoplasmic stress granule
+6,GO:0002189,ribose phosphate diphosphokinase complex
+6,GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)"
+5,GO:0009536,plastid
+5,GO:0022625,cytosolic large ribosomal subunit
+5,GO:0000275,"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)"
+4,GO:0009579,thylakoid
+4,GO:0005743,mitochondrial inner membrane
+4,GO:0033179,"proton-transporting V-type ATPase, V0 domain"
+3,GO:0005856,cytoskeleton
+3,GO:0000786,nucleosome
+3,GO:0009534,chloroplast thylakoid
+2,GO:0000790,nuclear chromatin
+2,GO:0005774,vacuolar membrane
+2,GO:0005750,mitochondrial respiratory chain complex III
+1,GO:0030076,light-harvesting complex
+1,GO:0009539,photosystem II reaction center
+1,GO:0009521,photosystem
+1,GO:0005730,nucleolus

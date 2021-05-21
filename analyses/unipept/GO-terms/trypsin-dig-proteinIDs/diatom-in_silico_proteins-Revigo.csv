@@ -1,0 +1,90 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0002189", "ribose phosphate diphosphokinase complex", 0.004, -5.685, 6.978, 2.846, 0.730, 0.000, -1, False
+"GO:0005623", "(obsolete) cell", 0.130, -2.754, -3.920, 4.463, 1.000, 0.000, -1, False
+"GO:0009986", "cell surface", 0.232, 0.211, -4.109, 4.642, 1.000, 0.000, -1, False
+"GO:0032991", "protein-containing complex", 11.972, -1.258, -4.114, 6.354, 1.000, 0.000, -1, False
+"GO:0019898", "extrinsic component of membrane", 0.204, 3.262, -3.414, 4.585, 0.984, 0.000, -1, False
+"GO:0009579", "thylakoid", 0.285, 6.802, 0.155, 4.730, 0.856, 0.000, -1, False
+"GO:0016020", "membrane", 63.598, -4.335, -3.483, 7.080, 1.000, 0.000, -1, False
+"GO:0016021", "integral component of membrane", 56.518, 1.501, -3.865, 7.028, 0.970, 0.049, -1, False
+"GO:0048471", "perinuclear region of cytoplasm", 0.158, 2.861, 0.149, 4.474, 0.799, 0.092, -1, False
+"GO:0042651", "thylakoid membrane", 0.214, 5.249, -1.679, 4.606, 0.715, 0.094, -1, False
+"GO:0031361", "integral component of thylakoid membrane", 0.003, null, null, 2.721, 0.778, 0.724, 42651, True
+"GO:0009538", "photosystem I reaction center", 0.011, null, null, 3.301, 0.576, 0.787, 42651, True
+"GO:0009539", "photosystem II reaction center", 0.011, null, null, 3.305, 0.575, 0.788, 42651, True
+"GO:0009654", "photosystem II oxygen evolving complex", 0.025, null, null, 3.673, 0.507, 0.834, 42651, True
+"GO:0009522", "photosystem I", 0.048, null, null, 3.954, 0.540, 0.873, 42651, True
+"GO:0009523", "photosystem II", 0.079, null, null, 4.177, 0.527, 0.920, 42651, True
+"GO:0009535", "chloroplast thylakoid membrane", 0.105, null, null, 4.296, 0.524, 0.926, 42651, True
+"GO:0009521", "photosystem", 0.110, null, null, 4.319, 0.525, 0.930, 42651, True
+"GO:0009534", "chloroplast thylakoid", 0.119, null, null, 4.351, 0.578, 0.989, 42651, True
+"GO:0005886", "plasma membrane", 15.596, -5.817, -2.210, 6.469, 0.960, 0.136, -1, False
+"GO:0010494", "cytoplasmic stress granule", 0.035, 3.273, 9.238, 3.818, 0.756, 0.145, -1, False
+"GO:0005793", "endoplasmic reticulum-Golgi intermediate compartment", 0.044, 4.646, 4.554, 3.918, 0.763, 0.147, -1, False
+"GO:0005788", "endoplasmic reticulum lumen", 0.078, 1.846, 7.190, 4.170, 0.669, 0.182, -1, False
+"GO:0005829", "cytosol", 1.946, 3.375, 1.951, 5.565, 0.754, 0.201, -1, False
+"GO:0030686", "90S preribosome", 0.042, -6.142, 4.812, 3.899, 0.687, 0.208, -1, False
+"GO:0032040", "small-subunit processome", 0.091, null, null, 4.235, 0.673, 0.848, 30686, True
+"GO:0005737", "cytoplasm", 24.924, 5.759, 3.014, 6.673, 0.774, 0.211, -1, False
+"GO:0071540", "eukaryotic translation initiation factor 3 complex, eIF3e", 0.012, -4.001, 2.459, 3.352, 0.676, 0.222, -1, False
+"GO:0071541", "eukaryotic translation initiation factor 3 complex, eIF3m", 0.013, null, null, 3.405, 0.674, 0.757, 71540, True
+"GO:0009507", "chloroplast", 0.560, 3.087, 5.943, 5.024, 0.680, 0.229, -1, False
+"GO:0009941", "chloroplast envelope", 0.109, null, null, 4.312, 0.675, 0.839, 9507, True
+"GO:0030870", "Mre11 complex", 0.020, -1.553, 7.447, 3.579, 0.638, 0.229, -1, False
+"GO:0030076", "light-harvesting complex", 0.050, -6.028, 4.092, 3.978, 0.685, 0.243, -1, False
+"GO:0005774", "vacuolar membrane", 0.368, 2.155, 5.540, 4.842, 0.633, 0.251, -1, False
+"GO:0000139", "Golgi membrane", 0.705, null, null, 5.124, 0.594, 0.741, 5774, True
+"GO:0005789", "endoplasmic reticulum membrane", 1.325, null, null, 5.398, 0.579, 0.806, 5774, True
+"GO:0005765", "lysosomal membrane", 0.108, null, null, 4.312, 0.661, 0.810, 5774, True
+"GO:0009536", "plastid", 0.627, 3.191, 4.256, 5.074, 0.712, 0.264, -1, False
+"GO:0005739", "mitochondrion", 2.679, 2.755, 4.756, 5.704, 0.673, 0.312, -1, False
+"GO:1990904", "ribonucleoprotein complex", 2.023, -5.408, 5.187, 5.582, 0.663, 0.325, -1, False
+"GO:0000785", "chromatin", 0.550, 4.241, 8.209, 5.017, 0.715, 0.340, -1, False
+"GO:0000786", "nucleosome", 0.206, null, null, 4.590, 0.585, 0.704, 785, True
+"GO:0005740", "mitochondrial envelope", 1.288, 2.329, 5.144, 5.386, 0.631, 0.340, -1, False
+"GO:0005743", "mitochondrial inner membrane", 0.942, null, null, 5.251, 0.591, 0.872, 5740, True
+"GO:0005871", "kinesin complex", 0.036, -1.499, 7.998, 3.835, 0.634, 0.341, -1, False
+"GO:0008076", "voltage-gated potassium channel complex", 0.090, -5.525, 3.369, 4.232, 0.655, 0.343, -1, False
+"GO:0000145", "exocyst", 0.100, -3.058, 2.968, 4.275, 0.638, 0.346, -1, False
+"GO:0005852", "eukaryotic translation initiation factor 3 complex", 0.111, -3.055, 3.847, 4.322, 0.641, 0.349, -1, False
+"GO:0008287", "protein serine/threonine phosphatase complex", 0.076, -5.463, 6.310, 4.157, 0.672, 0.374, -1, False
+"GO:0000159", "protein phosphatase type 2A complex", 0.048, null, null, 3.959, 0.673, 0.968, 8287, True
+"GO:0034455", "t-UTP complex", 0.003, -0.590, 8.028, 2.719, 0.640, 0.389, -1, False
+"GO:0009316", "3-isopropylmalate dehydratase complex", 0.037, -3.963, 6.336, 3.840, 0.609, 0.430, -1, False
+"GO:0005960", "glycine cleavage complex", 0.051, -3.718, 5.746, 3.984, 0.600, 0.440, -1, False
+"GO:0043614", "multi-eIF complex", 0.007, -4.589, 3.160, 3.132, 0.655, 0.441, -1, False
+"GO:0034663", "endoplasmic reticulum chaperone complex", 0.005, -1.045, 3.562, 2.932, 0.635, 0.450, -1, False
+"GO:0033179", "proton-transporting V-type ATPase, V0 domain", 0.075, -5.505, 4.313, 4.151, 0.629, 0.461, -1, False
+"GO:0000220", "vacuolar proton-transporting V-type ATPase, V0 domain", 0.016, null, null, 3.478, 0.553, 0.823, 33179, True
+"GO:0016471", "vacuolar proton-transporting V-type ATPase complex", 0.030, null, null, 3.758, 0.516, 0.858, 33179, True
+"GO:0045263", "proton-transporting ATP synthase complex, coupling factor F(o)", 0.211, null, null, 4.601, 0.559, 0.872, 33179, True
+"GO:0045261", "proton-transporting ATP synthase complex, catalytic core F(1)", 0.255, null, null, 4.684, 0.557, 0.880, 33179, True
+"GO:0005856", "cytoskeleton", 1.970, 4.315, 7.361, 5.571, 0.689, 0.490, -1, False
+"GO:0043231", "intracellular membrane-bounded organelle", 18.828, 3.405, 5.563, 6.551, 0.629, 0.505, -1, False
+"GO:0000015", "phosphopyruvate hydratase complex", 0.064, -3.681, 6.024, 4.086, 0.596, 0.506, -1, False
+"GO:0000502", "proteasome complex", 0.427, -5.205, 6.025, 4.907, 0.623, 0.514, -1, False
+"GO:0008537", "proteasome activator complex", 0.007, null, null, 3.102, 0.654, 0.709, 502, True
+"GO:0008540", "proteasome regulatory particle, base subcomplex", 0.035, null, null, 3.826, 0.622, 0.813, 502, True
+"GO:0031597", "cytosolic proteasome complex", 0.047, null, null, 3.944, 0.583, 0.814, 502, True
+"GO:0033290", "eukaryotic 48S preinitiation complex", 0.092, -3.552, 4.232, 4.241, 0.592, 0.518, -1, False
+"GO:0016282", "eukaryotic 43S preinitiation complex", 0.092, null, null, 4.242, 0.592, 0.995, 33290, True
+"GO:0005794", "Golgi apparatus", 1.491, 2.161, 4.448, 5.450, 0.644, 0.537, -1, False
+"GO:0005783", "endoplasmic reticulum", 1.949, null, null, 5.566, 0.636, 0.749, 5794, True
+"GO:0030126", "COPI vesicle coat", 0.053, -0.727, 5.004, 4.005, 0.520, 0.595, -1, False
+"GO:0005967", "mitochondrial pyruvate dehydrogenase complex", 0.004, -2.272, 6.646, 2.864, 0.579, 0.603, -1, False
+"GO:0005654", "nucleoplasm", 1.456, 2.946, 7.483, 5.440, 0.662, 0.603, -1, False
+"GO:0005730", "nucleolus", 0.854, null, null, 5.208, 0.634, 0.816, 5654, True
+"GO:0034098", "VCP-NPL4-UFD1 AAA ATPase complex", 0.005, -1.178, 4.083, 3.013, 0.563, 0.604, -1, False
+"GO:0031207", "Sec62/Sec63 complex", 0.006, -1.039, 4.275, 3.031, 0.556, 0.611, -1, False
+"GO:0015935", "small ribosomal subunit", 0.442, -1.127, 6.240, 4.921, 0.518, 0.616, -1, False
+"GO:0005762", "mitochondrial large ribosomal subunit", 0.054, null, null, 4.009, 0.494, 0.701, 15935, True
+"GO:0022627", "cytosolic small ribosomal subunit", 0.067, null, null, 4.100, 0.552, 0.713, 15935, True
+"GO:0015934", "large ribosomal subunit", 0.578, null, null, 5.038, 0.509, 0.859, 15935, True
+"GO:0022625", "cytosolic large ribosomal subunit", 0.122, null, null, 4.364, 0.534, 0.887, 15935, True
+"GO:0005840", "ribosome", 3.927, 4.157, 6.949, 5.870, 0.669, 0.624, -1, False
+"GO:0000275", "mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)", 0.014, -1.389, 5.099, 3.421, 0.516, 0.627, -1, False
+"GO:0000118", "histone deacetylase complex", 0.061, -1.749, 6.764, 4.059, 0.554, 0.630, -1, False
+"GO:0031595", "nuclear proteasome complex", 0.002, -2.673, 7.605, 2.662, 0.607, 0.664, -1, False
+"GO:0005634", "nucleus", 11.342, 3.629, 5.756, 6.331, 0.647, 0.695, -1, False
+"GO:0005750", "mitochondrial respiratory chain complex III", 0.021, -1.934, 5.582, 3.606, 0.485, 0.696, -1, False
+"GO:0005753", "mitochondrial proton-transporting ATP synthase complex", 0.066, null, null, 4.094, 0.474, 0.765, 5750, True
