@@ -1,0 +1,16 @@
+Peptides,GO-term,Name
+68,GO:0016021,integral component of membrane
+48,GO:0009535,chloroplast thylakoid membrane
+23,GO:0005829,cytosol
+15,GO:0009507,chloroplast
+13,GO:1990904,ribonucleoprotein complex
+10,GO:0009941,chloroplast envelope
+9,GO:0031361,integral component of thylakoid membrane
+7,GO:0016020,membrane
+3,GO:0022625,cytosolic large ribosomal subunit
+3,GO:0005737,cytoplasm
+3,GO:0005856,cytoskeleton
+2,GO:0005840,ribosome
+2,GO:0005750,mitochondrial respiratory chain complex III
+1,GO:0009536,plastid
+1,GO:0030076,light-harvesting complex

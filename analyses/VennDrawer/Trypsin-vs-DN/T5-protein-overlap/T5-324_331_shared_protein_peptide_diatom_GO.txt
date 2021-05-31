@@ -1,0 +1,7 @@
+Peptides,GO-term,Name
+30,GO:0016021,integral component of membrane
+28,GO:0009535,chloroplast thylakoid membrane
+15,GO:0009507,chloroplast
+9,GO:0031361,integral component of thylakoid membrane
+3,GO:0009523,photosystem II
+1,GO:0030076,light-harvesting complex
