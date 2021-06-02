@@ -1,0 +1,13 @@
+Peptides,GO-term,Name
+11,GO:0016021,integral component of membrane
+10,GO:0005739,mitochondrion
+9,GO:0009535,chloroplast thylakoid membrane
+7,GO:0005634,nucleus
+5,GO:0005623,cell
+5,GO:0005829,cytosol
+5,GO:0022627,cytosolic small ribosomal subunit
+3,GO:0000118,histone deacetylase complex
+3,GO:0000785,chromatin
+2,GO:0005840,ribosome
+2,GO:0022625,cytosolic large ribosomal subunit
+1,GO:0005847,mRNA cleavage and polyadenylation specificity factor complex

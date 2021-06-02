@@ -1,0 +1,22 @@
+GO term,Day 0 ND,Day 2 ND,Day 5 ND,Day 12 ND
+GO:0016021 integral component of membrane,11.0,35.0,8.0,6.0
+GO:0005739 mitochondrion,10.0,,,
+GO:0009535 chloroplast thylakoid membrane,9.0,30.0,9.0,6.0
+GO:0005634 nucleus,7.0,2.0,,
+GO:0005623 cell,5.0,,,
+GO:0005829 cytosol,5.0,5.0,,
+GO:0022627 cytosolic small ribosomal subunit,5.0,,,
+GO:0000118 histone deacetylase complex,3.0,,,
+GO:0000785 chromatin,3.0,,,
+GO:0005840 ribosome,2.0,4.0,,
+GO:0022625 cytosolic large ribosomal subunit,2.0,4.0,,
+GO:0005847 mRNA cleavage and polyadenylation specificity factor complex,1.0,,,
+GO:0030126 COPI vesicle coat,,16.0,,
+GO:0000139 Golgi membrane,,14.0,,
+GO:0009941 chloroplast envelope,,10.0,,
+GO:0005737 cytoplasm,,5.0,11.0,
+GO:0009507 chloroplast,,2.0,3.0,
+GO:0000786 nucleosome,,2.0,,
+GO:0009536 plastid,,1.0,,
+GO:0000790 nuclear chromatin,,1.0,,
+GO:0009538 photosystem I reaction center,,1.0,3.0,
