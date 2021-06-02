@@ -1,0 +1,14 @@
+GO term,Day 0 bac,Day 2 bac,Day 5 bac,Day 12 bac
+GO:0055085 transmembrane transport,18,30,19,26
+GO:0005975 carbohydrate metabolic process,17,10,7,13
+"GO:0006355 regulation of transcription, DNA-templated",13,13,11,14
+GO:0032259 methylation,8,13,9,2
+GO:0006260 DNA replication,7,9,5,7
+GO:0015074 DNA integration,7,4,1,9
+GO:0006310 DNA recombination,6,1,6,9
+GO:0042026 protein refolding,5,6,4,5
+GO:0009408 response to heat,5,7,4,5
+GO:0006281 DNA repair,4,9,9,11
+GO:0007155 cell adhesion,4,2,4,1
+GO:0019538 protein metabolic process,4,5,3,5
+GO:0000160 phosphorelaytion signal transduction system,4,9,9,13

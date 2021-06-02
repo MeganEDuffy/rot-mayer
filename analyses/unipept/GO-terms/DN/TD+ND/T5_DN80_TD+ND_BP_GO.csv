@@ -1,0 +1,161 @@
+Peptides,GO-term,Name
+19,GO:0055085,transmembrane transport
+11,GO:0006355,"regulation of transcription, DNA-templated"
+9,GO:0006281,DNA repair
+9,GO:0000160,phosphorelay signal transduction system
+9,GO:0032259,methylation
+8,GO:0045454,cell redox homeostasis
+7,GO:0005975,carbohydrate metabolic process
+6,GO:0006310,DNA recombination
+5,GO:0006260,DNA replication
+4,GO:0042026,protein refolding
+4,GO:0009408,response to heat
+4,GO:0006189,'de novo' IMP biosynthetic process
+4,GO:0006865,amino acid transport
+4,GO:0007155,cell adhesion
+3,GO:0006749,glutathione metabolic process
+3,GO:0019538,protein metabolic process
+3,GO:0009432,SOS response
+3,GO:0009117,nucleotide metabolic process
+3,GO:0016042,lipid catabolic process
+3,GO:0009058,biosynthetic process
+3,GO:0006396,RNA processing
+3,GO:0009089,lysine biosynthetic process via diaminopimelate
+3,GO:0006241,CTP biosynthetic process
+3,GO:0006228,UTP biosynthetic process
+3,GO:0006183,GTP biosynthetic process
+3,GO:0006412,translation
+3,GO:0045892,"negative regulation of transcription, DNA-templated"
+3,GO:0006304,DNA modification
+2,GO:0006935,chemotaxis
+2,GO:0007165,signal transduction
+2,GO:0000272,polysaccharide catabolic process
+2,GO:0071973,bacterial-type flagellum-dependent cell motility
+2,GO:0055114,oxidation-reduction process
+2,GO:0006605,protein targeting
+2,GO:0065002,intracellular protein transmembrane transport
+2,GO:0017038,protein import
+2,GO:0006542,glutamine biosynthetic process
+2,GO:0051301,cell division
+2,GO:0030001,metal ion transport
+2,GO:0042773,ATP synthesis coupled electron transport
+2,GO:0035999,tetrahydrofolate interconversion
+2,GO:0019877,diaminopimelate biosynthetic process
+2,GO:0006099,tricarboxylic acid cycle
+2,GO:0006979,response to oxidative stress
+2,GO:0006289,nucleotide-excision repair
+2,GO:0032784,"regulation of DNA-templated transcription, elongation"
+2,GO:0006438,valyl-tRNA aminoacylation
+2,GO:0031564,transcription antitermination
+2,GO:0009116,nucleoside metabolic process
+2,GO:0006353,"DNA-templated transcription, termination"
+2,GO:0008152,metabolic process
+2,GO:0006261,DNA-dependent DNA replication
+2,GO:0006457,protein folding
+2,GO:0046677,response to antibiotic
+2,GO:0017004,cytochrome complex assembly
+2,GO:0015628,protein secretion by the type II secretion system
+2,GO:0046416,D-amino acid metabolic process
+2,GO:0006629,lipid metabolic process
+2,GO:0006535,cysteine biosynthetic process from serine
+2,GO:0035556,intracellular signal transduction
+2,GO:0009190,cyclic nucleotide biosynthetic process
+2,GO:0006633,fatty acid biosynthetic process
+2,GO:0008643,carbohydrate transport
+2,GO:0006541,glutamine metabolic process
+2,GO:0009306,protein secretion
+2,GO:0006811,ion transport
+2,GO:0001522,pseudouridine synthesis
+2,GO:0006352,"DNA-templated transcription, initiation"
+1,GO:0009312,oligosaccharide biosynthetic process
+1,GO:0009877,nodulation
+1,GO:0042254,ribosome biogenesis
+1,GO:0070475,rRNA base methylation
+1,GO:0008360,regulation of cell shape
+1,GO:0006207,'de novo' pyrimidine nucleobase biosynthetic process
+1,GO:0044205,'de novo' UMP biosynthetic process
+1,GO:0009307,DNA restriction-modification system
+1,GO:0006526,arginine biosynthetic process
+1,GO:0015969,guanosine tetraphosphate metabolic process
+1,GO:0015074,DNA integration
+1,GO:0006631,fatty acid metabolic process
+1,GO:0015986,ATP synthesis coupled proton transport
+1,GO:0007049,cell cycle
+1,GO:0006013,mannose metabolic process
+1,GO:0006265,DNA topological change
+1,GO:0006402,mRNA catabolic process
+1,GO:0002949,tRNA threonylcarbamoyladenosine modification
+1,GO:0006007,glucose catabolic process
+1,GO:0006096,glycolytic process
+1,GO:0046944,protein carbamoylation
+1,GO:0071705,nitrogen compound transport
+1,GO:0070329,tRNA seleno-modification
+1,GO:0006354,"DNA-templated transcription, elongation"
+1,GO:0009103,lipopolysaccharide biosynthetic process
+1,GO:0033468,CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process
+1,GO:0006306,DNA methylation
+1,GO:0006807,nitrogen compound metabolic process
+1,GO:0006808,regulation of nitrogen utilization
+1,GO:0006401,RNA catabolic process
+1,GO:0009691,cytokinin biosynthetic process
+1,GO:0033567,"DNA replication, Okazaki fragment processing"
+1,GO:0006464,cellular protein modification process
+1,GO:0006418,tRNA aminoacylation for protein translation
+1,GO:0015753,D-xylose transmembrane transport
+1,GO:0006529,asparagine biosynthetic process
+1,GO:0055072,iron ion homeostasis
+1,GO:0006177,GMP biosynthetic process
+1,GO:0006571,tyrosine biosynthetic process
+1,GO:0042752,regulation of circadian rhythm
+1,GO:0009073,aromatic amino acid family biosynthetic process
+1,GO:0009423,chorismate biosynthetic process
+1,GO:0006725,cellular aromatic compound metabolic process
+1,GO:0019619,"3,4-dihydroxybenzoate catabolic process"
+1,GO:0045893,"positive regulation of transcription, DNA-templated"
+1,GO:0070395,lipoteichoic acid biosynthetic process
+1,GO:0006351,"transcription, DNA-templated"
+1,GO:0043165,Gram-negative-bacterium-type cell outer membrane assembly
+1,GO:0006596,polyamine biosynthetic process
+1,GO:0042823,pyridoxal phosphate biosynthetic process
+1,GO:0008615,pyridoxine biosynthetic process
+1,GO:0006097,glyoxylate cycle
+1,GO:0006082,organic acid metabolic process
+1,GO:0006085,acetyl-CoA biosynthetic process
+1,GO:0006564,L-serine biosynthetic process
+1,GO:0044038,cell wall macromolecule biosynthetic process
+1,GO:0006400,tRNA modification
+1,GO:0018339,peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid
+1,GO:0071722,detoxification of arsenic-containing substance
+1,GO:0000302,response to reactive oxygen species
+1,GO:0006431,methionyl-tRNA aminoacylation
+1,GO:0009244,lipopolysaccharide core region biosynthetic process
+1,GO:0009405,pathogenesis
+1,GO:0016114,terpenoid biosynthetic process
+1,GO:0019288,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway"
+1,GO:0000820,regulation of glutamine family amino acid metabolic process
+1,GO:1901137,carbohydrate derivative biosynthetic process
+1,GO:0019629,"propionate catabolic process, 2-methylcitrate cycle"
+1,GO:0006119,oxidative phosphorylation
+1,GO:0009236,cobalamin biosynthetic process
+1,GO:0009146,purine nucleoside triphosphate catabolic process
+1,GO:0006094,gluconeogenesis
+1,GO:0006090,pyruvate metabolic process
+1,GO:0019557,histidine catabolic process to glutamate and formate
+1,GO:0019556,histidine catabolic process to glutamate and formamide
+1,GO:0071897,DNA biosynthetic process
+1,GO:0000105,histidine biosynthetic process
+1,GO:0006071,glycerol metabolic process
+1,GO:0043419,urea catabolic process
+1,GO:0042558,pteridine-containing compound metabolic process
+1,GO:0006555,methionine metabolic process
+1,GO:0019752,carboxylic acid metabolic process
+1,GO:0009772,photosynthetic electron transport in photosystem II
+1,GO:0009635,response to herbicide
+1,GO:0018298,protein-chromophore linkage
+1,GO:0006284,base-excision repair
+1,GO:0009098,leucine biosynthetic process
+1,GO:0006168,adenine salvage
+1,GO:0006166,purine ribonucleoside salvage
+1,GO:0044209,AMP salvage
+1,GO:0009056,catabolic process
+1,GO:0015734,taurine transport
