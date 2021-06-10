@@ -1,0 +1,1555 @@
+Peptides,GO-term,Name
+117982,GO:0016021,integral component of membrane
+53696,GO:0005737,cytoplasm
+29347,GO:0005634,nucleus
+14860,GO:0005886,plasma membrane
+9026,GO:0005829,cytosol
+6454,GO:0005623,cell
+6194,GO:0016020,membrane
+5314,GO:0005739,mitochondrion
+3652,GO:0005840,ribosome
+2910,GO:0005783,endoplasmic reticulum
+2908,GO:0005730,nucleolus
+2807,GO:0009279,cell outer membrane
+2560,GO:0005576,extracellular region
+2340,GO:0005794,Golgi apparatus
+2323,GO:0009507,chloroplast
+2078,GO:0005887,integral component of plasma membrane
+1717,GO:0005615,extracellular space
+1595,GO:0019898,extrinsic component of membrane
+1571,GO:0005789,endoplasmic reticulum membrane
+1526,GO:0005874,microtubule
+1525,GO:0005694,chromosome
+1501,GO:0000139,Golgi membrane
+1331,GO:0043190,ATP-binding cassette (ABC) transporter complex
+1306,GO:0030286,dynein complex
+1120,GO:0009535,chloroplast thylakoid membrane
+1072,GO:0032040,small-subunit processome
+1037,GO:0005654,nucleoplasm
+1033,GO:0005743,mitochondrial inner membrane
+1023,GO:0016459,myosin complex
+1000,GO:0071013,catalytic step 2 spliceosome
+993,GO:0005813,centrosome
+975,GO:0000790,nuclear chromatin
+971,GO:0005643,nuclear pore
+797,GO:0000307,cyclin-dependent protein kinase holoenzyme complex
+751,GO:0030176,integral component of endoplasmic reticulum membrane
+743,GO:0005871,kinesin complex
+682,GO:0005759,mitochondrial matrix
+648,GO:0000145,exocyst
+647,GO:0000785,chromatin
+630,GO:0042597,periplasmic space
+608,GO:0005681,spliceosomal complex
+602,GO:0005856,cytoskeleton
+573,GO:0030173,integral component of Golgi membrane
+572,GO:0000151,ubiquitin ligase complex
+571,GO:0015934,large ribosomal subunit
+567,GO:0043231,intracellular membrane-bounded organelle
+550,GO:0015935,small ribosomal subunit
+539,GO:1990904,ribonucleoprotein complex
+532,GO:0005768,endosome
+519,GO:0071203,WASH complex
+517,GO:0005777,peroxisome
+502,GO:0019867,outer membrane
+495,GO:0032300,mismatch repair complex
+485,GO:0046540,U4/U6 x U5 tri-snRNP complex
+482,GO:0012505,endomembrane system
+481,GO:0030687,"preribosome, large subunit precursor"
+474,GO:0005682,U5 snRNP
+466,GO:0009380,excinuclease repair complex
+461,GO:0019031,viral envelope
+458,GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)"
+458,GO:0022625,cytosolic large ribosomal subunit
+448,GO:0055036,virion membrane
+441,GO:0009536,plastid
+435,GO:0000124,SAGA complex
+434,GO:1990077,primosome complex
+432,GO:0035267,NuA4 histone acetyltransferase complex
+428,GO:0000922,spindle pole
+410,GO:0031931,TORC1 complex
+410,GO:0000784,"nuclear chromosome, telomeric region"
+407,GO:0030126,COPI vesicle coat
+406,GO:0005930,axoneme
+401,GO:0000932,P-body
+396,GO:0005774,vacuolar membrane
+390,GO:0005839,proteasome core complex
+376,GO:0005852,eukaryotic translation initiation factor 3 complex
+374,GO:0042555,MCM complex
+374,GO:0005618,cell wall
+370,GO:0005680,anaphase-promoting complex
+362,GO:0030288,outer membrane-bounded periplasmic space
+359,GO:0035861,site of double-strand break
+345,GO:0000407,phagophore assembly site
+344,GO:0017119,Golgi transport complex
+343,GO:0019028,viral capsid
+343,GO:0005666,RNA polymerase III complex
+343,GO:0031932,TORC2 complex
+335,GO:0036157,outer dynein arm
+329,GO:0031201,SNARE complex
+327,GO:0005635,nuclear envelope
+322,GO:0071014,post-mRNA release spliceosomal complex
+313,GO:0031305,integral component of mitochondrial inner membrane
+312,GO:0000228,nuclear chromosome
+312,GO:0000118,histone deacetylase complex
+310,GO:0022627,cytosolic small ribosomal subunit
+304,GO:0009360,DNA polymerase III complex
+304,GO:0042025,host cell nucleus
+302,GO:0071004,U2-type prespliceosome
+301,GO:0005764,lysosome
+300,GO:0000775,"chromosome, centromeric region"
+297,GO:0005669,transcription factor TFIID complex
+295,GO:0005868,cytoplasmic dynein complex
+287,GO:0000123,histone acetyltransferase complex
+286,GO:0030131,clathrin adaptor complex
+284,GO:0008540,"proteasome regulatory particle, base subcomplex"
+282,GO:0032153,cell division site
+280,GO:0000776,kinetochore
+279,GO:0009331,glycerol-3-phosphate dehydrogenase complex
+276,GO:0005802,trans-Golgi network
+275,GO:0005938,cell cortex
+274,GO:0030127,COPII vesicle coat
+270,GO:0000502,proteasome complex
+268,GO:0005814,centriole
+266,GO:0020002,host cell plasma membrane
+264,GO:0033290,eukaryotic 48S preinitiation complex
+264,GO:0000178,exosome (RNase complex)
+263,GO:0005832,chaperonin-containing T-complex
+262,GO:0031514,motile cilium
+260,GO:0000176,nuclear exosome (RNase complex)
+260,GO:0005665,"RNA polymerase II, core complex"
+256,GO:0005685,U1 snRNP
+255,GO:0005686,U2 snRNP
+255,GO:0005881,cytoplasmic microtubule
+254,GO:0070469,respirasome
+251,GO:0010494,cytoplasmic stress granule
+250,GO:0000938,GARP complex
+247,GO:0016282,eukaryotic 43S preinitiation complex
+246,GO:0034388,Pwp2p-containing subcomplex of 90S preribosome
+246,GO:0031461,cullin-RING ubiquitin ligase complex
+239,GO:0016592,mediator complex
+238,GO:0005736,RNA polymerase I complex
+235,GO:0030430,host cell cytoplasm
+235,GO:0030897,HOPS complex
+234,GO:0031298,replication fork protection complex
+234,GO:0005770,late endosome
+229,GO:0005762,mitochondrial large ribosomal subunit
+228,GO:0030686,90S preribosome
+227,GO:0030915,Smc5-Smc6 complex
+227,GO:0000786,nucleosome
+226,GO:0005929,cilium
+224,GO:0033588,Elongator holoenzyme complex
+223,GO:0030688,"preribosome, small subunit precursor"
+221,GO:0005741,mitochondrial outer membrane
+219,GO:0031499,TRAMP complex
+218,GO:0071011,precatalytic spliceosome
+215,GO:0048188,Set1C/COMPASS complex
+213,GO:0016593,Cdc73/Paf1 complex
+212,GO:0019773,"proteasome core complex, alpha-subunit complex"
+211,GO:0005788,endoplasmic reticulum lumen
+211,GO:0034098,VCP-NPL4-UFD1 AAA ATPase complex
+209,GO:0000799,nuclear condensin complex
+208,GO:0036064,ciliary basal body
+204,GO:0009570,chloroplast stroma
+204,GO:0031080,nuclear pore outer ring
+202,GO:0005663,DNA replication factor C complex
+200,GO:0008622,epsilon DNA polymerase complex
+199,GO:0032039,integrator complex
+197,GO:0030870,Mre11 complex
+195,GO:0009986,cell surface
+193,GO:0009341,beta-galactosidase complex
+192,GO:0033644,host cell membrane
+192,GO:0008278,cohesin complex
+191,GO:0016607,nuclear speck
+189,GO:0019005,SCF ubiquitin ligase complex
+188,GO:0034663,endoplasmic reticulum chaperone complex
+187,GO:0030992,intraciliary transport particle B
+185,GO:0005811,lipid droplet
+183,GO:0055087,Ski complex
+183,GO:0034272,"phosphatidylinositol 3-kinase complex, class III, type II"
+182,GO:0034271,"phosphatidylinositol 3-kinase complex, class III, type I"
+182,GO:0071007,U2-type catalytic step 2 spliceosome
+182,GO:0005675,transcription factor TFIIH holo complex
+181,GO:0008180,COP9 signalosome
+181,GO:0000974,Prp19 complex
+181,GO:0000445,THO complex part of transcription export complex
+178,GO:0000781,"chromosome, telomeric region"
+176,GO:0010008,endosome membrane
+175,GO:0000110,nucleotide-excision repair factor 1 complex
+174,GO:0005952,cAMP-dependent protein kinase complex
+174,GO:0043291,RAVE complex
+173,GO:0031380,nuclear RNA-directed RNA polymerase complex
+172,GO:0005956,protein kinase CK2 complex
+171,GO:0000177,cytoplasmic exosome (RNase complex)
+171,GO:0005795,Golgi stack
+171,GO:0048471,perinuclear region of cytoplasm
+171,GO:0005657,replication fork
+169,GO:0030014,CCR4-NOT complex
+167,GO:0031965,nuclear membrane
+167,GO:0005793,endoplasmic reticulum-Golgi intermediate compartment
+166,GO:0000793,condensed chromosome
+166,GO:0005765,lysosomal membrane
+163,GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)"
+163,GO:0000779,"condensed chromosome, centromeric region"
+162,GO:0005815,microtubule organizing center
+162,GO:0000778,condensed nuclear chromosome kinetochore
+161,GO:0005801,cis-Golgi network
+161,GO:0005847,mRNA cleavage and polyadenylation specificity factor complex
+161,GO:0043596,nuclear replication fork
+159,GO:0005769,early endosome
+157,GO:0042651,thylakoid membrane
+157,GO:0009318,exodeoxyribonuclease VII complex
+157,GO:0031011,Ino80 complex
+157,GO:0005667,transcription factor complex
+156,GO:0032580,Golgi cisterna membrane
+156,GO:0005658,alpha DNA polymerase:primase complex
+155,GO:0045202,synapse
+155,GO:0030054,cell junction
+153,GO:0005763,mitochondrial small ribosomal subunit
+153,GO:0005778,peroxisomal membrane
+152,GO:0015627,type II protein secretion system complex
+151,GO:0005891,voltage-gated calcium channel complex
+151,GO:0070209,ASTRA complex
+150,GO:0000839,Hrd1p ubiquitin ligase ERAD-L complex
+150,GO:0005779,integral component of peroxisomal membrane
+148,GO:0000159,protein phosphatase type 2A complex
+148,GO:0005786,"signal recognition particle, endoplasmic reticulum targeting"
+147,GO:0032991,protein-containing complex
+146,GO:0019012,virion
+146,GO:0035101,FACT complex
+144,GO:0005851,eukaryotic translation initiation factor 2B complex
+143,GO:0009707,chloroplast outer membrane
+143,GO:0090694,Scc2-Scc4 cohesin loading complex
+142,GO:0000439,transcription factor TFIIH core complex
+139,GO:0070545,PeBoW complex
+138,GO:0031436,BRCA1-BARD1 complex
+137,GO:0043527,tRNA methyltransferase complex
+137,GO:0005747,mitochondrial respiratory chain complex I
+136,GO:0070772,PAS complex
+136,GO:0030015,CCR4-NOT core complex
+136,GO:0009898,cytoplasmic side of plasma membrane
+136,GO:0070531,BRCA1-A complex
+135,GO:0030132,clathrin coat of coated pit
+135,GO:0030130,clathrin coat of trans-Golgi network vesicle
+135,GO:0012507,ER to Golgi transport vesicle membrane
+135,GO:0036020,endolysosome membrane
+134,GO:0008541,"proteasome regulatory particle, lid subcomplex"
+133,GO:0030123,AP-3 adaptor complex
+132,GO:0009425,bacterial-type flagellum basal body
+132,GO:0000930,gamma-tubulin complex
+131,GO:0032587,ruffle membrane
+130,GO:0009317,acetyl-CoA carboxylase complex
+130,GO:1990745,EARP complex
+129,GO:0030134,COPII-coated ER to Golgi transport vesicle
+128,GO:0008076,voltage-gated potassium channel complex
+128,GO:0048500,signal recognition particle
+128,GO:0000796,condensin complex
+128,GO:0031428,box C/D snoRNP complex
+128,GO:0071944,cell periphery
+128,GO:0097361,CIA complex
+127,GO:0008023,transcription elongation factor complex
+127,GO:0042765,GPI-anchor transamidase complex
+126,GO:0035327,transcriptionally active chromatin
+126,GO:0072546,ER membrane protein complex
+125,GO:0031464,Cul4A-RING E3 ubiquitin ligase complex
+124,GO:0009358,polyphosphate kinase complex
+123,GO:0071439,clathrin complex
+123,GO:0016514,SWI/SNF complex
+122,GO:0080008,Cul4-RING E3 ubiquitin ligase complex
+122,GO:0071458,integral component of cytoplasmic side of endoplasmic reticulum membrane
+122,GO:0071556,integral component of lumenal side of endoplasmic reticulum membrane
+121,GO:0009424,bacterial-type flagellum hook
+120,GO:0030117,membrane coat
+119,GO:0005869,dynactin complex
+119,GO:0017101,aminoacyl-tRNA synthetase multienzyme complex
+118,GO:0005844,polysome
+117,GO:0071339,MLL1 complex
+117,GO:0009941,chloroplast envelope
+117,GO:0043625,delta DNA polymerase complex
+117,GO:0005689,U12-type spliceosomal complex
+117,GO:0000306,extrinsic component of vacuolar membrane
+115,GO:0009523,photosystem II
+115,GO:0034399,nuclear periphery
+115,GO:0045252,oxoglutarate dehydrogenase complex
+113,GO:0019013,viral nucleocapsid
+112,GO:0009522,photosystem I
+112,GO:0034515,proteasome storage granule
+111,GO:0000015,phosphopyruvate hydratase complex
+111,GO:0031902,late endosome membrane
+110,GO:0034456,UTP-C complex
+110,GO:0033186,CAF-1 complex
+109,GO:0032545,CURI complex
+108,GO:0009654,photosystem II oxygen evolving complex
+108,GO:0031415,NatA complex
+108,GO:0030428,cell septum
+107,GO:0009376,HslUV protease complex
+107,GO:0055037,recycling endosome
+105,GO:0044175,host cell endosome membrane
+105,GO:0016281,eukaryotic translation initiation factor 4F complex
+104,GO:0070971,endoplasmic reticulum exit site
+103,GO:0033179,"proton-transporting V-type ATPase, V0 domain"
+103,GO:0009295,nucleoid
+103,GO:0043564,Ku70:Ku80 complex
+103,GO:0071561,nucleus-vacuole junction
+103,GO:0016035,zeta DNA polymerase complex
+103,GO:0097344,Rix1 complex
+102,GO:0005732,small nucleolar ribonucleoprotein complex
+101,GO:0000347,THO complex
+101,GO:0033180,"proton-transporting V-type ATPase, V1 domain"
+101,GO:0019008,molybdopterin synthase complex
+101,GO:0034066,RIC1-RGP1 guanyl-nucleotide exchange factor complex
+100,GO:1990112,RQC complex
+100,GO:0005968,Rab-protein geranylgeranyltransferase complex
+100,GO:0005684,U2-type spliceosomal complex
+100,GO:0000812,Swr1 complex
+100,GO:0000923,equatorial microtubule organizing center
+100,GO:0001518,voltage-gated sodium channel complex
+100,GO:0072380,TRC complex
+99,GO:0043186,P granule
+98,GO:0044611,nuclear pore inner ring
+97,GO:0005845,mRNA cap binding complex
+96,GO:0043240,Fanconi anaemia nuclear complex
+96,GO:0045211,postsynaptic membrane
+96,GO:0030660,Golgi-associated vesicle membrane
+95,GO:0030956,glutamyl-tRNA(Gln) amidotransferase complex
+95,GO:0090575,RNA polymerase II transcription factor complex
+95,GO:0008275,gamma-tubulin small complex
+94,GO:0005819,spindle
+93,GO:0019897,extrinsic component of plasma membrane
+93,GO:0071541,"eukaryotic translation initiation factor 3 complex, eIF3m"
+92,GO:0097730,non-motile cilium
+92,GO:0005776,autophagosome
+92,GO:0032389,MutLalpha complex
+92,GO:0005971,ribonucleoside-diphosphate reductase complex
+91,GO:0035145,exon-exon junction complex
+91,GO:0031262,Ndc80 complex
+90,GO:0030896,checkpoint clamp complex
+89,GO:0044165,host cell endoplasmic reticulum
+89,GO:0008287,protein serine/threonine phosphatase complex
+88,GO:0009288,bacterial-type flagellum
+88,GO:0005581,collagen trimer
+88,GO:0000794,condensed nuclear chromosome
+88,GO:0015030,Cajal body
+88,GO:0036266,Cdc48p-Npl4p-Vms1p AAA ATPase complex
+87,GO:1990071,TRAPPII protein complex
+87,GO:0000136,"alpha-1,6-mannosyltransferase complex"
+86,GO:0005884,actin filament
+86,GO:0009706,chloroplast inner membrane
+86,GO:0035097,histone methyltransferase complex
+86,GO:0016442,RISC complex
+86,GO:0030904,retromer complex
+84,GO:0000148,"1,3-beta-D-glucan synthase complex"
+84,GO:0071540,"eukaryotic translation initiation factor 3 complex, eIF3e"
+84,GO:0044614,nuclear pore cytoplasmic filaments
+84,GO:0032299,ribonuclease H2 complex
+83,GO:0045239,tricarboxylic acid cycle enzyme complex
+83,GO:0031314,extrinsic component of mitochondrial inner membrane
+83,GO:0005858,axonemal dynein complex
+83,GO:0030122,AP-2 adaptor complex
+82,GO:0000329,fungal-type vacuole membrane
+82,GO:0072686,mitotic spindle
+82,GO:0005655,nucleolar ribonuclease P complex
+82,GO:0034457,Mpp10 complex
+82,GO:0031207,Sec62/Sec63 complex
+81,GO:0030008,TRAPP complex
+81,GO:0097550,transcriptional preinitiation complex
+80,GO:0005925,focal adhesion
+79,GO:1990130,GATOR1 complex
+78,GO:0005846,nuclear cap binding complex
+78,GO:0031416,NatB complex
+77,GO:0015629,actin cytoskeleton
+77,GO:0031390,Ctf18 RFC-like complex
+76,GO:0043614,multi-eIF complex
+75,GO:0000126,transcription factor TFIIIB complex
+75,GO:0043005,neuron projection
+75,GO:0015630,microtubule cytoskeleton
+74,GO:0009338,exodeoxyribonuclease V complex
+74,GO:0046695,SLIK (SAGA-like) complex
+74,GO:1990316,Atg1/ULK1 kinase complex
+74,GO:0070390,transcription export complex 2
+74,GO:0009330,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex"
+73,GO:0008305,integrin complex
+73,GO:0048476,Holliday junction resolvase complex
+72,GO:0016604,nuclear body
+72,GO:0005671,Ada2/Gcn5/Ada3 transcription activator complex
+71,GO:0031012,extracellular matrix
+71,GO:0016272,prefoldin complex
+71,GO:0031307,integral component of mitochondrial outer membrane
+70,GO:0005758,mitochondrial intermembrane space
+70,GO:0005744,TIM23 mitochondrial import inner membrane translocase complex
+70,GO:0005673,transcription factor TFIIE complex
+70,GO:0032301,MutSalpha complex
+69,GO:0048786,presynaptic active zone
+68,GO:0005960,glycine cleavage complex
+67,GO:0031226,intrinsic component of plasma membrane
+66,GO:0009421,bacterial-type flagellum filament cap
+66,GO:0009316,3-isopropylmalate dehydratase complex
+66,GO:0016363,nuclear matrix
+66,GO:0009328,phenylalanine-tRNA ligase complex
+64,GO:0071006,U2-type catalytic step 1 spliceosome
+63,GO:0005882,intermediate filament
+62,GO:0000408,EKC/KEOPS complex
+62,GO:0044220,host cell perinuclear region of cytoplasm
+62,GO:0035658,Mon1-Ccz1 complex
+62,GO:0042383,sarcolemma
+62,GO:0016471,vacuolar proton-transporting V-type ATPase complex
+62,GO:0030659,cytoplasmic vesicle membrane
+62,GO:0097255,R2TP complex
+62,GO:0000417,HIR complex
+62,GO:0034045,phagophore assembly site membrane
+61,GO:0044385,integral to membrane of host cell
+61,GO:0032044,DSIF complex
+60,GO:0016605,PML body
+60,GO:0000220,"vacuolar proton-transporting V-type ATPase, V0 domain"
+60,GO:0000172,ribonuclease MRP complex
+60,GO:0032777,Piccolo NuA4 histone acetyltransferase complex
+60,GO:0000221,"vacuolar proton-transporting V-type ATPase, V1 domain"
+60,GO:0031966,mitochondrial membrane
+60,GO:0005639,integral component of nuclear inner membrane
+60,GO:0061617,MICOS complex
+59,GO:0030906,"retromer, cargo-selective complex"
+59,GO:0031251,PAN complex
+59,GO:0030479,actin cortical patch
+59,GO:0005664,nuclear origin of replication recognition complex
+58,GO:0009420,bacterial-type flagellum filament
+58,GO:0009325,nitrate reductase complex
+58,GO:0000276,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)"
+57,GO:0033281,TAT protein transport complex
+57,GO:0045254,pyruvate dehydrogenase complex
+57,GO:0044162,host cell cytoplasmic vesicle membrane
+57,GO:0070847,core mediator complex
+57,GO:0034245,mitochondrial DNA-directed RNA polymerase complex
+56,GO:0000795,synaptonemal complex
+56,GO:0000814,ESCRT II complex
+55,GO:0046930,pore complex
+55,GO:0005850,eukaryotic translation initiation factor 2 complex
+55,GO:0005835,fatty acid synthase complex
+55,GO:0036038,MKS complex
+55,GO:0030121,AP-1 adaptor complex
+55,GO:0005674,transcription factor TFIIF complex
+55,GO:0097526,spliceosomal tri-snRNP complex
+54,GO:0031597,cytosolic proteasome complex
+53,GO:0005749,"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)"
+53,GO:0016589,NURF complex
+53,GO:0098793,presynapse
+53,GO:0030864,cortical actin cytoskeleton
+53,GO:0018444,translation release factor complex
+53,GO:0017087,mitochondrial processing peptidase complex
+52,GO:0005923,bicellular tight junction
+52,GO:0034993,meiotic nuclear membrane microtubule tethering complex
+52,GO:0000783,nuclear telomere cap complex
+51,GO:0005688,U6 snRNP
+51,GO:0031519,PcG protein complex
+51,GO:0039618,T=pseudo3 icosahedral viral capsid
+51,GO:0031417,NatC complex
+51,GO:0005687,U4 snRNP
+50,GO:0005662,DNA replication factor A complex
+50,GO:0005834,heterotrimeric G-protein complex
+49,GO:0009897,external side of plasma membrane
+49,GO:0005656,nuclear pre-replicative complex
+49,GO:0005750,mitochondrial respiratory chain complex III
+49,GO:0000813,ESCRT I complex
+49,GO:1990423,RZZ complex
+48,GO:0016235,aggresome
+48,GO:0005797,Golgi medial cisterna
+47,GO:0062023,collagen-containing extracellular matrix
+47,GO:0005773,vacuole
+47,GO:0016323,basolateral plasma membrane
+47,GO:0035869,ciliary transition zone
+47,GO:0030692,Noc4p-Nop14p complex
+46,GO:0031515,tRNA (m1A) methyltransferase complex
+46,GO:0005885,Arp2/3 protein complex
+46,GO:0001405,"PAM complex, Tim23 associated import motor"
+46,GO:0009431,"bacterial-type flagellum basal body, MS ring"
+46,GO:0031982,vesicle
+46,GO:0009506,plasmodesma
+46,GO:0031429,box H/ACA snoRNP complex
+46,GO:0009289,pilus
+46,GO:0033063,Rad51B-Rad51C-Rad51D-XRCC2 complex
+46,GO:0090730,Las1 complex
+46,GO:0000323,lytic vacuole
+45,GO:0009379,Holliday junction helicase complex
+45,GO:0034455,t-UTP complex
+45,GO:0032045,guanyl-nucleotide exchange factor complex
+45,GO:0005771,multivesicular body
+44,GO:0030018,Z disc
+44,GO:0033573,high-affinity iron permease complex
+44,GO:0070985,transcription factor TFIIK complex
+44,GO:0001650,fibrillar center
+44,GO:0000275,"mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)"
+44,GO:0000243,commitment complex
+43,GO:0014069,postsynaptic density
+43,GO:0098978,glutamatergic synapse
+43,GO:0043025,neuronal cell body
+43,GO:0005740,mitochondrial envelope
+43,GO:0044753,amphisome
+43,GO:0000111,nucleotide-excision repair factor 2 complex
+43,GO:0071942,XPC complex
+43,GO:0089701,U2AF
+42,GO:0001726,ruffle
+42,GO:0031595,nuclear proteasome complex
+42,GO:0009368,endopeptidase Clp complex
+42,GO:0005697,telomerase holoenzyme complex
+42,GO:0005712,chiasma
+41,GO:0030424,axon
+41,GO:0044613,nuclear pore central transport channel
+41,GO:0072357,PTW/PP1 phosphatase complex
+41,GO:0000811,GINS complex
+40,GO:0097546,ciliary base
+40,GO:0043235,receptor complex
+40,GO:0009274,peptidoglycan-based cell wall
+40,GO:0005787,signal peptidase complex
+40,GO:0005782,peroxisomal matrix
+40,GO:0019029,helical viral capsid
+39,GO:0030425,dendrite
+39,GO:0016324,apical plasma membrane
+39,GO:0001401,SAM complex
+39,GO:0031985,Golgi cisterna
+38,GO:0070069,cytochrome complex
+38,GO:0031410,cytoplasmic vesicle
+38,GO:0048046,apoplast
+38,GO:0000164,protein phosphatase type 1 complex
+38,GO:0070652,HAUS complex
+38,GO:0000109,nucleotide-excision repair complex
+37,GO:0030257,type III protein secretion system complex
+37,GO:0070860,RNA polymerase I core factor complex
+37,GO:0005911,cell-cell junction
+37,GO:0005953,CAAX-protein geranylgeranyltransferase complex
+36,GO:0072669,tRNA-splicing ligase complex
+36,GO:0005879,axonemal microtubule
+36,GO:0030496,midbody
+36,GO:0019033,viral tegument
+36,GO:0033178,"proton-transporting two-sector ATPase complex, catalytic domain"
+36,GO:0000112,nucleotide-excision repair factor 3 complex
+35,GO:0009579,thylakoid
+35,GO:0030136,clathrin-coated vesicle
+35,GO:0016586,RSC-type complex
+35,GO:0016939,kinesin II complex
+35,GO:0042643,"actomyosin, actin portion"
+35,GO:0030256,type I protein secretion system complex
+35,GO:0005967,mitochondrial pyruvate dehydrogenase complex
+35,GO:0016507,mitochondrial fatty acid beta-oxidation multienzyme complex
+34,GO:0009538,photosystem I reaction center
+34,GO:0071005,U2-type precatalytic spliceosome
+34,GO:0005912,adherens junction
+34,GO:0032432,actin filament bundle
+34,GO:0000421,autophagosome membrane
+34,GO:0005965,protein farnesyltransferase complex
+34,GO:0032797,SMN complex
+33,GO:0005876,spindle microtubule
+33,GO:0045025,mitochondrial degradosome
+33,GO:0030694,"bacterial-type flagellum basal body, rod"
+33,GO:0000138,Golgi trans cisterna
+33,GO:0000242,pericentriolar material
+33,GO:0033065,Rad51C-XRCC3 complex
+33,GO:0043529,GET complex
+32,GO:0008091,spectrin
+32,GO:0009349,riboflavin synthase complex
+32,GO:0005935,cellular bud neck
+32,GO:0005861,troponin complex
+32,GO:0005947,mitochondrial alpha-ketoglutarate dehydrogenase complex
+31,GO:0005668,RNA polymerase transcription factor SL1 complex
+31,GO:0030027,lamellipodium
+31,GO:0002189,ribose phosphate diphosphokinase complex
+31,GO:0000214,tRNA-intron endonuclease complex
+31,GO:0005784,Sec61 translocon complex
+30,GO:0031304,intrinsic component of mitochondrial inner membrane
+30,GO:1990131,Gtr1-Gtr2 GTPase complex
+30,GO:0072487,MSL complex
+30,GO:0051233,spindle midzone
+30,GO:1990726,Lsm1-7-Pat1 complex
+29,GO:0031225,anchored component of membrane
+29,GO:0034451,centriolar satellite
+29,GO:0045275,respiratory chain complex III
+28,GO:0005854,nascent polypeptide-associated complex
+28,GO:0042175,nuclear outer membrane-endoplasmic reticulum membrane network
+28,GO:0005838,proteasome regulatory particle
+28,GO:0044172,host cell endoplasmic reticulum-Golgi intermediate compartment
+28,GO:0034448,EGO complex
+27,GO:0042613,MHC class II protein complex
+27,GO:0043590,bacterial nucleoid
+27,GO:0034464,BBSome
+27,GO:0042645,mitochondrial nucleoid
+27,GO:0030663,COPI-coated vesicle membrane
+27,GO:0031234,extrinsic component of cytoplasmic side of plasma membrane
+27,GO:0035371,microtubule plus-end
+27,GO:0035098,ESC/E(Z) complex
+27,GO:0000815,ESCRT III complex
+26,GO:0045095,keratin filament
+26,GO:0031510,SUMO activating enzyme complex
+26,GO:0005604,basement membrane
+26,GO:0019774,"proteasome core complex, beta-subunit complex"
+26,GO:0042720,mitochondrial inner membrane peptidase complex
+26,GO:0035102,PRC1 complex
+25,GO:0009337,sulfite reductase complex (NADPH)
+25,GO:0042575,DNA polymerase complex
+25,GO:0005683,U7 snRNP
+25,GO:0097505,Rad6-Rad18 complex
+24,GO:0042788,polysomal ribosome
+24,GO:0032592,integral component of mitochondrial membrane
+24,GO:0045278,plasma membrane respiratory chain complex IV
+24,GO:0031391,Elg1 RFC-like complex
+24,GO:0044615,nuclear pore nuclear basket
+24,GO:0042709,succinate-CoA ligase complex
+24,GO:0030089,phycobilisome
+24,GO:0070822,Sin3-type complex
+23,GO:0009326,formate dehydrogenase complex
+23,GO:0017053,transcriptional repressor complex
+23,GO:0071563,Myo2p-Vac17p-Vac8p transport complex
+23,GO:0000808,origin recognition complex
+23,GO:0008021,synaptic vesicle
+23,GO:0030137,COPI-coated vesicle
+23,GO:0048269,methionine adenosyltransferase complex
+22,GO:0009539,photosystem II reaction center
+22,GO:0045121,membrane raft
+22,GO:0031422,RecQ family helicase-topoisomerase III complex
+22,GO:0030863,cortical cytoskeleton
+22,GO:0000346,transcription export complex
+21,GO:0071565,nBAF complex
+21,GO:0030139,endocytic vesicle
+21,GO:0033597,mitotic checkpoint complex
+21,GO:1990023,mitotic spindle midzone
+21,GO:0099738,cell cortex region
+21,GO:1990529,glycosylphosphatidylinositol-mannosyltransferase I complex
+20,GO:0044177,host cell Golgi apparatus
+20,GO:0005883,neurofilament
+20,GO:0031463,Cul3-RING ubiquitin ligase complex
+20,GO:0005828,kinetochore microtubule
+20,GO:0005742,mitochondrial outer membrane translocase complex
+20,GO:0031317,tripartite ATP-independent periplasmic transporter complex
+20,GO:0008024,cyclin/CDK positive transcription elongation factor complex
+20,GO:0005746,mitochondrial respirasome
+20,GO:0030125,clathrin vesicle coat
+20,GO:0034719,SMN-Sm protein complex
+20,GO:0038039,G protein-coupled receptor heterodimeric complex
+20,GO:1905202,methylcrotonoyl-CoA carboxylase complex
+19,GO:0030314,junctional membrane complex
+19,GO:0031361,integral component of thylakoid membrane
+19,GO:0005940,septin ring
+19,GO:0043332,mating projection tip
+19,GO:0031941,filamentous actin
+19,GO:0030175,filopodium
+19,GO:0042721,TIM22 mitochondrial import inner membrane insertion complex
+19,GO:0009276,Gram-negative-bacterium-type cell wall
+19,GO:0097539,ciliary transition fiber
+19,GO:0031235,intrinsic component of the cytoplasmic side of the plasma membrane
+19,GO:0031252,cell leading edge
+19,GO:0039624,viral outer capsid
+19,GO:0032993,protein-DNA complex
+19,GO:0005753,mitochondrial proton-transporting ATP synthase complex
+19,GO:0034715,pICln-Sm protein complex
+18,GO:0030677,ribonuclease P complex
+18,GO:0005934,cellular bud tip
+18,GO:0008290,F-actin capping protein complex
+18,GO:0005901,caveola
+18,GO:0034707,chloride channel complex
+18,GO:0042729,DASH complex
+18,GO:0045335,phagocytic vesicle
+18,GO:0044163,host cytoskeleton
+18,GO:0071821,FANCM-MHF complex
+18,GO:0005785,signal recognition particle receptor complex
+18,GO:0031588,nucleotide-activated protein kinase complex
+18,GO:0070449,elongin complex
+18,GO:0032302,MutSbeta complex
+17,GO:0000131,incipient cellular bud site
+17,GO:0000127,transcription factor TFIIIC complex
+17,GO:0009428,"bacterial-type flagellum basal body, distal rod, P ring"
+17,GO:0032133,chromosome passenger complex
+17,GO:0044853,plasma membrane raft
+17,GO:0071564,npBAF complex
+17,GO:0098794,postsynapse
+17,GO:0005849,mRNA cleavage factor complex
+17,GO:0044168,host cell rough endoplasmic reticulum
+17,GO:0005921,gap junction
+17,GO:0071818,BAT3 complex
+17,GO:0008623,CHRAC
+17,GO:0071986,Ragulator complex
+17,GO:0035859,Seh1-associated complex
+17,GO:0042719,mitochondrial intermembrane space protein transporter complex
+17,GO:0052718,tRNA-specific adenosine-34 deaminase complex
+17,GO:1990298,bub1-bub3 complex
+16,GO:0005902,microvillus
+16,GO:0098536,deuterosome
+16,GO:0036125,fatty acid beta-oxidation multienzyme complex
+16,GO:0031594,neuromuscular junction
+16,GO:0044196,host cell nucleolus
+16,GO:0005637,nuclear inner membrane
+16,GO:0032865,ERMES complex
+16,GO:0008537,proteasome activator complex
+16,GO:0036513,Derlin-1 retrotranslocation complex
+16,GO:0042406,extrinsic component of endoplasmic reticulum membrane
+16,GO:0031616,spindle pole centrosome
+15,GO:1902560,GMP reductase complex
+15,GO:0035253,ciliary rootlet
+15,GO:0030426,growth cone
+15,GO:0044666,MLL3/4 complex
+15,GO:0045111,intermediate filament cytoskeleton
+15,GO:0005760,gamma DNA polymerase complex
+15,GO:0043626,PCNA complex
+15,GO:0000780,"condensed nuclear chromosome, centromeric region"
+15,GO:0035339,SPOTS complex
+15,GO:0071204,histone pre-mRNA 3'end processing complex
+14,GO:0030077,plasma membrane light-harvesting complex
+14,GO:0032420,stereocilium
+14,GO:0000324,fungal-type vacuole
+14,GO:0035060,brahma complex
+14,GO:0005922,connexin complex
+14,GO:0044178,host cell Golgi membrane
+14,GO:0043684,type IV secretion system complex
+14,GO:0005853,eukaryotic translation elongation factor 1 complex
+14,GO:0016580,Sin3 complex
+14,GO:0033263,CORVET complex
+14,GO:0045171,intercellular bridge
+14,GO:0033106,cis-Golgi network membrane
+14,GO:0071162,CMG complex
+14,GO:1990604,IRE1-TRAF2-ASK1 complex
+14,GO:0046658,anchored component of plasma membrane
+14,GO:0000836,Hrd1p ubiquitin ligase complex
+14,GO:0032807,DNA ligase IV complex
+13,GO:0005903,brush border
+13,GO:0098685,Schaffer collateral - CA1 synapse
+13,GO:0005751,mitochondrial respiratory chain complex IV
+13,GO:0022626,cytosolic ribosome
+13,GO:0039615,T=1 icosahedral viral capsid
+13,GO:0009375,ferredoxin hydrogenase complex
+13,GO:0001725,stress fiber
+13,GO:0032154,cleavage furrow
+13,GO:0009534,chloroplast thylakoid
+13,GO:1990072,TRAPPIII protein complex
+13,GO:0000153,cytoplasmic ubiquitin ligase complex
+12,GO:0008250,oligosaccharyltransferase complex
+12,GO:0016529,sarcoplasmic reticulum
+12,GO:0005761,mitochondrial ribosome
+12,GO:0009346,citrate lyase complex
+12,GO:0005721,pericentric heterochromatin
+12,GO:0044164,host cell cytosol
+12,GO:0044173,host cell endoplasmic reticulum-Golgi intermediate compartment membrane
+12,GO:0070761,pre-snoRNP complex
+12,GO:0016612,molybdenum-iron nitrogenase complex
+12,GO:0005875,microtubule associated complex
+12,GO:0070274,RES complex
+12,GO:0034274,Atg12-Atg5-Atg16 complex
+12,GO:1990070,TRAPPI protein complex
+12,GO:0033176,proton-transporting V-type ATPase complex
+12,GO:1903600,glutaminase complex
+11,GO:0045177,apical part of cell
+11,GO:0031901,early endosome membrane
+11,GO:0032021,NELF complex
+11,GO:0033017,sarcoplasmic reticulum membrane
+11,GO:0045277,respiratory chain complex IV
+11,GO:0030964,NADH dehydrogenase complex
+11,GO:0035657,eRF1 methyltransferase complex
+11,GO:0031389,Rad17 RFC-like complex
+11,GO:0016581,NuRD complex
+11,GO:0016010,dystrophin-associated glycoprotein complex
+11,GO:0030991,intraciliary transport particle A
+11,GO:0033557,Slx1-Slx4 complex
+11,GO:0030017,sarcomere
+11,GO:0016328,lateral plasma membrane
+11,GO:0009427,"bacterial-type flagellum basal body, distal rod, L ring"
+11,GO:0009366,enterobactin synthetase complex
+11,GO:0071020,post-spliceosomal complex
+11,GO:0043541,UDP-N-acetylglucosamine transferase complex
+10,GO:0000444,MIS12/MIND type complex
+10,GO:0030289,protein phosphatase 4 complex
+10,GO:0012506,vesicle membrane
+10,GO:0001669,acrosomal vesicle
+10,GO:0036396,RNA N6-methyladenosine methyltransferase complex
+10,GO:0005672,transcription factor TFIIA complex
+10,GO:0009925,basal plasma membrane
+10,GO:0042995,cell projection
+10,GO:0032391,photoreceptor connecting cilium
+10,GO:0005816,spindle pole body
+10,GO:0071021,U2-type post-spliceosomal complex
+10,GO:0031213,RSF complex
+10,GO:0036126,sperm flagellum
+10,GO:0044297,cell body
+10,GO:0005905,clathrin-coated pit
+10,GO:0070522,ERCC4-ERCC1 complex
+10,GO:0034506,"chromosome, centromeric core domain"
+9,GO:0030133,transport vesicle
+9,GO:0030057,desmosome
+9,GO:0009339,glycolate oxidase complex
+9,GO:0031467,Cul7-RING ubiquitin ligase complex
+9,GO:0009505,plant-type cell wall
+9,GO:0031462,Cul2-RING ubiquitin ligase complex
+9,GO:0044233,mitochondria-associated endoplasmic reticulum membrane
+9,GO:0030141,secretory granule
+9,GO:0070062,extracellular exosome
+9,GO:0005964,phosphorylase kinase complex
+9,GO:0031618,nuclear pericentric heterochromatin
+9,GO:0031411,gas vesicle
+9,GO:0097047,DNA replication termination region
+9,GO:1990334,Bfa1-Bub2 complex
+9,GO:0070765,gamma-secretase complex
+9,GO:0043224,nuclear SCF ubiquitin ligase complex
+8,GO:0031527,filopodium membrane
+8,GO:0070776,MOZ/MORF histone acetyltransferase complex
+8,GO:0039625,viral inner capsid
+8,GO:0009501,amyloplast
+8,GO:0005890,sodium:potassium-exchanging ATPase complex
+8,GO:0001772,immunological synapse
+8,GO:0036464,cytoplasmic ribonucleoprotein granule
+8,GO:0030867,rough endoplasmic reticulum membrane
+8,GO:0097729,9+2 motile cilium
+8,GO:0039620,T=7 icosahedral viral capsid
+8,GO:0005640,nuclear outer membrane
+8,GO:0044192,host cell mitochondrial inner membrane
+8,GO:0045180,basal cortex
+8,GO:0001891,phagocytic cup
+8,GO:0008352,katanin complex
+8,GO:0009705,plant-type vacuole membrane
+8,GO:0042405,nuclear inclusion body
+8,GO:0031083,BLOC-1 complex
+8,GO:0120103,centriolar subdistal appendage
+8,GO:0044732,mitotic spindle pole body
+8,GO:0033650,host cell mitochondrion
+8,GO:0009524,phragmoplast
+8,GO:1904115,axon cytoplasm
+8,GO:0009521,photosystem
+7,GO:0030880,RNA polymerase complex
+7,GO:0098982,GABA-ergic synapse
+7,GO:0031258,lamellipodium membrane
+7,GO:0060170,ciliary membrane
+7,GO:0005700,polytene chromosome
+7,GO:0031105,septin complex
+7,GO:0044228,host cell surface
+7,GO:1990862,nuclear membrane complex Bqt3-Bqt4
+7,GO:0005720,nuclear heterochromatin
+7,GO:0055040,periplasmic flagellum
+7,GO:0001533,cornified envelope
+7,GO:0090543,Flemming body
+7,GO:0009426,"bacterial-type flagellum basal body, distal rod"
+7,GO:0034704,calcium channel complex
+7,GO:0043296,apical junction complex
+7,GO:0071797,LUBAC complex
+7,GO:0016591,"RNA polymerase II, holoenzyme"
+7,GO:0005944,"phosphatidylinositol 3-kinase complex, class IB"
+7,GO:0031430,M band
+7,GO:0030877,beta-catenin destruction complex
+7,GO:0005719,nuclear euchromatin
+7,GO:0034099,luminal surveillance complex
+7,GO:0030665,clathrin-coated vesicle membrane
+7,GO:0005880,nuclear microtubule
+7,GO:0032437,cuticular plate
+7,GO:0000818,nuclear MIS12/MIND complex
+7,GO:0016602,CCAAT-binding factor complex
+7,GO:0097373,MCM core complex
+7,GO:0033565,ESCRT-0 complex
+6,GO:0039616,T=2 icosahedral viral capsid
+6,GO:0005933,cellular bud
+6,GO:0099056,integral component of presynaptic membrane
+6,GO:0071782,endoplasmic reticulum tubular network
+6,GO:0032839,dendrite cytoplasm
+6,GO:0032588,trans-Golgi network membrane
+6,GO:0002080,acrosomal membrane
+6,GO:0097002,mitochondrial inner boundary membrane
+6,GO:0005798,Golgi-associated vesicle
+6,GO:0043204,perikaryon
+6,GO:0042644,chloroplast nucleoid
+6,GO:0031469,polyhedral organelle
+6,GO:0000800,lateral element
+6,GO:0033276,transcription factor TFTC complex
+6,GO:0030914,STAGA complex
+6,GO:0005652,nuclear lamina
+6,GO:0008274,gamma-tubulin ring complex
+6,GO:0009277,fungal-type cell wall
+6,GO:0090734,site of DNA damage
+6,GO:0044291,cell-cell contact zone
+6,GO:0043655,host extracellular space
+6,GO:0005577,fibrinogen complex
+6,GO:0031981,nuclear lumen
+6,GO:0090661,box H/ACA telomerase RNP complex
+6,GO:1990816,vacuole-mitochondrion membrane contact site
+6,GO:0042601,endospore-forming forespore
+6,GO:0000235,astral microtubule
+6,GO:0032783,super elongation complex
+6,GO:0097225,sperm midpiece
+6,GO:0031097,medial cortex
+6,GO:0030061,mitochondrial crista
+6,GO:0031969,chloroplast membrane
+6,GO:0097038,perinuclear endoplasmic reticulum
+6,GO:0017102,methionyl glutamyl tRNA synthetase complex
+6,GO:0000798,nuclear cohesin complex
+6,GO:0045169,fusome
+5,GO:0009512,cytochrome b6f complex
+5,GO:0090537,CERF complex
+5,GO:0070695,FHF complex
+5,GO:0001917,photoreceptor inner segment
+5,GO:0043209,myelin sheath
+5,GO:0032221,Rpd3S complex
+5,GO:0033698,Rpd3L complex
+5,GO:0016012,sarcoglycan complex
+5,GO:0000940,condensed chromosome outer kinetochore
+5,GO:0031526,brush border membrane
+5,GO:0097228,sperm principal piece
+5,GO:0031241,periplasmic side of cell outer membrane
+5,GO:0055038,recycling endosome membrane
+5,GO:0005745,m-AAA complex
+5,GO:0044599,AP-5 adaptor complex
+5,GO:0097542,ciliary tip
+5,GO:0070461,SAGA-type complex
+5,GO:0034361,very-low-density lipoprotein particle
+5,GO:0005610,laminin-5 complex
+5,GO:0019030,icosahedral viral capsid
+5,GO:0039617,T=3 icosahedral viral capsid
+5,GO:0019866,organelle inner membrane
+5,GO:0042600,egg chorion
+5,GO:0043034,costamere
+5,GO:0045281,succinate dehydrogenase complex
+5,GO:0001534,radial spoke
+5,GO:0005927,muscle tendon junction
+5,GO:0033162,melanosome membrane
+5,GO:0042734,presynaptic membrane
+5,GO:0031533,mRNA cap methyltransferase complex
+5,GO:0044354,macropinosome
+5,GO:0000837,Doa10p ubiquitin ligase complex
+5,GO:0005833,hemoglobin complex
+5,GO:0016342,catenin complex
+5,GO:0031160,spore wall
+5,GO:0097431,mitotic spindle pole
+5,GO:0000777,condensed chromosome kinetochore
+5,GO:0030532,small nuclear ribonucleoprotein complex
+5,GO:0005724,nuclear telomeric heterochromatin
+5,GO:0030895,apolipoprotein B mRNA editing enzyme complex
+5,GO:0098839,postsynaptic density membrane
+5,GO:0000935,division septum
+5,GO:0010287,plastoglobule
+5,GO:0009347,aspartate carbamoyltransferase complex
+5,GO:0035841,new growing cell tip
+5,GO:0030124,AP-4 adaptor complex
+5,GO:0033116,endoplasmic reticulum-Golgi intermediate compartment membrane
+5,GO:0001673,male germ cell nucleus
+5,GO:1990221,L-cysteine desulfurase complex
+5,GO:0043195,terminal bouton
+5,GO:0061496,half bridge of mitotic spindle pole body
+5,GO:0061497,inner plaque of mitotic spindle pole body
+5,GO:0071957,old mitotic spindle pole body
+5,GO:0001527,microfibril
+5,GO:0033185,dolichol-phosphate-mannose synthase complex
+4,GO:0001750,photoreceptor outer segment
+4,GO:0098797,plasma membrane protein complex
+4,GO:0033391,chromatoid body
+4,GO:0035686,sperm fibrous sheath
+4,GO:0032426,stereocilium tip
+4,GO:0002116,semaphorin receptor complex
+4,GO:0044754,autolysosome
+4,GO:0005579,membrane attack complex
+4,GO:0070824,SHREC complex
+4,GO:0036156,inner dynein arm
+4,GO:0032281,AMPA glutamate receptor complex
+4,GO:0005790,smooth endoplasmic reticulum
+4,GO:0000137,Golgi cis cisterna
+4,GO:0055052,"ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing"
+4,GO:0030907,MBF transcription complex
+4,GO:0014704,intercalated disc
+4,GO:0030140,trans-Golgi network transport vesicle
+4,GO:0020015,glycosome
+4,GO:0005865,striated muscle thin filament
+4,GO:0030016,myofibril
+4,GO:0030128,clathrin coat of endocytic vesicle
+4,GO:1990391,DNA repair complex
+4,GO:0042565,RNA nuclear export complex
+4,GO:0017122,protein N-acetylglucosaminyltransferase complex
+4,GO:0022623,proteasome-activating nucleotidase complex
+4,GO:0043197,dendritic spine
+4,GO:0099053,activating signal cointegrator 1 complex
+4,GO:0030894,replisome
+4,GO:0042825,TAP complex
+4,GO:0097014,ciliary plasm
+4,GO:0070382,exocytic vesicle
+4,GO:0005727,extrachromosomal circular DNA
+4,GO:0051285,cell cortex of cell tip
+4,GO:0043083,synaptic cleft
+4,GO:0030673,axolemma
+4,GO:0032541,cortical endoplasmic reticulum
+4,GO:0000325,plant-type vacuole
+4,GO:0005892,acetylcholine-gated channel complex
+4,GO:0010369,chromocenter
+4,GO:0036449,microtubule minus-end
+4,GO:0061673,mitotic spindle astral microtubule
+4,GO:0098025,"virus tail, baseplate"
+4,GO:0035840,old growing cell tip
+4,GO:0097433,dense body
+4,GO:0033596,TSC1-TSC2 complex
+4,GO:0099523,presynaptic cytosol
+4,GO:0043220,Schmidt-Lanterman incisure
+4,GO:0099055,integral component of postsynaptic membrane
+4,GO:0033553,rDNA heterochromatin
+4,GO:0032593,insulin-responsive compartment
+4,GO:0031617,NMS complex
+4,GO:0044284,mitochondrial crista junction
+4,GO:1990251,nuclear exosome focus
+4,GO:0031674,I band
+4,GO:0030056,hemidesmosome
+4,GO:0000792,heterochromatin
+4,GO:0097362,MCM8-MCM9 complex
+4,GO:1990621,ESCRT IV complex
+4,GO:0042470,melanosome
+4,GO:0009323,ribosomal-protein-alanine N-acetyltransferase complex
+4,GO:0045179,apical cortex
+4,GO:0061499,outer plaque of mitotic spindle pole body
+4,GO:0031021,interphase microtubule organizing center
+4,GO:0034693,U11/U12 snRNP
+3,GO:0032584,growth cone membrane
+3,GO:0044306,neuron projection terminus
+3,GO:0034751,aryl hydrocarbon receptor complex
+3,GO:0033268,node of Ranvier
+3,GO:0043189,H4/H2A histone acetyltransferase complex
+3,GO:0033551,monopolin complex
+3,GO:0005826,actomyosin contractile ring
+3,GO:0097470,ribbon synapse
+3,GO:0120134,proximal portion of axoneme
+3,GO:0097728,9+0 motile cilium
+3,GO:0098562,cytoplasmic side of membrane
+3,GO:0071008,U2-type post-mRNA release spliceosomal complex
+3,GO:0005827,polar microtubule
+3,GO:0016234,inclusion body
+3,GO:0097487,"multivesicular body, internal vesicle"
+3,GO:1990909,Wnt signalosome
+3,GO:0032473,cytoplasmic side of mitochondrial outer membrane
+3,GO:0070938,contractile ring
+3,GO:0043293,apoptosome
+3,GO:0030076,light-harvesting complex
+3,GO:0031209,SCAR complex
+3,GO:0060076,excitatory synapse
+3,GO:0034363,intermediate-density lipoprotein particle
+3,GO:0034362,low-density lipoprotein particle
+3,GO:0034359,mature chylomicron
+3,GO:0031253,cell projection membrane
+3,GO:0042564,NLS-dependent protein nuclear import complex
+3,GO:0044695,Dsc E3 ubiquitin ligase complex
+3,GO:0039619,T=4 icosahedral viral capsid
+3,GO:0012511,monolayer-surrounded lipid storage body
+3,GO:0033104,type VI protein secretion system complex
+3,GO:0033172,gas vesicle shell
+3,GO:0044174,host cell endosome
+3,GO:0014731,spectrin-associated cytoskeleton
+3,GO:0099020,perinuclear endoplasmic reticulum lumen
+3,GO:0099021,cortical endoplasmic reticulum lumen
+3,GO:0017146,NMDA selective glutamate receptor complex
+3,GO:0031227,intrinsic component of endoplasmic reticulum membrane
+3,GO:0035770,ribonucleoprotein granule
+3,GO:0032433,filopodium tip
+3,GO:0030115,S-layer
+3,GO:0061574,ASAP complex
+3,GO:0005915,zonula adherens
+3,GO:0000941,condensed nuclear chromosome inner kinetochore
+3,GO:0032983,kainate selective glutamate receptor complex
+3,GO:0009509,chromoplast
+3,GO:0043259,laminin-10 complex
+3,GO:0039626,viral intermediate capsid
+3,GO:0000328,fungal-type vacuole lumen
+3,GO:0061957,NVT complex
+3,GO:0097575,lateral cell cortex
+3,GO:0055028,cortical microtubule
+3,GO:0033593,BRCA2-MAGE-D1 complex
+3,GO:0044167,host cell endoplasmic reticulum membrane
+3,GO:0061700,GATOR2 complex
+3,GO:1990879,CST complex
+3,GO:0043198,dendritic shaft
+3,GO:1904423,dehydrodolichyl diphosphate synthase complex
+3,GO:0031357,integral component of chloroplast inner membrane
+3,GO:0031523,Myb complex
+3,GO:0033167,ARC complex
+3,GO:0035363,histone locus body
+3,GO:0070701,mucus layer
+3,GO:0009353,mitochondrial oxoglutarate dehydrogenase complex
+3,GO:0097135,cyclin E2-CDK2 complex
+3,GO:0098688,parallel fiber to Purkinje cell synapse
+3,GO:0033270,paranode region of axon
+3,GO:0061689,tricellular tight junction
+3,GO:0097418,neurofibrillary tangle
+3,GO:0098686,hippocampal mossy fiber to CA3 synapse
+3,GO:0036128,CatSper complex
+3,GO:0005628,prospore membrane
+3,GO:0097422,tubular endosome
+3,GO:0034998,oligosaccharyltransferase I complex
+3,GO:0044295,axonal growth cone
+3,GO:0097060,synaptic membrane
+3,GO:0005818,aster
+3,GO:0030874,nucleolar chromatin
+3,GO:0005791,rough endoplasmic reticulum
+3,GO:0097381,photoreceptor disc membrane
+3,GO:0005641,nuclear envelope lumen
+3,GO:0000144,cellular bud neck septin ring
+3,GO:0005955,calcineurin complex
+3,GO:0070187,shelterin complex
+2,GO:0090406,pollen tube
+2,GO:0031933,telomeric heterochromatin
+2,GO:0016027,inaD signaling complex
+2,GO:0030315,T-tubule
+2,GO:0005594,collagen type IX trimer
+2,GO:0043601,nuclear replisome
+2,GO:0033203,DNA helicase A complex
+2,GO:0005585,collagen type II trimer
+2,GO:0031511,Mis6-Sim4 complex
+2,GO:0061174,type I terminal bouton
+2,GO:0042571,"immunoglobulin complex, circulating"
+2,GO:1990393,3M complex
+2,GO:0090498,extrinsic component of Golgi membrane
+2,GO:0099400,caveola neck
+2,GO:0031084,BLOC-2 complex
+2,GO:0098898,dense core granule lumen
+2,GO:0035230,cytoneme
+2,GO:1990075,periciliary membrane compartment
+2,GO:0060091,kinocilium
+2,GO:0099061,integral component of postsynaptic density membrane
+2,GO:0005757,mitochondrial permeability transition pore complex
+2,GO:1990454,L-type voltage-gated calcium channel complex
+2,GO:0044219,host cell plasmodesma
+2,GO:1905754,ascospore-type prospore nucleus
+2,GO:0099060,integral component of postsynaptic specialization membrane
+2,GO:0090571,RNA polymerase II transcription repressor complex
+2,GO:0000262,mitochondrial chromosome
+2,GO:0005677,chromatin silencing complex
+2,GO:0032009,early phagosome
+2,GO:0039621,T=13 icosahedral viral capsid
+2,GO:0044166,host cell endoplasmic reticulum lumen
+2,GO:0033309,SBF transcription complex
+2,GO:0070557,PCNA-p21 complex
+2,GO:0099524,postsynaptic cytosol
+2,GO:0005951,carbamoyl-phosphate synthase complex
+2,GO:0000120,RNA polymerase I transcription factor complex
+2,GO:0005916,fascia adherens
+2,GO:0030135,coated vesicle
+2,GO:0043657,host cell
+2,GO:0120135,distal portion of axoneme
+2,GO:0000506,glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+2,GO:1990630,IRE1-RACK1-PP2A complex
+2,GO:0005614,interstitial matrix
+2,GO:0120095,vacuole-isolation membrane contact site
+2,GO:0061908,phagophore
+2,GO:0030427,site of polarized growth
+2,GO:0005896,interleukin-6 receptor complex
+2,GO:0005900,oncostatin-M receptor complex
+2,GO:0070110,ciliary neurotrophic factor receptor complex
+2,GO:0031359,integral component of chloroplast outer membrane
+2,GO:0140268,endoplasmic reticulum-plasma membrane contact site
+2,GO:0005754,"mitochondrial proton-transporting ATP synthase, catalytic core"
+2,GO:1904949,ATPase complex
+2,GO:1990730,VCP-NSFL1C complex
+2,GO:0031313,extrinsic component of endosome membrane
+2,GO:0070823,HDA1 complex
+2,GO:1990819,actin fusion focus
+2,GO:0032421,stereocilium bundle
+2,GO:0000427,plastid-encoded plastid RNA polymerase complex
+2,GO:0031301,integral component of organelle membrane
+2,GO:0031261,DNA replication preinitiation complex
+2,GO:0071819,DUBm complex
+2,GO:0042622,photoreceptor outer segment membrane
+2,GO:0097078,FAL1-SGD1 complex
+2,GO:0005705,polytene chromosome interband
+2,GO:0002102,podosome
+2,GO:0034991,nuclear meiotic cohesin complex
+2,GO:0000942,condensed nuclear chromosome outer kinetochore
+2,GO:0032591,dendritic spine membrane
+2,GO:1902377,nuclear rDNA heterochromatin
+2,GO:0070693,P-TEFb-cap methyltransferase complex
+2,GO:0035517,PR-DUB complex
+2,GO:0070692,CTDK-1 complex
+2,GO:0005606,laminin-1 complex
+2,GO:0035032,"phosphatidylinositol 3-kinase complex, class III"
+2,GO:0031362,anchored component of external side of plasma membrane
+2,GO:0017109,glutamate-cysteine ligase complex
+2,GO:0005642,annulate lamellae
+2,GO:0098890,extrinsic component of postsynaptic membrane
+2,GO:0002193,MAML1-RBP-Jkappa- ICN1 complex
+2,GO:0005942,phosphatidylinositol 3-kinase complex
+2,GO:0099070,static microtubule bundle
+2,GO:0071546,pi-body
+2,GO:1905720,cytoplasmic microtubule bundle
+2,GO:0033255,SAS acetyltransferase complex
+2,GO:0020016,ciliary pocket
+2,GO:0030875,rDNA protrusion
+2,GO:0000500,RNA polymerase I upstream activating factor complex
+2,GO:0120105,"actomyosin contractile ring, intermediate layer"
+2,GO:0097386,glial cell projection
+2,GO:0140007,KICSTOR complex
+2,GO:0020022,acidocalcisome
+2,GO:0097042,extrinsic component of fungal-type vacuolar membrane
+2,GO:0035189,Rb-E2F complex
+2,GO:0043679,axon terminus
+2,GO:0031224,intrinsic component of membrane
+2,GO:0071159,NF-kappaB complex
+2,GO:0016533,protein kinase 5 complex
+2,GO:0097342,ripoptosome
+2,GO:0070552,BRISC complex
+2,GO:1990861,Ubp3-Bre5 deubiquitination complex
+2,GO:0030055,cell-substrate junction
+2,GO:0043020,NADPH oxidase complex
+2,GO:0019814,immunoglobulin complex
+2,GO:0099189,postsynaptic spectrin-associated cytoskeleton
+2,GO:1990195,macrolide transmembrane transporter complex
+2,GO:0035649,Nrd1 complex
+2,GO:0020003,symbiont-containing vacuole
+2,GO:0031672,A band
+2,GO:0044156,host cell junction
+2,GO:0033010,paranodal junction
+2,GO:1990682,CSF1-CSF1R complex
+2,GO:0120115,Lsm2-8 complex
+2,GO:1990246,uniplex complex
+2,GO:0005584,collagen type I trimer
+2,GO:0002177,manchette
+2,GO:0032809,neuronal cell body membrane
+2,GO:0032590,dendrite membrane
+2,GO:0072563,endothelial microparticle
+2,GO:0008385,IkappaB kinase complex
+2,GO:0034703,cation channel complex
+2,GO:1990315,Mcs4 RR-MAPKKK complex
+2,GO:0045334,clathrin-coated endocytic vesicle
+2,GO:0042627,chylomicron
+2,GO:0097025,MPP7-DLG1-LIN7 complex
+2,GO:0016460,myosin II complex
+2,GO:0097513,myosin II filament
+2,GO:0070877,microprocessor complex
+2,GO:0044204,host cell nuclear matrix
+2,GO:0070867,mating projection tip membrane
+2,GO:0035748,myelin sheath abaxonal region
+2,GO:0051286,cell tip
+2,GO:0110001,toxin-antitoxin complex
+2,GO:0043219,lateral loop
+2,GO:1990385,meiotic spindle midzone
+2,GO:0140284,endoplasmic reticulum-endosome membrane contact site
+2,GO:0060053,neurofilament cytoskeleton
+2,GO:0098981,cholinergic synapse
+2,GO:0000797,condensin core heterodimer
+2,GO:0032449,CBM complex
+2,GO:0061176,type Ib terminal bouton
+2,GO:0042641,actomyosin
+2,GO:0034990,nuclear mitotic cohesin complex
+2,GO:0042382,paraspeckles
+2,GO:0099160,postsynaptic intermediate filament cytoskeleton
+2,GO:0030700,glycine reductase complex
+2,GO:0005638,lamin filament
+2,GO:0002199,zona pellucida receptor complex
+2,GO:0046581,intercellular canaliculus
+2,GO:0031977,thylakoid lumen
+2,GO:0039623,T=25 icosahedral viral capsid
+2,GO:0097209,epidermal lamellar body
+2,GO:0071683,sensory dendrite
+2,GO:0016461,unconventional myosin complex
+2,GO:1990429,peroxisomal importomer complex
+2,GO:0031090,organelle membrane
+2,GO:0097124,cyclin A2-CDK2 complex
+2,GO:0097123,cyclin A1-CDK2 complex
+2,GO:0097134,cyclin E1-CDK2 complex
+2,GO:0000806,Y chromosome
+2,GO:0000805,X chromosome
+2,GO:0098554,cytoplasmic side of endoplasmic reticulum membrane
+2,GO:0034366,spherical high-density lipoprotein particle
+2,GO:0020036,Maurer's cleft
+2,GO:0031088,platelet dense granule membrane
+2,GO:0044384,host outer membrane
+2,GO:0017054,negative cofactor 2 complex
+2,GO:0019185,snRNA-activating protein complex
+2,GO:0005969,serine-pyruvate aminotransferase complex
+2,GO:0044308,axonal spine
+1,GO:0098831,presynaptic active zone cytoplasmic component
+1,GO:0099025,anchored component of postsynaptic membrane
+1,GO:0044224,juxtaparanode region of axon
+1,GO:0030691,Noc2p-Noc3p complex
+1,GO:0035985,senescence-associated heterochromatin focus
+1,GO:0030990,intraciliary transport particle
+1,GO:0019907,cyclin-dependent protein kinase activating kinase holoenzyme complex
+1,GO:0044612,nuclear pore linkers
+1,GO:0000788,nuclear nucleosome
+1,GO:0001741,XY body
+1,GO:0099115,"chromosome, subtelomeric region"
+1,GO:0055120,striated muscle dense body
+1,GO:0030119,AP-type membrane coat adaptor complex
+1,GO:0010005,"cortical microtubule, transverse to long axis"
+1,GO:0044292,dendrite terminus
+1,GO:0042582,azurophil granule
+1,GO:0070820,tertiary granule
+1,GO:0045098,type III intermediate filament
+1,GO:0090651,apical cytoplasm
+1,GO:1990877,Lst4-Lst7 complex
+1,GO:0016914,follicle-stimulating hormone complex
+1,GO:0099243,extrinsic component of synaptic membrane
+1,GO:0099059,integral component of presynaptic active zone membrane
+1,GO:0098683,cochlear hair cell ribbon synapse
+1,GO:0030981,cortical microtubule cytoskeleton
+1,GO:1905721,mitotic spindle astral microtubule end
+1,GO:0020011,apicoplast
+1,GO:0032019,mitochondrial cloud
+1,GO:0019815,B cell receptor complex
+1,GO:0042101,T cell receptor complex
+1,GO:0000326,protein storage vacuole
+1,GO:0005943,"phosphatidylinositol 3-kinase complex, class IA"
+1,GO:0002178,palmitoyltransferase complex
+1,GO:0031228,intrinsic component of Golgi membrane
+1,GO:0036117,hyaluranon cable
+1,GO:0043202,lysosomal lumen
+1,GO:0072559,NLRP3 inflammasome complex
+1,GO:0071595,Nem1-Spo7 phosphatase complex
+1,GO:0046696,lipopolysaccharide receptor complex
+1,GO:0030287,cell wall-bounded periplasmic space
+1,GO:0034364,high-density lipoprotein particle
+1,GO:0061672,glutathione hydrolase complex
+1,GO:0036398,TCR signalosome
+1,GO:1903754,cortical microtubule plus-end
+1,GO:0098966,perisynaptic extracellular matrix
+1,GO:0030685,nucleolar preribosome
+1,GO:0097635,extrinsic component of autophagosome membrane
+1,GO:1902495,transmembrane transporter complex
+1,GO:0097197,tetraspanin-enriched microdomain
+1,GO:0042587,glycogen granule
+1,GO:0033254,vacuolar transporter chaperone complex
+1,GO:0044302,dentate gyrus mossy fiber
+1,GO:0031091,platelet alpha granule
+1,GO:0042612,MHC class I protein complex
+1,GO:0070648,formin-nucleated actin cable
+1,GO:0030892,mitotic cohesin complex
+1,GO:0099078,BORC complex
+1,GO:0001931,uropod
+1,GO:0090636,outer dense plaque of desmosome
+1,GO:0090637,inner dense plaque of desmosome
+1,GO:1990357,terminal web
+1,GO:0016590,ACF complex
+1,GO:0072687,meiotic spindle
+1,GO:0005822,inner plaque of spindle pole body
+1,GO:0005824,outer plaque of spindle pole body
+1,GO:0000928,"gamma-tubulin small complex, spindle pole body"
+1,GO:0097356,perinucleolar compartment
+1,GO:0098690,glycinergic synapse
+1,GO:0005607,laminin-2 complex
+1,GO:0043257,laminin-8 complex
+1,GO:0043256,laminin complex
+1,GO:1902636,kinociliary basal body
+1,GO:0045298,tubulin complex
+1,GO:0002144,cytosolic tRNA wobble base thiouridylase complex
+1,GO:0090726,cortical dynamic polarity patch
+1,GO:0045178,basal part of cell
+1,GO:0031904,endosome lumen
+1,GO:0032585,multivesicular body membrane
+1,GO:0033115,cyanelle thylakoid membrane
+1,GO:1990723,cytoplasmic periphery of the nuclear pore complex
+1,GO:0031395,bursicon neuropeptide hormone complex
+1,GO:0005726,perichromatin fibrils
+1,GO:0005608,laminin-3 complex
+1,GO:1990578,perinuclear endoplasmic reticulum membrane
+1,GO:0097165,nuclear stress granule
+1,GO:0030485,smooth muscle contractile fiber
+1,GO:0012510,trans-Golgi network transport vesicle membrane
+1,GO:0070381,endosome to plasma membrane transport vesicle
+1,GO:0009508,plastid chromosome
+1,GO:1903767,sweet taste receptor complex
+1,GO:0035997,rhabdomere microvillus membrane
+1,GO:0030667,secretory granule membrane
+1,GO:0016327,apicolateral plasma membrane
+1,GO:0034967,Set3 complex
+1,GO:1902716,cell cortex of growing cell tip
+1,GO:0032279,asymmetric synapse
+1,GO:0044214,spanning component of plasma membrane
+1,GO:0001739,sex chromatin
+1,GO:1902500,vacuolar HOPS complex
+1,GO:0043227,membrane-bounded organelle
+1,GO:0043194,axon initial segment
+1,GO:0099617,matrix side of mitochondrial inner membrane
+1,GO:0097733,photoreceptor cell cilium
+1,GO:0005587,collagen type IV trimer
+1,GO:0000939,condensed chromosome inner kinetochore
+1,GO:0000113,nucleotide-excision repair factor 4 complex
+1,GO:1990452,Parkin-FBXW7-Cul1 ubiquitin ligase complex
+1,GO:0031085,BLOC-3 complex
+1,GO:0097196,Shu complex
+1,GO:0030678,mitochondrial ribonuclease P complex
+1,GO:0071141,SMAD protein complex
+1,GO:1990111,spermatoproteasome complex
+1,GO:0097224,sperm connecting piece
+1,GO:0009513,etioplast
+1,GO:0009537,proplastid
+1,GO:1990622,CHOP-ATF3 complex
+1,GO:0035061,interchromatin granule
+1,GO:0000803,sex chromosome
+1,GO:0044095,host cell nucleoplasm
+1,GO:0044201,host cell nuclear inner membrane
+1,GO:0001674,female germ cell nucleus
+1,GO:0061702,inflammasome complex
+1,GO:0098993,anchored component of synaptic vesicle membrane
+1,GO:0045170,spectrosome
+1,GO:0030893,meiotic cohesin complex
+1,GO:0000802,transverse filament
+1,GO:0097504,Gemini of coiled bodies
+1,GO:0000331,contractile vacuole
+1,GO:0033018,sarcoplasmic reticulum lumen
+1,GO:0031528,microvillus membrane
+1,GO:0034686,integrin alphav-beta8 complex
+1,GO:0034685,integrin alphav-beta6 complex
+1,GO:0034684,integrin alphav-beta5 complex
+1,GO:0034683,integrin alphav-beta3 complex
+1,GO:0035867,alphav-beta3 integrin-IGF-1-IGF1R complex
+1,GO:0035868,alphav-beta3 integrin-HMGB1 complex
+1,GO:0014701,junctional sarcoplasmic reticulum membrane
+1,GO:0005917,nephrocyte diaphragm
+1,GO:0060187,cell pole
+1,GO:0032127,dense core granule membrane
+1,GO:0070732,spindle envelope
+1,GO:0033269,internode region of axon
+1,GO:0035792,host cell postsynaptic membrane
+1,GO:0070176,DRM complex
+1,GO:0031466,Cul5-RING ubiquitin ligase complex
+1,GO:0005899,insulin receptor complex
+1,GO:0032010,phagolysosome
+1,GO:0005950,anthranilate synthase complex
+1,GO:0035618,root hair
+1,GO:0097482,muscle cell postsynaptic specialization
+1,GO:1990005,granular vesicle
+1,GO:0033062,Rhp55-Rhp57 complex
+1,GO:0020030,infected host cell surface knob
+1,GO:0016528,sarcoplasm
+1,GO:0030478,actin cap
+1,GO:0045009,chitosome
+1,GO:0097512,cardiac myofibril
+1,GO:0044169,host cell rough endoplasmic reticulum membrane
+1,GO:0044155,host caveola
+1,GO:0033257,Bcl3/NF-kappaB2 complex
+1,GO:0044609,DBIRD complex
+1,GO:0043203,axon hillock
+1,GO:0070319,Golgi to plasma membrane transport vesicle
+1,GO:0032174,cellular bud neck septin collar
+1,GO:0034973,Sid2-Mob1 complex
+1,GO:0099699,integral component of synaptic membrane
+1,GO:0035749,myelin sheath adaxonal region
+1,GO:0032116,SMC loading complex
+1,GO:0005863,striated muscle myosin thick filament
+1,GO:0030684,preribosome
+1,GO:0001652,granular component
+1,GO:1904564,Nbp35-Cfd1 ATPase complex
+1,GO:0097149,centralspindlin complex
+1,GO:1990635,proximal dendrite
+1,GO:0034718,SMN-Gemin2 complex
+1,GO:0016222,procollagen-proline 4-dioxygenase complex
+1,GO:0042646,plastid nucleoid
+1,GO:0097129,cyclin D2-CDK4 complex
+1,GO:0043073,germ cell nucleus
+1,GO:0005703,polytene chromosome puff
+1,GO:0097229,sperm end piece
+1,GO:0098871,postsynaptic actin cytoskeleton
+1,GO:1990761,growth cone lamellipodium
+1,GO:0044326,dendritic spine neck
+1,GO:0030670,phagocytic vesicle membrane
+1,GO:0035805,egg coat
+1,GO:0070939,Dsl1/NZR complex
+1,GO:0030658,transport vesicle membrane
+1,GO:0009532,plastid stroma
+1,GO:0032998,Fc-epsilon receptor I complex
+1,GO:0009528,plastid inner membrane
+1,GO:0031972,chloroplast intermembrane space
+1,GO:0044697,HICS complex
+1,GO:0000142,cellular bud neck contractile ring
+1,GO:0035974,meiotic spindle pole body
+1,GO:0062157,mitochondrial ATP-gated potassium channel complex
+1,GO:0061671,Cbp3p-Cbp6 complex
+1,GO:0034673,inhibin-betaglycan-ActRII complex
+1,GO:0098845,postsynaptic endosome
+1,GO:0061927,TOC-TIC supercomplex I
+1,GO:0009531,secondary cell wall
+1,GO:0032126,eisosome
+1,GO:0045172,germline ring canal
+1,GO:0009543,chloroplast thylakoid lumen
+1,GO:0036406,anchored component of periplasmic side of cell outer membrane
+1,GO:0033165,interphotoreceptor matrix
+1,GO:1990907,beta-catenin-TCF complex
+1,GO:0070032,synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex
+1,GO:0031934,mating-type region heterochromatin
+1,GO:1990707,nuclear subtelomeric heterochromatin
+1,GO:0062130,adhesive extracellular matrix
+1,GO:0045120,pronucleus
+1,GO:0031257,cell trailing edge membrane
+1,GO:0002081,outer acrosomal membrane
+1,GO:0002079,inner acrosomal membrane
+1,GO:0097452,GAIT complex
+1,GO:0070937,CRD-mediated mRNA stability complex
+1,GO:1990124,messenger ribonucleoprotein complex
+1,GO:0071598,neuronal ribonucleoprotein granule
+1,GO:0031045,dense core granule
+1,GO:0036186,early phagosome membrane
+1,GO:0061474,phagolysosome membrane
+1,GO:0039622,T=16 icosahedral viral capsid
+1,GO:0098021,"viral capsid, decoration"
+1,GO:0071914,prominosome
+1,GO:0000446,nucleoplasmic THO complex
+1,GO:0005780,extrinsic component of intraperoxisomal membrane
+1,GO:0045273,respiratory chain complex II
+1,GO:0035838,growing cell tip
+1,GO:0030993,axonemal heterotrimeric kinesin-II complex
+1,GO:0061638,CENP-A containing chromatin
+1,GO:1990047,spindle matrix
+1,GO:0070090,metaphase plate
+1,GO:1990234,transferase complex
+1,GO:0070725,Yb body
+1,GO:0017117,single-stranded DNA-dependent ATP-dependent DNA helicase complex
+1,GO:0043528,tRNA (m2G10) methyltransferase complex
+1,GO:0150056,amylin receptor complex 1
+1,GO:1990406,CGRP receptor complex
+1,GO:0005796,Golgi lumen
+1,GO:0042567,insulin-like growth factor ternary complex
+1,GO:0044530,supraspliceosomal complex
+1,GO:1990303,UBR1-RAD6 ubiquitin ligase complex
+1,GO:0005725,intercalary heterochromatin
+1,GO:0005945,6-phosphofructokinase complex
+1,GO:0045271,respiratory chain complex I
+1,GO:0009526,plastid envelope
+1,GO:0042022,interleukin-12 receptor complex
+1,GO:0072536,interleukin-23 receptor complex
+1,GO:0043592,exosporium
+1,GO:0036502,Derlin-1-VIMP complex
+1,GO:0042764,ascospore-type prospore
+1,GO:1990860,Pho85-Pho80 CDK-cyclin complex
+1,GO:0031942,i-AAA complex
+1,GO:1990873,intrinsic component of plasma membrane of cell tip
+1,GO:0032178,medial membrane band
+1,GO:0035839,non-growing cell tip
+1,GO:0035842,old cell tip after activation of bipolar cell growth
+1,GO:0005731,nucleolus organizer region
+1,GO:0031264,death-inducing signaling complex
+1,GO:0035692,macrophage migration inhibitory factor receptor complex
+1,GO:0034657,GID complex
+1,GO:0101031,chaperone complex
+1,GO:0070876,SOSS complex
+1,GO:1990811,MWP complex
+1,GO:0097587,MutLgamma complex
+1,GO:0032390,MutLbeta complex
+1,GO:0005715,late recombination nodule
+1,GO:1990421,nuclear subtelomeric heterochromatin
+1,GO:0097208,alveolar lamellar body
+1,GO:0140261,BCOR complex
+1,GO:0001400,mating projection base
+1,GO:0061645,endocytic patch
+1,GO:0032936,SREBP-SCAP complex
+1,GO:0034702,ion channel complex
+1,GO:0001740,Barr body
+1,GO:0044545,NSL complex
+1,GO:0042629,mast cell granule
+1,GO:0044798,nuclear transcription factor complex
+1,GO:0005701,polytene chromosome chromocenter
+1,GO:0000133,polarisome
+1,GO:0097637,integral component of autophagosome membrane
+1,GO:1902937,inward rectifier potassium channel complex
+1,GO:1990712,HFE-transferrin receptor complex
+1,GO:0080085,"signal recognition particle, chloroplast targeting"
+1,GO:0098549,somatic ring canal
+1,GO:0035323,male germline ring canal
+1,GO:0035324,female germline ring canal
+1,GO:0098894,extrinsic component of presynaptic endocytic zone membrane
+1,GO:0000801,central element
+1,GO:0042824,MHC class I peptide loading complex
+1,GO:1990716,axonemal central apparatus
+1,GO:0031680,G-protein beta/gamma-subunit complex
+1,GO:0120171,Cdc24p-Far1p-Gbetagamma complex
+1,GO:0071665,gamma-catenin-TCF7L2 complex
+1,GO:0010330,cellulose synthase complex
+1,GO:1990851,Wnt-Frizzled-LRP5/6 complex
+1,GO:0071547,piP-body
+1,GO:0031520,plasma membrane of cell tip
+1,GO:0099026,anchored component of presynaptic membrane
+1,GO:0048189,Lid2 complex
+1,GO:0000791,euchromatin
+1,GO:0031094,platelet dense tubular network
+1,GO:0044300,cerebellar mossy fiber
+1,GO:0031143,pseudopodium
+1,GO:0097443,sorting endosome
+1,GO:0039679,viral occlusion body
+1,GO:0005946,"alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)"
+1,GO:0036019,endolysosome
