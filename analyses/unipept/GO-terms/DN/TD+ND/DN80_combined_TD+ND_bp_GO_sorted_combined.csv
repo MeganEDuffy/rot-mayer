@@ -1,11 +1,12 @@
-GO term,Day 0 ,Day 2 ,Day 5 ,Day 12 
-Binding,1.45,0.71,0.79,0.32
-Methylation,1.29,1.54,1.42,0.21
-Biosynthesis,8.87,6.38,4.57,6.18
-Metabolic process,2.42,1.42,2.52,1.28
-Proteolysis,2.42,1.42,1.1,2.35
-Translation,7.1,5.08,5.36,7.57
-Transport,4.68,5.32,5.05,3.94
-Glycolysis,4.19,1.65,1.1,1.6
-Heat shock,1.77,1.42,1.42,1.28
-Other,14.19,23.64,24.76,22.81
+GO term,Day 0 bac,Day 2 bac,Day 5 bac,Day 12 bac
+Binding,2.9,1.42,1.58,0.64
+Methylation,2.58,3.07,2.84,0.43
+Biosynthesis,17.74,12.77,9.15,12.37
+Metabolic process,4.84,2.84,5.05,2.56
+Proteolysis,4.84,2.84,2.21,4.69
+Translation,14.19,10.17,10.73,15.14
+Transport,9.35,10.64,10.09,7.89
+Glycolysis,8.39,3.31,2.21,3.2
+Heat shock,3.55,2.84,2.84,2.56
+Signal transduction,3.23,2.84,3.79,4.9
+Other,28.39,47.28,49.53,45.63
