@@ -1,9 +1,9 @@
 GO term,Day 0 TD,Day 2 TD,Day 5 TD,Day 12 TD,Day 0 ND,Day 2 ND,Day 5 ND,Day 12 ND
 Chloroplast,270,314,182,172,100,256,105,71
-Membrane,256,202,129,105,82,133,43,25
+Cell membrane,256,202,129,105,82,133,43,25
 Mitochondria,99,127,9,8,12,66,,
-Endoplasmic ,42,49,1,,,16,,
-Golgi,45,1,,,,30,,
-Ribosome,64,113,9,,27,41,,
-Nucleus,19,35,6,,10,16,,
+Endoplasmic,42,49,1,16,,,,
+Golgi,45,1,30,,,,,
+Ribosome,64,113,9,27,41,,,
+Nucleus,19,35,6,10,16,,,
 Cytoplasm,148,281,8,2,45,76,11,
